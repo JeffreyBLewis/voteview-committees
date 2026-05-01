@@ -1,0 +1,58 @@
+name: Daily data update
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # 06:00 UTC every day
+  workflow_dispatch:      # allow manual trigger from the GitHub UI
+
+# Prevent overlapping runs if a previous one is still in progress.
+concurrency:
+  group: daily-update
+  cancel-in-progress: false
+
+# Needed to push snapshot and CSV updates back to the repo.
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install Poetry
+        uses: snok/install-poetry@v1
+        with:
+          virtualenvs-in-project: true   # puts .venv in repo root for easy caching
+
+      - name: Cache virtualenv
+        uses: actions/cache@v4
+        with:
+          path: .venv
+          key: venv-${{ runner.os }}-${{ hashFiles('poetry.lock') }}
+          restore-keys: venv-${{ runner.os }}-
+
+      - name: Install dependencies
+        run: poetry install --no-interaction
+
+      - name: Fetch latest data and rebuild stale CSVs
+        run: make all
+
+      - name: Commit and push any changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "No changes — skipping commit."
+          else
+            git commit -m "chore: daily data update $(date -u +'%Y-%m-%d')"
+            git push
+          fi
