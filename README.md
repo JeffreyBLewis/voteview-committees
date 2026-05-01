@@ -37,8 +37,8 @@ Last date on which a change in the committee roster was detected by the daily up
 
 | Chamber | Last roster change |
 |---|---|
-| House | <!-- house-roster-date -->never<!-- /house-roster-date --> |
-| Senate | <!-- senate-roster-date -->never<!-- /senate-roster-date --> |
+| House | <!-- house-roster-date -->2026-05-01<!-- /house-roster-date --> |
+| Senate | <!-- senate-roster-date -->2026-05-01<!-- /senate-roster-date --> |
 
 ## Data sources
 
