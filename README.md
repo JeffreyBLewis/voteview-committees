@@ -31,6 +31,15 @@ Builds **committee spell data** for the U.S. House and Senate — one row per me
 
 Senate spells also include `senator_class` and `position`. House spells also include `district`, `committee_rank`, `role`, `cr_citation`, and `resignation_date`.
 
+## Data currency
+
+Last date on which a change in the committee roster was detected by the daily update:
+
+| Chamber | Last roster change |
+|---|---|
+| House | <!-- house-roster-date -->never<!-- /house-roster-date --> |
+| Senate | <!-- senate-roster-date -->never<!-- /senate-roster-date --> |
+
 ## Data sources
 
 | Source | Used for |

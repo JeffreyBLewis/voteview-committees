@@ -47,13 +47,27 @@ jobs:
 
       - name: Download election resolutions and resignations (if roster changed)
         run: |
-          new_snapshots=$(git ls-files --others --exclude-standard \
-            -- 'House/MemberData_snapshots/*.xml.gz' \
-               'Senate/SenateCommittees_snapshots/*.xml' \
+          new_house=$(git ls-files --others --exclude-standard \
+            -- 'House/MemberData_snapshots/*.xml.gz')
+          new_senate=$(git ls-files --others --exclude-standard \
+            -- 'Senate/SenateCommittees_snapshots/*.xml' \
                'Senate/SenatorData_snapshots/*.xml')
-          if [ -n "$new_snapshots" ]; then
-            echo "Roster changed — new snapshots:"
-            echo "$new_snapshots"
+
+          TODAY=$(date -u +'%Y-%m-%d')
+
+          if [ -n "$new_house" ]; then
+            echo "House roster changed — new snapshots:"
+            echo "$new_house"
+            sed -i "s|<!-- house-roster-date -->.*<!-- /house-roster-date -->|<!-- house-roster-date -->${TODAY}<!-- /house-roster-date -->|" README.md
+          fi
+
+          if [ -n "$new_senate" ]; then
+            echo "Senate roster changed — new snapshots:"
+            echo "$new_senate"
+            sed -i "s|<!-- senate-roster-date -->.*<!-- /senate-roster-date -->|<!-- senate-roster-date -->${TODAY}<!-- /senate-roster-date -->|" README.md
+          fi
+
+          if [ -n "$new_house" ] || [ -n "$new_senate" ]; then
             make download-elections download-resignations
           else
             echo "No roster changes detected — skipping election/resignation download."
