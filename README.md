@@ -17,7 +17,7 @@ Builds **committee spell data** for the U.S. House and Senate — one row per me
 |---|---|
 | `congress` | Congress number |
 | `start_date` | First day of committee service |
-| `start_date_imputed` | True if start date came from a snapshot rather than an election resolution |
+| `start_date_imputed` | True if start date came from a roster snapshot rather than an election resolution |
 | `end_date` | Last day of committee service |
 | `departure_reason` | `died`, `resigned`, or `expelled` if the member left the chamber mid-congress |
 | `bioguide_id` | [Biographical Directory](https://bioguide.congress.gov) identifier |
