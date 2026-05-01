@@ -28,6 +28,7 @@ Output: committee_spells.csv
 """
 
 import csv
+import gzip
 import json
 import re
 import xml.etree.ElementTree as ET
@@ -151,7 +152,7 @@ def parse_snapshots():
     member_info: dict[str, dict] = {}
     obs: list[tuple] = []
 
-    files = sorted(SNAPSHOT_DIR.glob("MemberData_*.xml"))
+    files = sorted(SNAPSHOT_DIR.glob("MemberData_*.xml.gz"))
     print(f"  Parsing {len(files)} snapshots …", flush=True)
 
     for path in files:
@@ -161,7 +162,8 @@ def parse_snapshots():
             continue
 
         try:
-            tree = ET.parse(path)
+            with gzip.open(path, "rb") as fh:
+                tree = ET.parse(fh)
         except ET.ParseError as exc:
             print(f"    XML error {path.name}: {exc}")
             continue
@@ -257,9 +259,10 @@ def load_predecessor_info():
     """
     pred_info: dict[tuple, dict] = {}
 
-    for path in sorted(SNAPSHOT_DIR.glob("MemberData_*.xml")):
+    for path in sorted(SNAPSHOT_DIR.glob("MemberData_*.xml.gz")):
         try:
-            root = ET.parse(path).getroot()
+            with gzip.open(path, "rb") as fh:
+                root = ET.parse(fh).getroot()
         except ET.ParseError:
             continue
 

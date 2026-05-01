@@ -1,7 +1,5 @@
-# Large snapshot directories — re-fetch with: make download
-House/MemberData_snapshots/
-
-# Intermediate/raw data files
+# Uncompressed snapshots — stored as .xml.gz; these should not appear
+House/MemberData_snapshots/*.xml
 House/house_committee_roster_data.csv
 
 # Claude Code local settings (may contain credentials)

@@ -13,6 +13,7 @@ Usage:
 """
 
 import csv
+import gzip
 import json
 import re
 import argparse
@@ -21,7 +22,7 @@ from pathlib import Path
 from datetime import datetime
 
 SNAPSHOT_DIR  = Path("MemberData_snapshots")
-OUTPUT_CSV    = Path("house_committee_roster_data.csv")
+OUTPUT_CSV    = Path("house_committee_roster_data.csv.gz")
 COMMITTEE_CODES_FILE = Path(__file__).parent / "house_committee_codes.json"
 
 
@@ -82,14 +83,15 @@ def txt(element, tag, default=""):
 
 def parse_file(path: Path, committee_names: dict = {}):
     """Yield one dict per (member, committee) from a single snapshot XML file."""
-    timestamp = re.search(r"MemberData_(\d+)\.xml", path.name)
+    timestamp = re.search(r"MemberData_(\d+)", path.name)
     if not timestamp:
         return
     ts = timestamp.group(1)
     snap_date = datetime.strptime(ts[:8], "%Y%m%d").strftime("%Y-%m-%d")
 
     try:
-        tree = ET.parse(path)
+        with gzip.open(path, "rb") as fh:
+            tree = ET.parse(fh)
     except ET.ParseError as exc:
         print(f"  PARSE ERROR in {path.name}: {exc}")
         return
@@ -193,16 +195,16 @@ def main():
     in_dir  = Path(args.input)
     out_csv = Path(args.output)
 
-    xml_files = sorted(in_dir.glob("MemberData_*.xml"))
+    xml_files = sorted(in_dir.glob("MemberData_*.xml.gz"))
     if not xml_files:
-        raise SystemExit(f"No MemberData_*.xml files found in {in_dir}")
+        raise SystemExit(f"No MemberData_*.xml.gz files found in {in_dir}")
 
     committee_names = load_committee_names()
     print(f"Loaded {len(committee_names)} committee name mappings.")
     print(f"Parsing {len(xml_files)} snapshot files -> {out_csv}\n")
 
     total_rows = 0
-    with out_csv.open("w", newline="", encoding="utf-8") as fh:
+    with gzip.open(out_csv, "wt", encoding="utf-8", newline="") as fh:
         writer = csv.DictWriter(fh, fieldnames=FIELDNAMES)
         writer.writeheader()
 

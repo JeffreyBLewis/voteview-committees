@@ -14,6 +14,7 @@ Output:
     MemberData_snapshots/MemberData_YYYYMMDDHHMMSS.xml  (only when changed)
 """
 
+import gzip
 import hashlib
 import re
 import sys
@@ -33,15 +34,17 @@ def fetch_current() -> bytes:
 
 
 def content_hash(raw: bytes) -> str:
-    """SHA-256 of XML content with publish-date stripped (avoids false positives)."""
+    """SHA-256 of XML content with publish-date stripped (decompresses gzip first)."""
+    if raw[:2] == b"\x1f\x8b":
+        raw = gzip.decompress(raw)
     text = raw.decode("utf-8", errors="replace")
     text = re.sub(r'\s*publish-date="[^"]*"', "", text)
     return hashlib.sha256(text.encode("utf-8")).hexdigest()
 
 
 def latest_snapshot(output_dir: Path):
-    """Return (path, hash) for the most recent MemberData_*.xml, or (None, None)."""
-    files = sorted(output_dir.glob("MemberData_*.xml"))
+    """Return (path, hash) for the most recent MemberData_*.xml.gz, or (None, None)."""
+    files = sorted(output_dir.glob("MemberData_*.xml.gz"))
     if not files:
         return None, None
     latest = files[-1]
@@ -70,9 +73,10 @@ def main():
         print("No existing snapshots found — saving.")
 
     timestamp = datetime.now(timezone.utc).strftime("%Y%m%d%H%M%S")
-    dest = OUTPUT_DIR / f"MemberData_{timestamp}.xml"
-    dest.write_bytes(raw)
-    print(f"Saved → {dest.name}  ({len(raw) / 1024:.1f} KB)")
+    dest = OUTPUT_DIR / f"MemberData_{timestamp}.xml.gz"
+    with gzip.open(dest, "wb") as f:
+        f.write(raw)
+    print(f"Saved → {dest.name}  ({dest.stat().st_size / 1024:.1f} KB compressed)")
 
 
 if __name__ == "__main__":

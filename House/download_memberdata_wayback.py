@@ -8,6 +8,7 @@ Usage:
     python3 download_memberdata_wayback.py
 """
 
+import gzip
 import os
 import time
 import argparse
@@ -30,7 +31,8 @@ def fetch_snapshot(archive_url: str, dest_path: Path, session: requests.Session,
         try:
             resp = session.get(archive_url, timeout=60)
             resp.raise_for_status()
-            dest_path.write_bytes(resp.content)
+            with gzip.open(dest_path, "wb") as f:
+                f.write(resp.content)
             return True
         except requests.RequestException as exc:
             print(f"    attempt {attempt}/{retries} failed: {exc}")
@@ -71,7 +73,7 @@ def main():
     for i, snap in enumerate(snapshots, 1):
         timestamp = snap.timestamp          # e.g. "20050301120000"
         archive_url = snap.archive_url      # https://web.archive.org/web/<ts>/<original>
-        dest = out_dir / f"MemberData_{timestamp}.xml"
+        dest = out_dir / f"MemberData_{timestamp}.xml.gz"
 
         print(f"[{i:4d}/{len(snapshots)}] {timestamp}", end="  ")
 

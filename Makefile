@@ -28,7 +28,7 @@ SENATE_ELEC   = $(SENATE)/senate_elections.csv
 SENATE_SPELLS = $(SENATE)/senate_committee_spells.csv
 
 # ── Inputs for timestamp-based dependency tracking ────────────────────────────
-HOUSE_SNAPS       = $(wildcard $(HOUSE)/MemberData_snapshots/*.xml)
+HOUSE_SNAPS       = $(wildcard $(HOUSE)/MemberData_snapshots/*.xml.gz)
 SENATE_COMM_SNAPS = $(wildcard $(SENATE)/SenateCommittees_snapshots/*.xml)
 SENATE_SEN_SNAPS  = $(wildcard $(SENATE)/SenatorData_snapshots/*.xml)
 SENATE_ELEC_SRC   = $(wildcard $(SENATE)/senate_committee_elections_xml/*.xml) \
