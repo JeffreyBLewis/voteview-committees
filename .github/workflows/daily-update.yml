@@ -42,8 +42,27 @@ jobs:
       - name: Install dependencies
         run: poetry install --no-interaction
 
-      - name: Fetch latest data and rebuild stale CSVs
-        run: make all
+      - name: Fetch latest roster snapshots
+        run: make download
+
+      - name: Download election resolutions and resignations (if roster changed)
+        run: |
+          new_snapshots=$(git ls-files --others --exclude-standard \
+            -- 'House/MemberData_snapshots/*.xml.gz' \
+               'Senate/SenateCommittees_snapshots/*.xml' \
+               'Senate/SenatorData_snapshots/*.xml')
+          if [ -n "$new_snapshots" ]; then
+            echo "Roster changed — new snapshots:"
+            echo "$new_snapshots"
+            make download-elections download-resignations
+          else
+            echo "No roster changes detected — skipping election/resignation download."
+          fi
+        env:
+          CONGRESS_GOV_API_KEY: ${{ secrets.CONGRESS_GOV_API_KEY }}
+
+      - name: Rebuild stale CSVs
+        run: make spells
 
       - name: Commit and push any changes
         run: |

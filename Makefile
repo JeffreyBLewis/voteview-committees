@@ -2,14 +2,18 @@
 #
 # Targets
 # -------
-#   all              (default) Fetch latest data, then rebuild any CSV that is
-#                    out-of-date with respect to its inputs.
-#   download         Fetch new snapshots from live sources only; do not rebuild.
-#   spells           Rebuild stale CSVs from current inputs; do not fetch.
-#   house-spells     Rebuild House/committee_spells.csv if inputs changed.
-#   senate-spells    Rebuild Senate/senate_committee_spells.csv if inputs changed.
-#   senate-elections Reparse Senate/senate_elections.csv from election XMLs.
-#   clean            Remove all generated CSV outputs.
+#   all                  (default) Fetch latest data, then rebuild any CSV that is
+#                        out-of-date with respect to its inputs.
+#   download             Fetch new snapshots from live sources only; do not rebuild.
+#   download-elections   Download (and parse) H.Res and S.Res committee assignments
+#                        from congress.gov; run only when roster changes.
+#   download-resignations Download (and parse) CR resignation references from GovInfo;
+#                        run only when roster changes.
+#   spells               Rebuild stale CSVs from current inputs; do not fetch.
+#   house-spells         Rebuild House/committee_spells.csv if inputs changed.
+#   senate-spells        Rebuild Senate/senate_committee_spells.csv if inputs changed.
+#   senate-elections     Reparse Senate/senate_elections.csv from election XMLs.
+#   clean                Remove all generated CSV outputs.
 #
 # How "only if necessary" works
 # ------------------------------
@@ -36,7 +40,7 @@ SENATE_ELEC_SRC   = $(wildcard $(SENATE)/senate_committee_elections_xml/*.xml) \
 
 # ─────────────────────────────────────────────────────────────────────────────
 .DEFAULT_GOAL := all
-.PHONY: all install download spells house-spells senate-spells senate-elections clean
+.PHONY: all install download download-elections download-resignations spells house-spells senate-spells senate-elections clean
 
 # Install Python dependencies via Poetry (run once, or after pyproject.toml changes).
 install:
@@ -55,6 +59,23 @@ download:
 	@echo ""
 	@echo "=== Senate: checking for snapshot updates ==="
 	cd $(SENATE) && $(PYTHON) update_senate_snapshots.py
+
+# ── Fetch election resolutions and resignations (run when roster changes) ─────
+# Requires CONGRESS_GOV_API_KEY to be set in the environment.
+download-elections:
+	@echo "=== House: downloading committee election resolutions ==="
+	cd $(HOUSE) && $(PYTHON) download_committee_elections.py
+	@echo "=== House: parsing elections.csv ==="
+	cd $(HOUSE) && $(PYTHON) parse_committee_elections.py
+	@echo ""
+	@echo "=== Senate: downloading committee election resolutions ==="
+	cd $(SENATE) && $(PYTHON) download_senate_committee_elections.py
+
+download-resignations:
+	@echo "=== House: downloading CR resignation references ==="
+	$(PYTHON) $(HOUSE)/download_cr_resignations.py
+	@echo "=== House: parsing resignations.csv ==="
+	cd $(HOUSE) && $(PYTHON) parse_cr_resignations.py
 
 # ── Rebuild stale outputs ─────────────────────────────────────────────────────
 spells: $(HOUSE_SPELLS) $(SENATE_SPELLS)

@@ -1,5 +1,7 @@
 # VoteView Committee Spells
 
+> **Development code — no warranty.** This repository is research software under active development. Outputs are provided as-is, without any guarantee of completeness, accuracy, or fitness for a particular purpose. Verify results against primary sources before relying on them.
+
 Builds **committee spell data** for the U.S. House and Senate — one row per member × committee × congress — covering the 114th–119th Congresses (House) and 108th–119th Congresses (Senate).
 
 ## Outputs
