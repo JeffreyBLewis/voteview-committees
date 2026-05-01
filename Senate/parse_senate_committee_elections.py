@@ -72,6 +72,27 @@ _ROLE_MAP = {
     "exofficio":      "Ex Officio",
 }
 
+# State names and postal abbreviations that appear in parentheses to disambiguate
+# senators with the same surname (e.g. "Mr. Nelson (Nebraska)" vs "Mr. Nelson (Florida)").
+# These are NOT roles — keep them as part of the member name.
+_STATE_QUALIFIERS = {
+    "alabama", "alaska", "arizona", "arkansas", "california", "colorado",
+    "connecticut", "delaware", "florida", "georgia", "hawaii", "idaho",
+    "illinois", "indiana", "iowa", "kansas", "kentucky", "louisiana",
+    "maine", "maryland", "massachusetts", "michigan", "minnesota",
+    "mississippi", "missouri", "montana", "nebraska", "nevada",
+    "new hampshire", "new jersey", "new mexico", "new york",
+    "north carolina", "north dakota", "ohio", "oklahoma", "oregon",
+    "pennsylvania", "rhode island", "south carolina", "south dakota",
+    "tennessee", "texas", "utah", "vermont", "virginia", "washington",
+    "west virginia", "wisconsin", "wyoming",
+    "al", "ak", "az", "ar", "ca", "co", "ct", "de", "fl", "ga",
+    "hi", "id", "il", "in", "ia", "ks", "ky", "la", "me", "md",
+    "ma", "mi", "mn", "ms", "mo", "mt", "ne", "nv", "nh", "nj",
+    "nm", "ny", "nc", "nd", "oh", "ok", "or", "pa", "ri", "sc",
+    "sd", "tn", "tx", "ut", "vt", "va", "wa", "wv", "wi", "wy",
+}
+
 _TITLE_RE = re.compile(
     r"(?:Mr\.|Ms\.|Mrs\.|Miss\.|Dr\.)\s",
     re.IGNORECASE,
@@ -86,6 +107,7 @@ def parse_senate_member_text(text):
       "Ms. Klobuchar (Ranking), Mr. Bennet, Mr. Durbin"
       "Mr. Leahy (Chairman), Mr. Pryor, and Mr. Kerrey of Nebraska"
       "Mr. Reed (ex officio), Mr. Schumer (ex officio)"
+      "Mr. Nelson (Nebraska), Mr. Nelson (Florida)"  — state qualifiers kept in name
     """
     if not text:
         return []
@@ -108,13 +130,18 @@ def parse_senate_member_text(text):
         if not part:
             continue
 
-        # Extract parenthetical role at end of name
+        # Extract parenthetical at end of name
         role = ""
         m = re.search(r"\s*\(([^)]+)\)\s*$", part)
         if m:
-            role_raw = m.group(1).strip()
-            role = _ROLE_MAP.get(role_raw.lower(), role_raw)
-            part = part[: m.start()].strip()
+            raw = m.group(1).strip()
+            if raw.lower() in _STATE_QUALIFIERS:
+                # State qualifier — leave it in the member name for disambiguation;
+                # lastname_variants() in the spell builder strips it when matching.
+                pass
+            else:
+                role = _ROLE_MAP.get(raw.lower(), raw)
+                part = part[: m.start()].strip()
 
         if part:
             result.append((part, role))

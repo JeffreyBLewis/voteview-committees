@@ -2386,7 +2386,7 @@ congress,date,resolution,party_designation,committee,member,rank,role
 110,2007-01-12,S.Res.27,majority,"Agriculture, Nutrition, and Forestry",Mr. Baucus,4,
 110,2007-01-12,S.Res.27,majority,"Agriculture, Nutrition, and Forestry",Mrs. Lincoln,5,
 110,2007-01-12,S.Res.27,majority,"Agriculture, Nutrition, and Forestry",Ms. Stabenow,6,
-110,2007-01-12,S.Res.27,majority,"Agriculture, Nutrition, and Forestry",Mr. Nelson,7,Nebraska
+110,2007-01-12,S.Res.27,majority,"Agriculture, Nutrition, and Forestry",Mr. Nelson (Nebraska),7,
 110,2007-01-12,S.Res.27,majority,"Agriculture, Nutrition, and Forestry",Mr. Salazar,8,
 110,2007-01-12,S.Res.27,majority,"Agriculture, Nutrition, and Forestry",Mr. Brown,9,
 110,2007-01-12,S.Res.27,majority,"Agriculture, Nutrition, and Forestry",Mr. Casey,10,
@@ -2405,15 +2405,15 @@ congress,date,resolution,party_designation,committee,member,rank,role
 110,2007-01-12,S.Res.27,majority,Appropriations,Ms. Landrieu,12,
 110,2007-01-12,S.Res.27,majority,Appropriations,Mr. Reed,13,
 110,2007-01-12,S.Res.27,majority,Appropriations,Mr. Lautenberg,14,
-110,2007-01-12,S.Res.27,majority,Appropriations,Mr. Nelson,15,Nebraska
+110,2007-01-12,S.Res.27,majority,Appropriations,Mr. Nelson (Nebraska),15,
 110,2007-01-12,S.Res.27,majority,Armed Services,Mr. Levin,1,Chairman
 110,2007-01-12,S.Res.27,majority,Armed Services,Mr. Kennedy,2,
 110,2007-01-12,S.Res.27,majority,Armed Services,Mr. Byrd,3,
 110,2007-01-12,S.Res.27,majority,Armed Services,Mr. Lieberman,4,
 110,2007-01-12,S.Res.27,majority,Armed Services,Mr. Reed,5,
 110,2007-01-12,S.Res.27,majority,Armed Services,Mr. Akaka,6,
-110,2007-01-12,S.Res.27,majority,Armed Services,Mr. Nelson,7,Florida
-110,2007-01-12,S.Res.27,majority,Armed Services,Mr. Nelson,8,Nebraska
+110,2007-01-12,S.Res.27,majority,Armed Services,Mr. Nelson (Florida),7,
+110,2007-01-12,S.Res.27,majority,Armed Services,Mr. Nelson (Nebraska),8,
 110,2007-01-12,S.Res.27,majority,Armed Services,Mr. Bayh,9,
 110,2007-01-12,S.Res.27,majority,Armed Services,Mrs. Clinton,10,
 110,2007-01-12,S.Res.27,majority,Armed Services,Mr. Pryor,11,
@@ -2435,7 +2435,7 @@ congress,date,resolution,party_designation,committee,member,rank,role
 110,2007-01-12,S.Res.27,majority,"Commerce, Science, and Transportation",Mr. Kerry,3,
 110,2007-01-12,S.Res.27,majority,"Commerce, Science, and Transportation",Mr. Dorgan,4,
 110,2007-01-12,S.Res.27,majority,"Commerce, Science, and Transportation",Mrs. Boxer,5,
-110,2007-01-12,S.Res.27,majority,"Commerce, Science, and Transportation",Mr. Nelson,6,Florida
+110,2007-01-12,S.Res.27,majority,"Commerce, Science, and Transportation",Mr. Nelson (Florida),6,
 110,2007-01-12,S.Res.27,majority,"Commerce, Science, and Transportation",Ms. Cantwell,7,
 110,2007-01-12,S.Res.27,majority,"Commerce, Science, and Transportation",Mr. Lautenberg,8,
 110,2007-01-12,S.Res.27,majority,"Commerce, Science, and Transportation",Mr. Pryor,9,
@@ -2480,7 +2480,7 @@ congress,date,resolution,party_designation,committee,member,rank,role
 110,2007-01-12,S.Res.27,majority,Foreign Relations,Mr. Kerry,3,
 110,2007-01-12,S.Res.27,majority,Foreign Relations,Mr. Feingold,4,
 110,2007-01-12,S.Res.27,majority,Foreign Relations,Mrs. Boxer,5,
-110,2007-01-12,S.Res.27,majority,Foreign Relations,Mr. Nelson,6,Florida
+110,2007-01-12,S.Res.27,majority,Foreign Relations,Mr. Nelson (Florida),6,
 110,2007-01-12,S.Res.27,majority,Foreign Relations,Mr. Obama,7,
 110,2007-01-12,S.Res.27,majority,Foreign Relations,Mr. Menendez,8,
 110,2007-01-12,S.Res.27,majority,Foreign Relations,Mr. Cardin,9,
@@ -2522,7 +2522,7 @@ congress,date,resolution,party_designation,committee,member,rank,role
 110,2007-01-12,S.Res.27,majority,Select Committee on Intelligence,Mr. Bayh,4,
 110,2007-01-12,S.Res.27,majority,Select Committee on Intelligence,Ms. Mikulski,5,
 110,2007-01-12,S.Res.27,majority,Select Committee on Intelligence,Mr. Feingold,6,
-110,2007-01-12,S.Res.27,majority,Select Committee on Intelligence,Mr. Nelson,7,Florida
+110,2007-01-12,S.Res.27,majority,Select Committee on Intelligence,Mr. Nelson (Florida),7,
 110,2007-01-12,S.Res.27,majority,Select Committee on Intelligence,Mr. Whitehouse,8,
 110,2007-01-12,S.Res.27,majority,Select Committee on Intelligence,Mr. Levin,9,Ex Officio
 110,2007-01-12,S.Res.27,majority,Budget,Mr. Conrad,1,Chairman
@@ -2530,7 +2530,7 @@ congress,date,resolution,party_designation,committee,member,rank,role
 110,2007-01-12,S.Res.27,majority,Budget,Mr. Wyden,3,
 110,2007-01-12,S.Res.27,majority,Budget,Mr. Feingold,4,
 110,2007-01-12,S.Res.27,majority,Budget,Mr. Byrd,5,
-110,2007-01-12,S.Res.27,majority,Budget,Mr. Nelson,6,Florida
+110,2007-01-12,S.Res.27,majority,Budget,Mr. Nelson (Florida),6,
 110,2007-01-12,S.Res.27,majority,Budget,Ms. Stabenow,7,
 110,2007-01-12,S.Res.27,majority,Budget,Mr. Menendez,8,
 110,2007-01-12,S.Res.27,majority,Budget,Mr. Cardin,9,
@@ -2543,7 +2543,7 @@ congress,date,resolution,party_designation,committee,member,rank,role
 110,2007-01-12,S.Res.27,majority,Rules and Administration,Mr. Inouye,4,
 110,2007-01-12,S.Res.27,majority,Rules and Administration,Mr. Schumer,5,
 110,2007-01-12,S.Res.27,majority,Rules and Administration,Mr. Durbin,6,
-110,2007-01-12,S.Res.27,majority,Rules and Administration,Mr. Nelson,7,Nebraska
+110,2007-01-12,S.Res.27,majority,Rules and Administration,Mr. Nelson (Nebraska),7,
 110,2007-01-12,S.Res.27,majority,Rules and Administration,Mr. Reid,8,
 110,2007-01-12,S.Res.27,majority,Rules and Administration,Mrs. Murray,9,
 110,2007-01-12,S.Res.27,majority,Rules and Administration,Mr. Pryor,10,
@@ -2570,7 +2570,7 @@ congress,date,resolution,party_designation,committee,member,rank,role
 110,2007-01-12,S.Res.27,majority,Special Committee on Aging,Mrs. Lincoln,3,
 110,2007-01-12,S.Res.27,majority,Special Committee on Aging,Mr. Bayh,4,
 110,2007-01-12,S.Res.27,majority,Special Committee on Aging,Mr. Carper,5,
-110,2007-01-12,S.Res.27,majority,Special Committee on Aging,Mr. Nelson,6,Florida
+110,2007-01-12,S.Res.27,majority,Special Committee on Aging,Mr. Nelson (Florida),6,
 110,2007-01-12,S.Res.27,majority,Special Committee on Aging,Mrs. Clinton,7,
 110,2007-01-12,S.Res.27,majority,Special Committee on Aging,Mr. Salazar,8,
 110,2007-01-12,S.Res.27,majority,Special Committee on Aging,Mr. Casey,9,
@@ -3518,12 +3518,12 @@ congress,date,resolution,party_designation,committee,member,rank,role
 111,2009-09-29,S.Res.290,majority,Armed Services,Mr. Lieberman,3,
 111,2009-09-29,S.Res.290,majority,Armed Services,Mr. Reed,4,
 111,2009-09-29,S.Res.290,majority,Armed Services,Mr. Akaka,5,
-111,2009-09-29,S.Res.290,majority,Armed Services,Mr. Nelson,6,Florida
-111,2009-09-29,S.Res.290,majority,Armed Services,Mr. Nelson,7,Nebraska
+111,2009-09-29,S.Res.290,majority,Armed Services,Mr. Nelson (Florida),6,
+111,2009-09-29,S.Res.290,majority,Armed Services,Mr. Nelson (Nebraska),7,
 111,2009-09-29,S.Res.290,majority,Armed Services,Mr. Bayh,8,
 111,2009-09-29,S.Res.290,majority,Armed Services,Mr. Webb,9,
 111,2009-09-29,S.Res.290,majority,Armed Services,Mrs. McCaskill,10,
-111,2009-09-29,S.Res.290,majority,Armed Services,Mr. Udall,11,Colorado
+111,2009-09-29,S.Res.290,majority,Armed Services,Mr. Udall (Colorado),11,
 111,2009-09-29,S.Res.290,majority,Armed Services,Mrs. Hagan,12,
 111,2009-09-29,S.Res.290,majority,Armed Services,Mr. Begich,13,
 111,2009-09-29,S.Res.290,majority,Armed Services,Mr. Burris,14,
@@ -3563,10 +3563,10 @@ congress,date,resolution,party_designation,committee,member,rank,role
 111,2009-11-06,S.Res.343,majority,RULES AND ADMINISTRATION,Mr. Dodd,4,
 111,2009-11-06,S.Res.343,majority,RULES AND ADMINISTRATION,Mrs. Feinstein,5,
 111,2009-11-06,S.Res.343,majority,RULES AND ADMINISTRATION,Mr. Durbin,6,
-111,2009-11-06,S.Res.343,majority,RULES AND ADMINISTRATION,Mr. Nelson,7,Nebraska
+111,2009-11-06,S.Res.343,majority,RULES AND ADMINISTRATION,Mr. Nelson (Nebraska),7,
 111,2009-11-06,S.Res.343,majority,RULES AND ADMINISTRATION,Mrs. Murray,8,
 111,2009-11-06,S.Res.343,majority,RULES AND ADMINISTRATION,Mr. Pryor,9,
-111,2009-11-06,S.Res.343,majority,RULES AND ADMINISTRATION,Mr. Udall,10,New Mexico
+111,2009-11-06,S.Res.343,majority,RULES AND ADMINISTRATION,Mr. Udall (New Mexico),10,
 111,2009-11-06,S.Res.343,majority,RULES AND ADMINISTRATION,Mr. Warner,11,
 111,2010-03-02,S.Res.429,minority,Armed Services,Mr. McCain,1,
 111,2010-03-02,S.Res.429,minority,Armed Services,Mr. Inhofe,2,
@@ -3645,21 +3645,21 @@ congress,date,resolution,party_designation,committee,member,rank,role
 111,2010-07-22,S.Res.594,majority,Appropriations,Ms. Landrieu,11,
 111,2010-07-22,S.Res.594,majority,Appropriations,Mr. Reed,12,
 111,2010-07-22,S.Res.594,majority,Appropriations,Mr. Lautenberg,13,
-111,2010-07-22,S.Res.594,majority,Appropriations,Mr. Nelson,14,Nebraska
+111,2010-07-22,S.Res.594,majority,Appropriations,Mr. Nelson (Nebraska),14,
 111,2010-07-22,S.Res.594,majority,Appropriations,Mr. Pryor,15,
 111,2010-07-22,S.Res.594,majority,Appropriations,Mr. Tester,16,
 111,2010-07-22,S.Res.594,majority,Appropriations,Mr. Specter,17,
-111,2010-07-22,S.Res.594,majority,Appropriations,Mr. Brown,18,Ohio
+111,2010-07-22,S.Res.594,majority,Appropriations,Mr. Brown (Ohio),18,
 111,2010-07-22,S.Res.594,majority,Armed Services,Mr. Levin,1,Chairman
 111,2010-07-22,S.Res.594,majority,Armed Services,Mr. Lieberman,2,
 111,2010-07-22,S.Res.594,majority,Armed Services,Mr. Reed,3,
 111,2010-07-22,S.Res.594,majority,Armed Services,Mr. Akaka,4,
-111,2010-07-22,S.Res.594,majority,Armed Services,Mr. Nelson,5,Florida
-111,2010-07-22,S.Res.594,majority,Armed Services,Mr. Nelson,6,Nebraska
+111,2010-07-22,S.Res.594,majority,Armed Services,Mr. Nelson (Florida),5,
+111,2010-07-22,S.Res.594,majority,Armed Services,Mr. Nelson (Nebraska),6,
 111,2010-07-22,S.Res.594,majority,Armed Services,Mr. Bayh,7,
 111,2010-07-22,S.Res.594,majority,Armed Services,Mr. Webb,8,
 111,2010-07-22,S.Res.594,majority,Armed Services,Mrs. McCaskill,9,
-111,2010-07-22,S.Res.594,majority,Armed Services,Mr. Udall,10,Colorado
+111,2010-07-22,S.Res.594,majority,Armed Services,Mr. Udall (Colorado),10,
 111,2010-07-22,S.Res.594,majority,Armed Services,Mrs. Hagan,11,
 111,2010-07-22,S.Res.594,majority,Armed Services,Mr. Begich,12,
 111,2010-07-22,S.Res.594,majority,Armed Services,Mr. Burris,13,
@@ -3670,7 +3670,7 @@ congress,date,resolution,party_designation,committee,member,rank,role
 111,2010-07-22,S.Res.594,majority,Budget,Mrs. Murray,2,
 111,2010-07-22,S.Res.594,majority,Budget,Mr. Wyden,3,
 111,2010-07-22,S.Res.594,majority,Budget,Mr. Feingold,4,
-111,2010-07-22,S.Res.594,majority,Budget,Mr. Nelson,5,Florida
+111,2010-07-22,S.Res.594,majority,Budget,Mr. Nelson (Florida),5,
 111,2010-07-22,S.Res.594,majority,Budget,Ms. Stabenow,6,
 111,2010-07-22,S.Res.594,majority,Budget,Mr. Cardin,7,
 111,2010-07-22,S.Res.594,majority,Budget,Mr. Sanders,8,
@@ -3697,22 +3697,22 @@ congress,date,resolution,party_designation,committee,member,rank,role
 111,2010-07-22,S.Res.594,majority,Rules and Administration,Mr. Dodd,3,
 111,2010-07-22,S.Res.594,majority,Rules and Administration,Mrs. Feinstein,4,
 111,2010-07-22,S.Res.594,majority,Rules and Administration,Mr. Durbin,5,
-111,2010-07-22,S.Res.594,majority,Rules and Administration,Mr. Nelson,6,Nebraska
+111,2010-07-22,S.Res.594,majority,Rules and Administration,Mr. Nelson (Nebraska),6,
 111,2010-07-22,S.Res.594,majority,Rules and Administration,Mrs. Murray,7,
 111,2010-07-22,S.Res.594,majority,Rules and Administration,Mr. Pryor,8,
-111,2010-07-22,S.Res.594,majority,Rules and Administration,Mr. Udall,9,New Mexico
+111,2010-07-22,S.Res.594,majority,Rules and Administration,Mr. Udall (New Mexico),9,
 111,2010-07-22,S.Res.594,majority,Rules and Administration,Mr. Warner,10,
 111,2010-07-22,S.Res.594,majority,Rules and Administration,Mr. Goodwin,11,
 111,2010-11-15,S.Res.674,majority,Armed Services,Mr. Levin,1,Chairman
 111,2010-11-15,S.Res.674,majority,Armed Services,Mr. Lieberman,2,
 111,2010-11-15,S.Res.674,majority,Armed Services,Mr. Reed,3,
 111,2010-11-15,S.Res.674,majority,Armed Services,Mr. Akaka,4,
-111,2010-11-15,S.Res.674,majority,Armed Services,Mr. Nelson,5,Florida
-111,2010-11-15,S.Res.674,majority,Armed Services,Mr. Nelson,6,Nebraska
+111,2010-11-15,S.Res.674,majority,Armed Services,Mr. Nelson (Florida),5,
+111,2010-11-15,S.Res.674,majority,Armed Services,Mr. Nelson (Nebraska),6,
 111,2010-11-15,S.Res.674,majority,Armed Services,Mr. Bayh,7,
 111,2010-11-15,S.Res.674,majority,Armed Services,Mr. Webb,8,
 111,2010-11-15,S.Res.674,majority,Armed Services,Mrs. McCaskill,9,
-111,2010-11-15,S.Res.674,majority,Armed Services,Mr. Udall,10,Colorado
+111,2010-11-15,S.Res.674,majority,Armed Services,Mr. Udall (Colorado),10,
 111,2010-11-15,S.Res.674,majority,Armed Services,Mrs. Hagan,11,
 111,2010-11-15,S.Res.674,majority,Armed Services,Mr. Begich,12,
 111,2010-11-15,S.Res.674,majority,Armed Services,Mr. Burris,13,
@@ -3723,7 +3723,7 @@ congress,date,resolution,party_designation,committee,member,rank,role
 111,2010-11-15,S.Res.674,majority,Budget,Mrs. Murray,2,
 111,2010-11-15,S.Res.674,majority,Budget,Mr. Wyden,3,
 111,2010-11-15,S.Res.674,majority,Budget,Mr. Feingold,4,
-111,2010-11-15,S.Res.674,majority,Budget,Mr. Nelson,5,Florida
+111,2010-11-15,S.Res.674,majority,Budget,Mr. Nelson (Florida),5,
 111,2010-11-15,S.Res.674,majority,Budget,Ms. Stabenow,6,
 111,2010-11-15,S.Res.674,majority,Budget,Mr. Cardin,7,
 111,2010-11-15,S.Res.674,majority,Budget,Mr. Sanders,8,
@@ -3783,10 +3783,10 @@ congress,date,resolution,party_designation,committee,member,rank,role
 111,2010-11-15,S.Res.674,majority,Rules and Administration,Mr. Dodd,3,
 111,2010-11-15,S.Res.674,majority,Rules and Administration,Mrs. Feinstein,4,
 111,2010-11-15,S.Res.674,majority,Rules and Administration,Mr. Durbin,5,
-111,2010-11-15,S.Res.674,majority,Rules and Administration,Mr. Nelson,6,Nebraska
+111,2010-11-15,S.Res.674,majority,Rules and Administration,Mr. Nelson (Nebraska),6,
 111,2010-11-15,S.Res.674,majority,Rules and Administration,Mrs. Murray,7,
 111,2010-11-15,S.Res.674,majority,Rules and Administration,Mr. Pryor,8,
-111,2010-11-15,S.Res.674,majority,Rules and Administration,Mr. Udall,9,New Mexico
+111,2010-11-15,S.Res.674,majority,Rules and Administration,Mr. Udall (New Mexico),9,
 111,2010-11-15,S.Res.674,majority,Rules and Administration,Mr. Warner,10,
 111,2010-11-15,S.Res.674,majority,Rules and Administration,Mr. Manchin,11,
 111,2010-12-07,S.Res.696,minority,Armed Services,Mr. McCain,1,
@@ -3822,8 +3822,8 @@ congress,date,resolution,party_designation,committee,member,rank,role
 112,2011-02-03,S.Res.42,majority,"Agriculture, Nutrition, and Forestry",Mr. Harkin,3,
 112,2011-02-03,S.Res.42,majority,"Agriculture, Nutrition, and Forestry",Mr. Conrad,4,
 112,2011-02-03,S.Res.42,majority,"Agriculture, Nutrition, and Forestry",Mr. Baucus,5,
-112,2011-02-03,S.Res.42,majority,"Agriculture, Nutrition, and Forestry",Mr. Nelson,6,Nebraska
-112,2011-02-03,S.Res.42,majority,"Agriculture, Nutrition, and Forestry",Mr. Brown,7,Ohio
+112,2011-02-03,S.Res.42,majority,"Agriculture, Nutrition, and Forestry",Mr. Nelson (Nebraska),6,
+112,2011-02-03,S.Res.42,majority,"Agriculture, Nutrition, and Forestry",Mr. Brown (Ohio),7,
 112,2011-02-03,S.Res.42,majority,"Agriculture, Nutrition, and Forestry",Mr. Casey,8,
 112,2011-02-03,S.Res.42,majority,"Agriculture, Nutrition, and Forestry",Ms. Klobuchar,9,
 112,2011-02-03,S.Res.42,majority,"Agriculture, Nutrition, and Forestry",Mr. Bennet,10,
@@ -3836,22 +3836,22 @@ congress,date,resolution,party_designation,committee,member,rank,role
 112,2011-02-03,S.Res.42,majority,Appropriations,Mrs. Murray,6,
 112,2011-02-03,S.Res.42,majority,Appropriations,Mrs. Feinstein,7,
 112,2011-02-03,S.Res.42,majority,Appropriations,Mr. Durbin,8,
-112,2011-02-03,S.Res.42,majority,Appropriations,Mr. Johnson,9,South Dakota
+112,2011-02-03,S.Res.42,majority,Appropriations,Mr. Johnson (South Dakota),9,
 112,2011-02-03,S.Res.42,majority,Appropriations,Ms. Landrieu,10,
 112,2011-02-03,S.Res.42,majority,Appropriations,Mr. Reed,11,
 112,2011-02-03,S.Res.42,majority,Appropriations,Mr. Lautenberg,12,
-112,2011-02-03,S.Res.42,majority,Appropriations,Mr. Nelson,13,Nebraska
+112,2011-02-03,S.Res.42,majority,Appropriations,Mr. Nelson (Nebraska),13,
 112,2011-02-03,S.Res.42,majority,Appropriations,Mr. Pryor,14,
 112,2011-02-03,S.Res.42,majority,Appropriations,Mr. Tester,15,
-112,2011-02-03,S.Res.42,majority,Appropriations,Mr. Brown,16,Ohio
+112,2011-02-03,S.Res.42,majority,Appropriations,Mr. Brown (Ohio),16,
 112,2011-02-03,S.Res.42,majority,Armed Services,Mr. Levin,1,Chairman
 112,2011-02-03,S.Res.42,majority,Armed Services,Mr. Lieberman,2,
 112,2011-02-03,S.Res.42,majority,Armed Services,Mr. Reed,3,
 112,2011-02-03,S.Res.42,majority,Armed Services,Mr. Akaka,4,
-112,2011-02-03,S.Res.42,majority,Armed Services,Mr. Nelson,5,Nebraska
+112,2011-02-03,S.Res.42,majority,Armed Services,Mr. Nelson (Nebraska),5,
 112,2011-02-03,S.Res.42,majority,Armed Services,Mr. Webb,6,
 112,2011-02-03,S.Res.42,majority,Armed Services,Mrs. McCaskill,7,
-112,2011-02-03,S.Res.42,majority,Armed Services,Mr. Udall,8,Colorado
+112,2011-02-03,S.Res.42,majority,Armed Services,Mr. Udall (Colorado),8,
 112,2011-02-03,S.Res.42,majority,Armed Services,Mrs. Hagan,9,
 112,2011-02-03,S.Res.42,majority,Armed Services,Mr. Begich,10,
 112,2011-02-03,S.Res.42,majority,Armed Services,Mr. Manchin,11,
@@ -3863,7 +3863,7 @@ congress,date,resolution,party_designation,committee,member,rank,role
 112,2011-02-03,S.Res.42,majority,"Banking, Housing, and Urban Affairs",Mr. Schumer,3,
 112,2011-02-03,S.Res.42,majority,"Banking, Housing, and Urban Affairs",Mr. Menendez,4,
 112,2011-02-03,S.Res.42,majority,"Banking, Housing, and Urban Affairs",Mr. Akaka,5,
-112,2011-02-03,S.Res.42,majority,"Banking, Housing, and Urban Affairs",Mr. Brown,6,Ohio
+112,2011-02-03,S.Res.42,majority,"Banking, Housing, and Urban Affairs",Mr. Brown (Ohio),6,
 112,2011-02-03,S.Res.42,majority,"Banking, Housing, and Urban Affairs",Mr. Tester,7,
 112,2011-02-03,S.Res.42,majority,"Banking, Housing, and Urban Affairs",Mr. Kohl,8,
 112,2011-02-03,S.Res.42,majority,"Banking, Housing, and Urban Affairs",Mr. Warner,9,
@@ -3874,23 +3874,23 @@ congress,date,resolution,party_designation,committee,member,rank,role
 112,2011-02-03,S.Res.42,majority,"Commerce, Science, and Transportation",Mr. Inouye,2,
 112,2011-02-03,S.Res.42,majority,"Commerce, Science, and Transportation",Mr. Kerry,3,
 112,2011-02-03,S.Res.42,majority,"Commerce, Science, and Transportation",Mrs. Boxer,4,
-112,2011-02-03,S.Res.42,majority,"Commerce, Science, and Transportation",Mr. Nelson,5,Florida
+112,2011-02-03,S.Res.42,majority,"Commerce, Science, and Transportation",Mr. Nelson (Florida),5,
 112,2011-02-03,S.Res.42,majority,"Commerce, Science, and Transportation",Ms. Cantwell,6,
 112,2011-02-03,S.Res.42,majority,"Commerce, Science, and Transportation",Mr. Lautenberg,7,
 112,2011-02-03,S.Res.42,majority,"Commerce, Science, and Transportation",Mr. Pryor,8,
 112,2011-02-03,S.Res.42,majority,"Commerce, Science, and Transportation",Mrs. McCaskill,9,
 112,2011-02-03,S.Res.42,majority,"Commerce, Science, and Transportation",Ms. Klobuchar,10,
-112,2011-02-03,S.Res.42,majority,"Commerce, Science, and Transportation",Mr. Udall,11,New Mexico
+112,2011-02-03,S.Res.42,majority,"Commerce, Science, and Transportation",Mr. Udall (New Mexico),11,
 112,2011-02-03,S.Res.42,majority,"Commerce, Science, and Transportation",Mr. Warner,12,
 112,2011-02-03,S.Res.42,majority,"Commerce, Science, and Transportation",Mr. Begich,13,
 112,2011-02-03,S.Res.42,majority,Energy and Natural Resources,Mr. Bingaman,1,Chairman
 112,2011-02-03,S.Res.42,majority,Energy and Natural Resources,Mr. Wyden,2,
-112,2011-02-03,S.Res.42,majority,Energy and Natural Resources,Mr. Johnson,3,South Dakota
+112,2011-02-03,S.Res.42,majority,Energy and Natural Resources,Mr. Johnson (South Dakota),3,
 112,2011-02-03,S.Res.42,majority,Energy and Natural Resources,Ms. Landrieu,4,
 112,2011-02-03,S.Res.42,majority,Energy and Natural Resources,Ms. Cantwell,5,
 112,2011-02-03,S.Res.42,majority,Energy and Natural Resources,Mr. Sanders,6,
 112,2011-02-03,S.Res.42,majority,Energy and Natural Resources,Ms. Stabenow,7,
-112,2011-02-03,S.Res.42,majority,Energy and Natural Resources,Mr. Udall,8,Colorado
+112,2011-02-03,S.Res.42,majority,Energy and Natural Resources,Mr. Udall (Colorado),8,
 112,2011-02-03,S.Res.42,majority,Energy and Natural Resources,Mrs. Shaheen,9,
 112,2011-02-03,S.Res.42,majority,Energy and Natural Resources,Mr. Franken,10,
 112,2011-02-03,S.Res.42,majority,Energy and Natural Resources,Mr. Manchin,11,
@@ -3902,7 +3902,7 @@ congress,date,resolution,party_designation,committee,member,rank,role
 112,2011-02-03,S.Res.42,majority,Environment and Public Works,Mr. Cardin,5,
 112,2011-02-03,S.Res.42,majority,Environment and Public Works,Mr. Sanders,6,
 112,2011-02-03,S.Res.42,majority,Environment and Public Works,Mr. Whitehouse,7,
-112,2011-02-03,S.Res.42,majority,Environment and Public Works,Mr. Udall,8,New Mexico
+112,2011-02-03,S.Res.42,majority,Environment and Public Works,Mr. Udall (New Mexico),8,
 112,2011-02-03,S.Res.42,majority,Environment and Public Works,Mr. Merkley,9,
 112,2011-02-03,S.Res.42,majority,Environment and Public Works,Mrs. Gillibrand,10,
 112,2011-02-03,S.Res.42,majority,Finance,Mr. Baucus,1,Chairman
@@ -3914,7 +3914,7 @@ congress,date,resolution,party_designation,committee,member,rank,role
 112,2011-02-03,S.Res.42,majority,Finance,Mr. Schumer,7,
 112,2011-02-03,S.Res.42,majority,Finance,Ms. Stabenow,8,
 112,2011-02-03,S.Res.42,majority,Finance,Ms. Cantwell,9,
-112,2011-02-03,S.Res.42,majority,Finance,Mr. Nelson,10,Florida
+112,2011-02-03,S.Res.42,majority,Finance,Mr. Nelson (Florida),10,
 112,2011-02-03,S.Res.42,majority,Finance,Mr. Menendez,11,
 112,2011-02-03,S.Res.42,majority,Finance,Mr. Carper,12,
 112,2011-02-03,S.Res.42,majority,Finance,Mr. Cardin,13,
@@ -3927,7 +3927,7 @@ congress,date,resolution,party_designation,committee,member,rank,role
 112,2011-02-03,S.Res.42,majority,Foreign Relations,Mrs. Shaheen,7,
 112,2011-02-03,S.Res.42,majority,Foreign Relations,Mr. Coons,8,
 112,2011-02-03,S.Res.42,majority,Foreign Relations,Mr. Durbin,9,
-112,2011-02-03,S.Res.42,majority,Foreign Relations,Mr. Udall,10,New Mexico
+112,2011-02-03,S.Res.42,majority,Foreign Relations,Mr. Udall (New Mexico),10,
 112,2011-02-03,S.Res.42,majority,"Health, Education, Labor, and Pensions",Mr. Harkin,1,Chairman
 112,2011-02-03,S.Res.42,majority,"Health, Education, Labor, and Pensions",Ms. Mikulski,2,
 112,2011-02-03,S.Res.42,majority,"Health, Education, Labor, and Pensions",Mr. Bingaman,3,
@@ -3963,14 +3963,14 @@ congress,date,resolution,party_designation,committee,member,rank,role
 112,2011-02-03,S.Res.42,majority,Select Committee on Intelligence,Mr. Rockefeller,2,
 112,2011-02-03,S.Res.42,majority,Select Committee on Intelligence,Mr. Wyden,3,
 112,2011-02-03,S.Res.42,majority,Select Committee on Intelligence,Ms. Mikulski,4,
-112,2011-02-03,S.Res.42,majority,Select Committee on Intelligence,Mr. Nelson,5,Florida
+112,2011-02-03,S.Res.42,majority,Select Committee on Intelligence,Mr. Nelson (Florida),5,
 112,2011-02-03,S.Res.42,majority,Select Committee on Intelligence,Mr. Conrad,6,
-112,2011-02-03,S.Res.42,majority,Select Committee on Intelligence,Mr. Udall,7,Colorado
+112,2011-02-03,S.Res.42,majority,Select Committee on Intelligence,Mr. Udall (Colorado),7,
 112,2011-02-03,S.Res.42,majority,Select Committee on Intelligence,Mr. Warner,8,
 112,2011-02-03,S.Res.42,majority,Budget,Mr. Conrad,1,Chairman
 112,2011-02-03,S.Res.42,majority,Budget,Mrs. Murray,2,
 112,2011-02-03,S.Res.42,majority,Budget,Mr. Wyden,3,
-112,2011-02-03,S.Res.42,majority,Budget,Mr. Nelson,4,Florida
+112,2011-02-03,S.Res.42,majority,Budget,Mr. Nelson (Florida),4,
 112,2011-02-03,S.Res.42,majority,Budget,Ms. Stabenow,5,
 112,2011-02-03,S.Res.42,majority,Budget,Mr. Cardin,6,
 112,2011-02-03,S.Res.42,majority,Budget,Mr. Sanders,7,
@@ -3983,10 +3983,10 @@ congress,date,resolution,party_designation,committee,member,rank,role
 112,2011-02-03,S.Res.42,majority,Rules and Administration,Mr. Inouye,2,
 112,2011-02-03,S.Res.42,majority,Rules and Administration,Mrs. Feinstein,3,
 112,2011-02-03,S.Res.42,majority,Rules and Administration,Mr. Durbin,4,
-112,2011-02-03,S.Res.42,majority,Rules and Administration,Mr. Nelson,5,Nebraska
+112,2011-02-03,S.Res.42,majority,Rules and Administration,Mr. Nelson (Nebraska),5,
 112,2011-02-03,S.Res.42,majority,Rules and Administration,Mrs. Murray,6,
 112,2011-02-03,S.Res.42,majority,Rules and Administration,Mr. Pryor,7,
-112,2011-02-03,S.Res.42,majority,Rules and Administration,Mr. Udall,8,New Mexico
+112,2011-02-03,S.Res.42,majority,Rules and Administration,Mr. Udall (New Mexico),8,
 112,2011-02-03,S.Res.42,majority,Rules and Administration,Mr. Warner,9,
 112,2011-02-03,S.Res.42,majority,Rules and Administration,Mr. Leahy,10,
 112,2011-02-03,S.Res.42,majority,Small Business and Entrepreneurship,Ms. Landrieu,1,Chairman
@@ -4003,17 +4003,17 @@ congress,date,resolution,party_designation,committee,member,rank,role
 112,2011-02-03,S.Res.42,majority,Veterans' Affairs,Mr. Rockefeller,2,
 112,2011-02-03,S.Res.42,majority,Veterans' Affairs,Mr. Akaka,3,
 112,2011-02-03,S.Res.42,majority,Veterans' Affairs,Mr. Sanders,4,
-112,2011-02-03,S.Res.42,majority,Veterans' Affairs,Mr. Brown,5,Ohio
+112,2011-02-03,S.Res.42,majority,Veterans' Affairs,Mr. Brown (Ohio),5,
 112,2011-02-03,S.Res.42,majority,Veterans' Affairs,Mr. Webb,6,
 112,2011-02-03,S.Res.42,majority,Veterans' Affairs,Mr. Tester,7,
 112,2011-02-03,S.Res.42,majority,Veterans' Affairs,Mr. Begich,8,
 112,2011-02-03,S.Res.42,majority,Special Committee on Aging,Mr. Kohl,1,Chairman
 112,2011-02-03,S.Res.42,majority,Special Committee on Aging,Mr. Wyden,2,
-112,2011-02-03,S.Res.42,majority,Special Committee on Aging,Mr. Nelson,3,Florida
+112,2011-02-03,S.Res.42,majority,Special Committee on Aging,Mr. Nelson (Florida),3,
 112,2011-02-03,S.Res.42,majority,Special Committee on Aging,Mr. Casey,4,
 112,2011-02-03,S.Res.42,majority,Special Committee on Aging,Mrs. McCaskill,5,
 112,2011-02-03,S.Res.42,majority,Special Committee on Aging,Mr. Whitehouse,6,
-112,2011-02-03,S.Res.42,majority,Special Committee on Aging,Mr. Udall,7,Colorado
+112,2011-02-03,S.Res.42,majority,Special Committee on Aging,Mr. Udall (Colorado),7,
 112,2011-02-03,S.Res.42,majority,Special Committee on Aging,Mr. Bennet,8,
 112,2011-02-03,S.Res.42,majority,Special Committee on Aging,Mrs. Gillibrand,9,
 112,2011-02-03,S.Res.42,majority,Special Committee on Aging,Mr. Manchin,10,
@@ -4026,14 +4026,14 @@ congress,date,resolution,party_designation,committee,member,rank,role
 112,2011-02-03,S.Res.42,majority,Joint Economic Committee,Mr. Sanders,6,
 112,2011-02-03,S.Res.42,majority,Select Committee on Ethics,Mrs. Boxer,1,Chairman
 112,2011-02-03,S.Res.42,majority,Select Committee on Ethics,Mr. Pryor,2,
-112,2011-02-03,S.Res.42,majority,Select Committee on Ethics,Mr. Brown,3,Ohio
+112,2011-02-03,S.Res.42,majority,Select Committee on Ethics,Mr. Brown (Ohio),3,
 112,2011-02-03,S.Res.42,majority,Indian Affairs,Mr. Akaka,1,Chairman
 112,2011-02-03,S.Res.42,majority,Indian Affairs,Mr. Inouye,2,
 112,2011-02-03,S.Res.42,majority,Indian Affairs,Mr. Conrad,3,
-112,2011-02-03,S.Res.42,majority,Indian Affairs,Mr. Johnson,4,South Dakota
+112,2011-02-03,S.Res.42,majority,Indian Affairs,Mr. Johnson (South Dakota),4,
 112,2011-02-03,S.Res.42,majority,Indian Affairs,Ms. Cantwell,5,
 112,2011-02-03,S.Res.42,majority,Indian Affairs,Mr. Tester,6,
-112,2011-02-03,S.Res.42,majority,Indian Affairs,Mr. Udall,7,New Mexico
+112,2011-02-03,S.Res.42,majority,Indian Affairs,Mr. Udall (New Mexico),7,
 112,2011-02-03,S.Res.42,majority,Indian Affairs,Mr. Franken,8,
 112,2011-02-03,S.Res.43,minority,"Agriculture, Nutrition, and Forestry",Mr. Roberts,1,
 112,2011-02-03,S.Res.43,minority,"Agriculture, Nutrition, and Forestry",Mr. Lugar,2,
@@ -4058,13 +4058,13 @@ congress,date,resolution,party_designation,committee,member,rank,role
 112,2011-02-03,S.Res.43,minority,Appropriations,Mr. Blunt,11,
 112,2011-02-03,S.Res.43,minority,Appropriations,Mr. Moran,12,
 112,2011-02-03,S.Res.43,minority,Appropriations,Mr. Hoeven,13,
-112,2011-02-03,S.Res.43,minority,Appropriations,Mr. Johnson,14,Wisconsin
+112,2011-02-03,S.Res.43,minority,Appropriations,Mr. Johnson (Wisconsin),14,
 112,2011-02-03,S.Res.43,minority,Armed Services,Mr. McCain,1,
 112,2011-02-03,S.Res.43,minority,Armed Services,Mr. Inhofe,2,
 112,2011-02-03,S.Res.43,minority,Armed Services,Mr. Sessions,3,
 112,2011-02-03,S.Res.43,minority,Armed Services,Mr. Chambliss,4,
 112,2011-02-03,S.Res.43,minority,Armed Services,Mr. Wicker,5,
-112,2011-02-03,S.Res.43,minority,Armed Services,Mr. Brown,6,Massachusetts
+112,2011-02-03,S.Res.43,minority,Armed Services,Mr. Brown (Massachusetts),6,
 112,2011-02-03,S.Res.43,minority,Armed Services,Mr. Portman,7,
 112,2011-02-03,S.Res.43,minority,Armed Services,Ms. Ayotte,8,
 112,2011-02-03,S.Res.43,minority,Armed Services,Ms. Collins,9,
@@ -4143,9 +4143,9 @@ congress,date,resolution,party_designation,committee,member,rank,role
 112,2011-02-03,S.Res.43,minority,"Health, Education, Labor, and Pensions",Mr. Kirk,10,
 112,2011-02-03,S.Res.43,minority,Homeland Security and Governmental Affairs,Ms. Collins,1,
 112,2011-02-03,S.Res.43,minority,Homeland Security and Governmental Affairs,Mr. Coburn,2,
-112,2011-02-03,S.Res.43,minority,Homeland Security and Governmental Affairs,Mr. Brown,3,Massachusetts
+112,2011-02-03,S.Res.43,minority,Homeland Security and Governmental Affairs,Mr. Brown (Massachusetts),3,
 112,2011-02-03,S.Res.43,minority,Homeland Security and Governmental Affairs,Mr. McCain,4,
-112,2011-02-03,S.Res.43,minority,Homeland Security and Governmental Affairs,Mr. Johnson,5,Wisconsin
+112,2011-02-03,S.Res.43,minority,Homeland Security and Governmental Affairs,Mr. Johnson (Wisconsin),5,
 112,2011-02-03,S.Res.43,minority,Homeland Security and Governmental Affairs,Mr. Ensign,6,
 112,2011-02-03,S.Res.43,minority,Homeland Security and Governmental Affairs,Mr. Portman,7,
 112,2011-02-03,S.Res.43,minority,Homeland Security and Governmental Affairs,Mr. Paul,8,
@@ -4167,7 +4167,7 @@ congress,date,resolution,party_designation,committee,member,rank,role
 112,2011-02-03,S.Res.43,minority,Budget,Mr. Thune,8,
 112,2011-02-03,S.Res.43,minority,Budget,Mr. Portman,9,
 112,2011-02-03,S.Res.43,minority,Budget,Mr. Toomey,10,
-112,2011-02-03,S.Res.43,minority,Budget,Mr. Johnson,11,Wisconsin
+112,2011-02-03,S.Res.43,minority,Budget,Mr. Johnson (Wisconsin),11,
 112,2011-02-03,S.Res.43,minority,Rules and Administration,Mr. Alexander,1,
 112,2011-02-03,S.Res.43,minority,Rules and Administration,Mr. McConnell,2,
 112,2011-02-03,S.Res.43,minority,Rules and Administration,Mr. Cochran,3,
@@ -4183,13 +4183,13 @@ congress,date,resolution,party_designation,committee,member,rank,role
 112,2011-02-03,S.Res.43,minority,Small Business and Entrepreneurship,Mr. Paul,5,
 112,2011-02-03,S.Res.43,minority,Small Business and Entrepreneurship,Ms. Ayotte,6,
 112,2011-02-03,S.Res.43,minority,Small Business and Entrepreneurship,Mr. Enzi,7,
-112,2011-02-03,S.Res.43,minority,Small Business and Entrepreneurship,Mr. Brown,8,Massachusetts
+112,2011-02-03,S.Res.43,minority,Small Business and Entrepreneurship,Mr. Brown (Massachusetts),8,
 112,2011-02-03,S.Res.43,minority,Small Business and Entrepreneurship,Mr. Moran,9,
 112,2011-02-03,S.Res.43,minority,Veterans' Affairs,Mr. Burr,1,
 112,2011-02-03,S.Res.43,minority,Veterans' Affairs,Mr. Isakson,2,
 112,2011-02-03,S.Res.43,minority,Veterans' Affairs,Mr. Wicker,3,
 112,2011-02-03,S.Res.43,minority,Veterans' Affairs,Mr. Johanns,4,
-112,2011-02-03,S.Res.43,minority,Veterans' Affairs,Mr. Brown,5,Massachusetts
+112,2011-02-03,S.Res.43,minority,Veterans' Affairs,Mr. Brown (Massachusetts),5,
 112,2011-02-03,S.Res.43,minority,Veterans' Affairs,Mr. Moran,6,
 112,2011-02-03,S.Res.43,minority,Veterans' Affairs,Mr. Boozman,7,
 112,2011-02-03,S.Res.43,minority,Special Committee on Aging,Mr. Corker,1,
@@ -4197,7 +4197,7 @@ congress,date,resolution,party_designation,committee,member,rank,role
 112,2011-02-03,S.Res.43,minority,Special Committee on Aging,Mr. Hatch,3,
 112,2011-02-03,S.Res.43,minority,Special Committee on Aging,Mr. Kirk,4,
 112,2011-02-03,S.Res.43,minority,Special Committee on Aging,Mr. Moran,5,
-112,2011-02-03,S.Res.43,minority,Special Committee on Aging,Mr. Johnson,6,Wisconsin
+112,2011-02-03,S.Res.43,minority,Special Committee on Aging,Mr. Johnson (Wisconsin),6,
 112,2011-02-03,S.Res.43,minority,Special Committee on Aging,Ms. Ayotte,7,
 112,2011-02-03,S.Res.43,minority,Special Committee on Aging,Mr. Shelby,8,
 112,2011-02-03,S.Res.43,minority,Special Committee on Aging,Mr. Graham,9,
@@ -4257,9 +4257,9 @@ congress,date,resolution,party_designation,committee,member,rank,role
 112,2011-05-11,S.Res.179,minority,FINANCE,Mr. Burr,11,
 112,2011-05-11,S.Res.179,minority,HOMELAND SECURITY AND GOVERNMENTAL AFFAIRS,Ms. Collins,1,
 112,2011-05-11,S.Res.179,minority,HOMELAND SECURITY AND GOVERNMENTAL AFFAIRS,Mr. Coburn,2,
-112,2011-05-11,S.Res.179,minority,HOMELAND SECURITY AND GOVERNMENTAL AFFAIRS,Mr. Brown,3,Massachusetts
+112,2011-05-11,S.Res.179,minority,HOMELAND SECURITY AND GOVERNMENTAL AFFAIRS,Mr. Brown (Massachusetts),3,
 112,2011-05-11,S.Res.179,minority,HOMELAND SECURITY AND GOVERNMENTAL AFFAIRS,Mr. McCain,4,
-112,2011-05-11,S.Res.179,minority,HOMELAND SECURITY AND GOVERNMENTAL AFFAIRS,Mr. Johnson,5,Wisconsin
+112,2011-05-11,S.Res.179,minority,HOMELAND SECURITY AND GOVERNMENTAL AFFAIRS,Mr. Johnson (Wisconsin),5,
 112,2011-05-11,S.Res.179,minority,HOMELAND SECURITY AND GOVERNMENTAL AFFAIRS,Mr. Portman,6,
 112,2011-05-11,S.Res.179,minority,HOMELAND SECURITY AND GOVERNMENTAL AFFAIRS,Mr. Paul,7,
 112,2011-05-11,S.Res.179,minority,HOMELAND SECURITY AND GOVERNMENTAL AFFAIRS,Mr. Moran,8,
@@ -4272,7 +4272,7 @@ congress,date,resolution,party_designation,committee,member,rank,role
 112,2011-05-11,S.Res.179,minority,BUDGET,Mr. Thune,7,
 112,2011-05-11,S.Res.179,minority,BUDGET,Mr. Portman,8,
 112,2011-05-11,S.Res.179,minority,BUDGET,Mr. Toomey,9,
-112,2011-05-11,S.Res.179,minority,BUDGET,Mr. Johnson,10,Wisconsin
+112,2011-05-11,S.Res.179,minority,BUDGET,Mr. Johnson (Wisconsin),10,
 112,2011-05-11,S.Res.179,minority,BUDGET,Ms. Ayotte,11,
 112,2011-05-11,S.Res.179,minority,SPECIAL COMMITTEE ON AGING,Mr. Corker,1,
 112,2011-05-11,S.Res.179,minority,SPECIAL COMMITTEE ON AGING,Ms. Collins,2,
@@ -4280,7 +4280,7 @@ congress,date,resolution,party_designation,committee,member,rank,role
 112,2011-05-11,S.Res.179,minority,SPECIAL COMMITTEE ON AGING,Mr. Kirk,4,
 112,2011-05-11,S.Res.179,minority,SPECIAL COMMITTEE ON AGING,Mr. Heller,5,
 112,2011-05-11,S.Res.179,minority,SPECIAL COMMITTEE ON AGING,Mr. Moran,6,
-112,2011-05-11,S.Res.179,minority,SPECIAL COMMITTEE ON AGING,Mr. Johnson,7,Wisconsin
+112,2011-05-11,S.Res.179,minority,SPECIAL COMMITTEE ON AGING,Mr. Johnson (Wisconsin),7,
 112,2011-05-11,S.Res.179,minority,SPECIAL COMMITTEE ON AGING,Mr. Shelby,8,
 112,2011-05-11,S.Res.179,minority,SPECIAL COMMITTEE ON AGING,Mr. Graham,9,
 112,2011-05-11,S.Res.179,minority,SPECIAL COMMITTEE ON AGING,Mr. Chambliss,10,
@@ -6945,13 +6945,13 @@ congress,date,resolution,party_designation,committee,member,rank,role
 116,2019-01-09,S.Res.12,majority,Armed Services,Mr. Perdue,9,
 116,2019-01-09,S.Res.12,majority,Armed Services,Mr. Cramer,10,
 116,2019-01-09,S.Res.12,majority,Armed Services,Ms. McSally,11,
-116,2019-01-09,S.Res.12,majority,Armed Services,Mr. Scott,12,FL
+116,2019-01-09,S.Res.12,majority,Armed Services,Mr. Scott (FL),12,
 116,2019-01-09,S.Res.12,majority,Armed Services,Mrs. Blackburn,13,
 116,2019-01-09,S.Res.12,majority,Armed Services,Mr. Hawley,14,
 116,2019-01-09,S.Res.12,majority,"Banking, Housing, and Urban Affairs",Mr. Crapo,1,
 116,2019-01-09,S.Res.12,majority,"Banking, Housing, and Urban Affairs",Mr. Shelby,2,
 116,2019-01-09,S.Res.12,majority,"Banking, Housing, and Urban Affairs",Mr. Toomey,3,
-116,2019-01-09,S.Res.12,majority,"Banking, Housing, and Urban Affairs",Mr. Scott,4,SC
+116,2019-01-09,S.Res.12,majority,"Banking, Housing, and Urban Affairs",Mr. Scott (SC),4,
 116,2019-01-09,S.Res.12,majority,"Banking, Housing, and Urban Affairs",Mr. Sasse,5,
 116,2019-01-09,S.Res.12,majority,"Banking, Housing, and Urban Affairs",Mr. Cotton,6,
 116,2019-01-09,S.Res.12,majority,"Banking, Housing, and Urban Affairs",Mr. Rounds,7,
@@ -6974,7 +6974,7 @@ congress,date,resolution,party_designation,committee,member,rank,role
 116,2019-01-09,S.Res.12,majority,"Commerce, Science, and Transportation",Mr. Lee,11,
 116,2019-01-09,S.Res.12,majority,"Commerce, Science, and Transportation",Mr. Johnson,12,
 116,2019-01-09,S.Res.12,majority,"Commerce, Science, and Transportation",Mr. Young,13,
-116,2019-01-09,S.Res.12,majority,"Commerce, Science, and Transportation",Mr. Scott,14,FL
+116,2019-01-09,S.Res.12,majority,"Commerce, Science, and Transportation",Mr. Scott (FL),14,
 116,2019-01-09,S.Res.12,majority,Energy and Natural Resources,Ms. Murkowski,1,
 116,2019-01-09,S.Res.12,majority,Energy and Natural Resources,Mr. Barrasso,2,
 116,2019-01-09,S.Res.12,majority,Energy and Natural Resources,Mr. Risch,3,
@@ -7007,7 +7007,7 @@ congress,date,resolution,party_designation,committee,member,rank,role
 116,2019-01-09,S.Res.12,majority,Finance,Mr. Isakson,8,
 116,2019-01-09,S.Res.12,majority,Finance,Mr. Portman,9,
 116,2019-01-09,S.Res.12,majority,Finance,Mr. Toomey,10,
-116,2019-01-09,S.Res.12,majority,Finance,Mr. Scott,11,SC
+116,2019-01-09,S.Res.12,majority,Finance,Mr. Scott (SC),11,
 116,2019-01-09,S.Res.12,majority,Finance,Mr. Cassidy,12,
 116,2019-01-09,S.Res.12,majority,Finance,Mr. Lankford,13,
 116,2019-01-09,S.Res.12,majority,Finance,Mr. Daines,14,
@@ -7033,7 +7033,7 @@ congress,date,resolution,party_designation,committee,member,rank,role
 116,2019-01-09,S.Res.12,majority,"Health, Education, Labor, and Pensions",Mr. Cassidy,7,
 116,2019-01-09,S.Res.12,majority,"Health, Education, Labor, and Pensions",Mr. Roberts,8,
 116,2019-01-09,S.Res.12,majority,"Health, Education, Labor, and Pensions",Ms. Murkowski,9,
-116,2019-01-09,S.Res.12,majority,"Health, Education, Labor, and Pensions",Mr. Scott,10,SC
+116,2019-01-09,S.Res.12,majority,"Health, Education, Labor, and Pensions",Mr. Scott (SC),10,
 116,2019-01-09,S.Res.12,majority,"Health, Education, Labor, and Pensions",Mr. Romney,11,
 116,2019-01-09,S.Res.12,majority,"Health, Education, Labor, and Pensions",Mr. Braun,12,
 116,2019-01-09,S.Res.12,majority,Homeland Security and Governmental Affairs,Mr. Johnson,1,
@@ -7041,7 +7041,7 @@ congress,date,resolution,party_designation,committee,member,rank,role
 116,2019-01-09,S.Res.12,majority,Homeland Security and Governmental Affairs,Mr. Paul,3,
 116,2019-01-09,S.Res.12,majority,Homeland Security and Governmental Affairs,Mr. Lankford,4,
 116,2019-01-09,S.Res.12,majority,Homeland Security and Governmental Affairs,Mr. Romney,5,
-116,2019-01-09,S.Res.12,majority,Homeland Security and Governmental Affairs,Mr. Scott,6,FL
+116,2019-01-09,S.Res.12,majority,Homeland Security and Governmental Affairs,Mr. Scott (FL),6,
 116,2019-01-09,S.Res.12,majority,Homeland Security and Governmental Affairs,Mr. Enzi,7,
 116,2019-01-09,S.Res.12,majority,Homeland Security and Governmental Affairs,Mr. Hawley,8,
 116,2019-01-09,S.Res.12,majority,Judiciary,Mr. Graham,1,
@@ -7065,13 +7065,13 @@ congress,date,resolution,party_designation,committee,member,rank,role
 116,2019-01-09,S.Res.12,majority,Select Committee on Intelligence,Mr. Cornyn,7,
 116,2019-01-09,S.Res.12,majority,Select Committee on Intelligence,Mr. Sasse,8,
 116,2019-01-09,S.Res.12,majority,Special Committee on Aging,Ms. Collins,1,
-116,2019-01-09,S.Res.12,majority,Special Committee on Aging,Mr. Scott,2,SC
+116,2019-01-09,S.Res.12,majority,Special Committee on Aging,Mr. Scott (SC),2,
 116,2019-01-09,S.Res.12,majority,Special Committee on Aging,Mr. Burr,3,
 116,2019-01-09,S.Res.12,majority,Special Committee on Aging,Ms. McSally,4,
 116,2019-01-09,S.Res.12,majority,Special Committee on Aging,Mr. Rubio,5,
 116,2019-01-09,S.Res.12,majority,Special Committee on Aging,Mr. Hawley,6,
 116,2019-01-09,S.Res.12,majority,Special Committee on Aging,Mr. Braun,7,
-116,2019-01-09,S.Res.12,majority,Special Committee on Aging,Mr. Scott,8,FL
+116,2019-01-09,S.Res.12,majority,Special Committee on Aging,Mr. Scott (FL),8,
 116,2019-01-09,S.Res.12,majority,Budget,Mr. Enzi,1,
 116,2019-01-09,S.Res.12,majority,Budget,Mr. Grassley,2,
 116,2019-01-09,S.Res.12,majority,Budget,Mr. Crapo,3,
@@ -7080,7 +7080,7 @@ congress,date,resolution,party_designation,committee,member,rank,role
 116,2019-01-09,S.Res.12,majority,Budget,Mr. Johnson,6,
 116,2019-01-09,S.Res.12,majority,Budget,Mr. Perdue,7,
 116,2019-01-09,S.Res.12,majority,Budget,Mr. Braun,8,
-116,2019-01-09,S.Res.12,majority,Budget,Mr. Scott,9,FL
+116,2019-01-09,S.Res.12,majority,Budget,Mr. Scott (FL),9,
 116,2019-01-09,S.Res.12,majority,Budget,Mr. Kennedy,10,
 116,2019-01-09,S.Res.12,majority,Budget,Mr. Cramer,11,
 116,2019-01-09,S.Res.12,majority,Indian Affairs,Mr. Hoeven,1,
@@ -7109,7 +7109,7 @@ congress,date,resolution,party_designation,committee,member,rank,role
 116,2019-01-09,S.Res.12,majority,Small Business and Entrepreneurship,Mr. Rubio,1,
 116,2019-01-09,S.Res.12,majority,Small Business and Entrepreneurship,Mr. Risch,2,
 116,2019-01-09,S.Res.12,majority,Small Business and Entrepreneurship,Mr. Paul,3,
-116,2019-01-09,S.Res.12,majority,Small Business and Entrepreneurship,Mr. Scott,4,SC
+116,2019-01-09,S.Res.12,majority,Small Business and Entrepreneurship,Mr. Scott (SC),4,
 116,2019-01-09,S.Res.12,majority,Small Business and Entrepreneurship,Ms. Ernst,5,
 116,2019-01-09,S.Res.12,majority,Small Business and Entrepreneurship,Mr. Inhofe,6,
 116,2019-01-09,S.Res.12,majority,Small Business and Entrepreneurship,Mr. Young,7,
@@ -7354,7 +7354,7 @@ congress,date,resolution,party_designation,committee,member,rank,role
 116,2020-01-06,S.Res.464,majority,Finance,Mr. Burr,7,
 116,2020-01-06,S.Res.464,majority,Finance,Mr. Portman,8,
 116,2020-01-06,S.Res.464,majority,Finance,Mr. Toomey,9,
-116,2020-01-06,S.Res.464,majority,Finance,Mr. Scott,10,SC
+116,2020-01-06,S.Res.464,majority,Finance,Mr. Scott (SC),10,
 116,2020-01-06,S.Res.464,majority,Finance,Mr. Cassidy,11,
 116,2020-01-06,S.Res.464,majority,Finance,Mr. Lankford,12,
 116,2020-01-06,S.Res.464,majority,Finance,Mr. Daines,13,
@@ -7380,7 +7380,7 @@ congress,date,resolution,party_designation,committee,member,rank,role
 116,2020-01-06,S.Res.464,majority,"Health, Education, Labor, and Pensions",Mr. Cassidy,6,
 116,2020-01-06,S.Res.464,majority,"Health, Education, Labor, and Pensions",Mr. Roberts,7,
 116,2020-01-06,S.Res.464,majority,"Health, Education, Labor, and Pensions",Ms. Murkowski,8,
-116,2020-01-06,S.Res.464,majority,"Health, Education, Labor, and Pensions",Mr. Scott,9,SC
+116,2020-01-06,S.Res.464,majority,"Health, Education, Labor, and Pensions",Mr. Scott (SC),9,
 116,2020-01-06,S.Res.464,majority,"Health, Education, Labor, and Pensions",Mr. Romney,10,
 116,2020-01-06,S.Res.464,majority,"Health, Education, Labor, and Pensions",Mr. Braun,11,
 116,2020-01-06,S.Res.464,majority,"Health, Education, Labor, and Pensions",Mrs. Loeffler,12,
@@ -7651,14 +7651,14 @@ congress,date,resolution,party_designation,committee,member,rank,role
 117,2021-02-03,S.Res.32,minority,Armed Services,Mr. Tillis,7,
 117,2021-02-03,S.Res.32,minority,Armed Services,Mr. Sullivan,8,
 117,2021-02-03,S.Res.32,minority,Armed Services,Mr. Cramer,9,
-117,2021-02-03,S.Res.32,minority,Armed Services,Mr. Scott,10,FL
+117,2021-02-03,S.Res.32,minority,Armed Services,Mr. Scott (FL),10,
 117,2021-02-03,S.Res.32,minority,Armed Services,Mrs. Blackburn,11,
 117,2021-02-03,S.Res.32,minority,Armed Services,Mr. Hawley,12,
 117,2021-02-03,S.Res.32,minority,Armed Services,Mr. Tuberville,13,
 117,2021-02-03,S.Res.32,minority,"Banking, Housing, and Urban Affairs",Mr. Toomey,1,
 117,2021-02-03,S.Res.32,minority,"Banking, Housing, and Urban Affairs",Mr. Shelby,2,
 117,2021-02-03,S.Res.32,minority,"Banking, Housing, and Urban Affairs",Mr. Crapo,3,
-117,2021-02-03,S.Res.32,minority,"Banking, Housing, and Urban Affairs",Mr. Scott,4,SC
+117,2021-02-03,S.Res.32,minority,"Banking, Housing, and Urban Affairs",Mr. Scott (SC),4,
 117,2021-02-03,S.Res.32,minority,"Banking, Housing, and Urban Affairs",Mr. Rounds,5,
 117,2021-02-03,S.Res.32,minority,"Banking, Housing, and Urban Affairs",Mr. Tillis,6,
 117,2021-02-03,S.Res.32,minority,"Banking, Housing, and Urban Affairs",Mr. Kennedy,7,
@@ -7679,7 +7679,7 @@ congress,date,resolution,party_designation,committee,member,rank,role
 117,2021-02-03,S.Res.32,minority,"Commerce, Science, and Transportation",Mr. Lee,10,
 117,2021-02-03,S.Res.32,minority,"Commerce, Science, and Transportation",Mr. Johnson,11,
 117,2021-02-03,S.Res.32,minority,"Commerce, Science, and Transportation",Mrs. Capito,12,
-117,2021-02-03,S.Res.32,minority,"Commerce, Science, and Transportation",Mr. Scott,13,FL
+117,2021-02-03,S.Res.32,minority,"Commerce, Science, and Transportation",Mr. Scott (FL),13,
 117,2021-02-03,S.Res.32,minority,"Commerce, Science, and Transportation",Ms. Lummis,14,
 117,2021-02-03,S.Res.32,minority,Energy and Natural Resources,Mr. Barrasso,1,
 117,2021-02-03,S.Res.32,minority,Energy and Natural Resources,Mr. Risch,2,
@@ -7708,7 +7708,7 @@ congress,date,resolution,party_designation,committee,member,rank,role
 117,2021-02-03,S.Res.32,minority,Finance,Mr. Burr,5,
 117,2021-02-03,S.Res.32,minority,Finance,Mr. Portman,6,
 117,2021-02-03,S.Res.32,minority,Finance,Mr. Toomey,7,
-117,2021-02-03,S.Res.32,minority,Finance,Mr. Scott,8,SC
+117,2021-02-03,S.Res.32,minority,Finance,Mr. Scott (SC),8,
 117,2021-02-03,S.Res.32,minority,Finance,Mr. Cassidy,9,
 117,2021-02-03,S.Res.32,minority,Finance,Mr. Lankford,10,
 117,2021-02-03,S.Res.32,minority,Finance,Mr. Daines,11,
@@ -7733,7 +7733,7 @@ congress,date,resolution,party_designation,committee,member,rank,role
 117,2021-02-03,S.Res.32,minority,"Health, Education, Labor, and Pensions",Ms. Murkowski,5,
 117,2021-02-03,S.Res.32,minority,"Health, Education, Labor, and Pensions",Mr. Braun,6,
 117,2021-02-03,S.Res.32,minority,"Health, Education, Labor, and Pensions",Mr. Marshall,7,
-117,2021-02-03,S.Res.32,minority,"Health, Education, Labor, and Pensions",Mr. Scott,8,SC
+117,2021-02-03,S.Res.32,minority,"Health, Education, Labor, and Pensions",Mr. Scott (SC),8,
 117,2021-02-03,S.Res.32,minority,"Health, Education, Labor, and Pensions",Mr. Romney,9,
 117,2021-02-03,S.Res.32,minority,"Health, Education, Labor, and Pensions",Mr. Tuberville,10,
 117,2021-02-03,S.Res.32,minority,"Health, Education, Labor, and Pensions",Mr. Moran,11,
@@ -7742,7 +7742,7 @@ congress,date,resolution,party_designation,committee,member,rank,role
 117,2021-02-03,S.Res.32,minority,Homeland Security and Governmental Affairs,Mr. Paul,3,
 117,2021-02-03,S.Res.32,minority,Homeland Security and Governmental Affairs,Mr. Lankford,4,
 117,2021-02-03,S.Res.32,minority,Homeland Security and Governmental Affairs,Mr. Romney,5,
-117,2021-02-03,S.Res.32,minority,Homeland Security and Governmental Affairs,Mr. Scott,6,FL
+117,2021-02-03,S.Res.32,minority,Homeland Security and Governmental Affairs,Mr. Scott (FL),6,
 117,2021-02-03,S.Res.32,minority,Homeland Security and Governmental Affairs,Mr. Hawley,7,
 117,2021-02-03,S.Res.32,minority,Judiciary,Mr. Grassley,1,
 117,2021-02-03,S.Res.32,minority,Judiciary,Mr. Graham,2,
@@ -7763,12 +7763,12 @@ congress,date,resolution,party_designation,committee,member,rank,role
 117,2021-02-03,S.Res.32,minority,Select Committee on Intelligence,Mr. Cotton,6,
 117,2021-02-03,S.Res.32,minority,Select Committee on Intelligence,Mr. Cornyn,7,
 117,2021-02-03,S.Res.32,minority,Select Committee on Intelligence,Mr. Sasse,8,
-117,2021-02-03,S.Res.32,minority,Special Committee on Aging,Mr. Scott,1,SC
+117,2021-02-03,S.Res.32,minority,Special Committee on Aging,Mr. Scott (SC),1,
 117,2021-02-03,S.Res.32,minority,Special Committee on Aging,Ms. Collins,2,
 117,2021-02-03,S.Res.32,minority,Special Committee on Aging,Mr. Burr,3,
 117,2021-02-03,S.Res.32,minority,Special Committee on Aging,Mr. Rubio,4,
 117,2021-02-03,S.Res.32,minority,Special Committee on Aging,Mr. Braun,5,
-117,2021-02-03,S.Res.32,minority,Special Committee on Aging,Mr. Scott,6,FL
+117,2021-02-03,S.Res.32,minority,Special Committee on Aging,Mr. Scott (FL),6,
 117,2021-02-03,S.Res.32,minority,Special Committee on Aging,Mr. Lee,7,
 117,2021-02-03,S.Res.32,minority,Budget,Mr. Graham,1,
 117,2021-02-03,S.Res.32,minority,Budget,Mr. Grassley,2,
@@ -7776,7 +7776,7 @@ congress,date,resolution,party_designation,committee,member,rank,role
 117,2021-02-03,S.Res.32,minority,Budget,Mr. Toomey,4,
 117,2021-02-03,S.Res.32,minority,Budget,Mr. Johnson,5,
 117,2021-02-03,S.Res.32,minority,Budget,Mr. Braun,6,
-117,2021-02-03,S.Res.32,minority,Budget,Mr. Scott,7,FL
+117,2021-02-03,S.Res.32,minority,Budget,Mr. Scott (FL),7,
 117,2021-02-03,S.Res.32,minority,Budget,Mr. Sasse,8,
 117,2021-02-03,S.Res.32,minority,Budget,Mr. Romney,9,
 117,2021-02-03,S.Res.32,minority,Budget,Mr. Kennedy,10,
@@ -7804,7 +7804,7 @@ congress,date,resolution,party_designation,committee,member,rank,role
 117,2021-02-03,S.Res.32,minority,Small Business and Entrepreneurship,Mr. Paul,1,
 117,2021-02-03,S.Res.32,minority,Small Business and Entrepreneurship,Mr. Rubio,2,
 117,2021-02-03,S.Res.32,minority,Small Business and Entrepreneurship,Mr. Risch,3,
-117,2021-02-03,S.Res.32,minority,Small Business and Entrepreneurship,Mr. Scott,4,SC
+117,2021-02-03,S.Res.32,minority,Small Business and Entrepreneurship,Mr. Scott (SC),4,
 117,2021-02-03,S.Res.32,minority,Small Business and Entrepreneurship,Ms. Ernst,5,
 117,2021-02-03,S.Res.32,minority,Small Business and Entrepreneurship,Mr. Inhofe,6,
 117,2021-02-03,S.Res.32,minority,Small Business and Entrepreneurship,Mr. Young,7,
@@ -8069,12 +8069,12 @@ congress,date,resolution,party_designation,committee,member,rank,role
 118,2023-02-02,S.Res.31,majority,Armed Services,Ms. Ernst,5,
 118,2023-02-02,S.Res.31,majority,Armed Services,Mr. Sullivan,6,
 118,2023-02-02,S.Res.31,majority,Armed Services,Mr. Cramer,7,
-118,2023-02-02,S.Res.31,majority,Armed Services,Mr. Scott,8,FL
+118,2023-02-02,S.Res.31,majority,Armed Services,Mr. Scott (FL),8,
 118,2023-02-02,S.Res.31,majority,Armed Services,Mr. Tuberville,9,
 118,2023-02-02,S.Res.31,majority,Armed Services,Mr. Mullin,10,
 118,2023-02-02,S.Res.31,majority,Armed Services,Mr. Budd,11,
 118,2023-02-02,S.Res.31,majority,Armed Services,Mr. Schmitt,12,
-118,2023-02-02,S.Res.31,majority,"Banking, Housing, and Urban Affairs",Mr. Scott,1,SC
+118,2023-02-02,S.Res.31,majority,"Banking, Housing, and Urban Affairs",Mr. Scott (SC),1,
 118,2023-02-02,S.Res.31,majority,"Banking, Housing, and Urban Affairs",Mr. Crapo,2,
 118,2023-02-02,S.Res.31,majority,"Banking, Housing, and Urban Affairs",Mr. Rounds,3,
 118,2023-02-02,S.Res.31,majority,"Banking, Housing, and Urban Affairs",Mr. Tillis,4,
@@ -8120,7 +8120,7 @@ congress,date,resolution,party_designation,committee,member,rank,role
 118,2023-02-02,S.Res.31,majority,Finance,Mr. Grassley,2,
 118,2023-02-02,S.Res.31,majority,Finance,Mr. Cornyn,3,
 118,2023-02-02,S.Res.31,majority,Finance,Mr. Thune,4,
-118,2023-02-02,S.Res.31,majority,Finance,Mr. Scott,5,SC
+118,2023-02-02,S.Res.31,majority,Finance,Mr. Scott (SC),5,
 118,2023-02-02,S.Res.31,majority,Finance,Mr. Cassidy,6,
 118,2023-02-02,S.Res.31,majority,Finance,Mr. Lankford,7,
 118,2023-02-02,S.Res.31,majority,Finance,Mr. Daines,8,
@@ -8138,7 +8138,7 @@ congress,date,resolution,party_designation,committee,member,rank,role
 118,2023-02-02,S.Res.31,majority,Foreign Relations,Mr. Barrasso,7,
 118,2023-02-02,S.Res.31,majority,Foreign Relations,Mr. Cruz,8,
 118,2023-02-02,S.Res.31,majority,Foreign Relations,Mr. Hagerty,9,
-118,2023-02-02,S.Res.31,majority,Foreign Relations,Mr. Scott,10,SC
+118,2023-02-02,S.Res.31,majority,Foreign Relations,Mr. Scott (SC),10,
 118,2023-02-02,S.Res.31,majority,"Health, Education, Labor, and Pensions",Mr. Cassidy,1,
 118,2023-02-02,S.Res.31,majority,"Health, Education, Labor, and Pensions",Mr. Paul,2,
 118,2023-02-02,S.Res.31,majority,"Health, Education, Labor, and Pensions",Ms. Collins,3,
@@ -8153,7 +8153,7 @@ congress,date,resolution,party_designation,committee,member,rank,role
 118,2023-02-02,S.Res.31,majority,Homeland Security and Governmental Affairs,Mr. Johnson,2,
 118,2023-02-02,S.Res.31,majority,Homeland Security and Governmental Affairs,Mr. Lankford,3,
 118,2023-02-02,S.Res.31,majority,Homeland Security and Governmental Affairs,Mr. Romney,4,
-118,2023-02-02,S.Res.31,majority,Homeland Security and Governmental Affairs,Mr. Scott,5,FL
+118,2023-02-02,S.Res.31,majority,Homeland Security and Governmental Affairs,Mr. Scott (FL),5,
 118,2023-02-02,S.Res.31,majority,Homeland Security and Governmental Affairs,Mr. Hawley,6,
 118,2023-02-02,S.Res.31,majority,Homeland Security and Governmental Affairs,Mr. Marshall,7,
 118,2023-02-02,S.Res.31,majority,Judiciary,Mr. Graham,1,
@@ -8175,9 +8175,9 @@ congress,date,resolution,party_designation,committee,member,rank,role
 118,2023-02-02,S.Res.31,majority,Select Committee on Intelligence,Mr. Lankford,7,
 118,2023-02-02,S.Res.31,majority,Select Committee on Intelligence,Mr. Rounds,8,
 118,2023-02-02,S.Res.31,majority,Special Committee on Aging,Mr. Braun,1,
-118,2023-02-02,S.Res.31,majority,Special Committee on Aging,Mr. Scott,2,SC
+118,2023-02-02,S.Res.31,majority,Special Committee on Aging,Mr. Scott (SC),2,
 118,2023-02-02,S.Res.31,majority,Special Committee on Aging,Mr. Rubio,3,
-118,2023-02-02,S.Res.31,majority,Special Committee on Aging,Mr. Scott,4,FL
+118,2023-02-02,S.Res.31,majority,Special Committee on Aging,Mr. Scott (FL),4,
 118,2023-02-02,S.Res.31,majority,Special Committee on Aging,Mr. Vance,5,
 118,2023-02-02,S.Res.31,majority,Special Committee on Aging,Mr. Ricketts,6,
 118,2023-02-02,S.Res.31,majority,Budget,Mr. Grassley,1,
@@ -8188,7 +8188,7 @@ congress,date,resolution,party_designation,committee,member,rank,role
 118,2023-02-02,S.Res.31,majority,Budget,Mr. Marshall,6,
 118,2023-02-02,S.Res.31,majority,Budget,Mr. Braun,7,
 118,2023-02-02,S.Res.31,majority,Budget,Mr. Kennedy,8,
-118,2023-02-02,S.Res.31,majority,Budget,Mr. Scott,9,FL
+118,2023-02-02,S.Res.31,majority,Budget,Mr. Scott (FL),9,
 118,2023-02-02,S.Res.31,majority,Budget,Mr. Lee,10,
 118,2023-02-02,S.Res.31,majority,Indian Affairs,Ms. Murkowski,1,
 118,2023-02-02,S.Res.31,majority,Indian Affairs,Mr. Hoeven,2,
@@ -8211,7 +8211,7 @@ congress,date,resolution,party_designation,committee,member,rank,role
 118,2023-02-02,S.Res.31,majority,Small Business and Entrepreneurship,Mr. Rubio,2,
 118,2023-02-02,S.Res.31,majority,Small Business and Entrepreneurship,Mr. Risch,3,
 118,2023-02-02,S.Res.31,majority,Small Business and Entrepreneurship,Mr. Paul,4,
-118,2023-02-02,S.Res.31,majority,Small Business and Entrepreneurship,Mr. Scott,5,SC
+118,2023-02-02,S.Res.31,majority,Small Business and Entrepreneurship,Mr. Scott (SC),5,
 118,2023-02-02,S.Res.31,majority,Small Business and Entrepreneurship,Mr. Young,6,
 118,2023-02-02,S.Res.31,majority,Small Business and Entrepreneurship,Mr. Kennedy,7,
 118,2023-02-02,S.Res.31,majority,Small Business and Entrepreneurship,Mr. Hawley,8,
@@ -8460,7 +8460,7 @@ congress,date,resolution,party_designation,committee,member,rank,role
 119,2025-01-07,S.Res.16,majority,Armed Services,Ms. Ernst,5,
 119,2025-01-07,S.Res.16,majority,Armed Services,Mr. Sullivan,6,
 119,2025-01-07,S.Res.16,majority,Armed Services,Mr. Cramer,7,
-119,2025-01-07,S.Res.16,majority,Armed Services,Mr. Scott,8,FL
+119,2025-01-07,S.Res.16,majority,Armed Services,Mr. Scott (FL),8,
 119,2025-01-07,S.Res.16,majority,Armed Services,Mr. Tuberville,9,
 119,2025-01-07,S.Res.16,majority,Armed Services,Mr. Mullin,10,
 119,2025-01-07,S.Res.16,majority,Armed Services,Mr. Budd,11,
@@ -8519,7 +8519,7 @@ congress,date,resolution,party_designation,committee,member,rank,role
 119,2025-01-07,S.Res.16,majority,Finance,Mr. Grassley,2,
 119,2025-01-07,S.Res.16,majority,Finance,Mr. Cornyn,3,
 119,2025-01-07,S.Res.16,majority,Finance,Mr. Thune,4,
-119,2025-01-07,S.Res.16,majority,Finance,Mr. Scott,5,SC
+119,2025-01-07,S.Res.16,majority,Finance,Mr. Scott (SC),5,
 119,2025-01-07,S.Res.16,majority,Finance,Mr. Cassidy,6,
 119,2025-01-07,S.Res.16,majority,Finance,Mr. Lankford,7,
 119,2025-01-07,S.Res.16,majority,Finance,Mr. Daines,8,
@@ -8538,7 +8538,7 @@ congress,date,resolution,party_designation,committee,member,rank,role
 119,2025-01-07,S.Res.16,majority,Foreign Relations,Mr. Lee,7,
 119,2025-01-07,S.Res.16,majority,Foreign Relations,Mr. Paul,8,
 119,2025-01-07,S.Res.16,majority,Foreign Relations,Mr. Cruz,9,
-119,2025-01-07,S.Res.16,majority,Foreign Relations,Mr. Scott,10,FL
+119,2025-01-07,S.Res.16,majority,Foreign Relations,Mr. Scott (FL),10,
 119,2025-01-07,S.Res.16,majority,Foreign Relations,Mr. Curtis,11,
 119,2025-01-07,S.Res.16,majority,Foreign Relations,Mr. Cornyn,12,
 119,2025-01-07,S.Res.16,majority,"Health, Education, Labor, and Pensions",Mr. Cassidy,1,Chair
@@ -8547,7 +8547,7 @@ congress,date,resolution,party_designation,committee,member,rank,role
 119,2025-01-07,S.Res.16,majority,"Health, Education, Labor, and Pensions",Ms. Murkowski,4,
 119,2025-01-07,S.Res.16,majority,"Health, Education, Labor, and Pensions",Mr. Mullin,5,
 119,2025-01-07,S.Res.16,majority,"Health, Education, Labor, and Pensions",Mr. Marshall,6,
-119,2025-01-07,S.Res.16,majority,"Health, Education, Labor, and Pensions",Mr. Scott,7,SC
+119,2025-01-07,S.Res.16,majority,"Health, Education, Labor, and Pensions",Mr. Scott (SC),7,
 119,2025-01-07,S.Res.16,majority,"Health, Education, Labor, and Pensions",Mr. Hawley,8,
 119,2025-01-07,S.Res.16,majority,"Health, Education, Labor, and Pensions",Mr. Tuberville,9,
 119,2025-01-07,S.Res.16,majority,"Health, Education, Labor, and Pensions",Mr. Banks,10,
@@ -8556,11 +8556,11 @@ congress,date,resolution,party_designation,committee,member,rank,role
 119,2025-01-07,S.Res.16,majority,Homeland Security and Governmental Affairs,Mr. Paul,1,Chair
 119,2025-01-07,S.Res.16,majority,Homeland Security and Governmental Affairs,Mr. Johnson,2,
 119,2025-01-07,S.Res.16,majority,Homeland Security and Governmental Affairs,Mr. Lankford,3,
-119,2025-01-07,S.Res.16,majority,Homeland Security and Governmental Affairs,Mr. Scott,4,FL
+119,2025-01-07,S.Res.16,majority,Homeland Security and Governmental Affairs,Mr. Scott (FL),4,
 119,2025-01-07,S.Res.16,majority,Homeland Security and Governmental Affairs,Mr. Hawley,5,
 119,2025-01-07,S.Res.16,majority,Homeland Security and Governmental Affairs,Mr. Moreno,6,
 119,2025-01-07,S.Res.16,majority,Homeland Security and Governmental Affairs,Ms. Ernst,7,
-119,2025-01-07,S.Res.16,majority,Homeland Security and Governmental Affairs,Mr. Scott,8,SC
+119,2025-01-07,S.Res.16,majority,Homeland Security and Governmental Affairs,Mr. Scott (SC),8,
 119,2025-01-07,S.Res.16,majority,Judiciary,Mr. Grassley,1,Chair
 119,2025-01-07,S.Res.16,majority,Judiciary,Mr. Graham,2,
 119,2025-01-07,S.Res.16,majority,Judiciary,Mr. Cornyn,3,
@@ -8587,7 +8587,7 @@ congress,date,resolution,party_designation,committee,member,rank,role
 119,2025-01-07,S.Res.16,majority,Special Committee on Aging,Mr. Tuberville,3,
 119,2025-01-07,S.Res.16,majority,Special Committee on Aging,Mr. Johnson,4,
 119,2025-01-07,S.Res.16,majority,Special Committee on Aging,Mr. Crapo,5,
-119,2025-01-07,S.Res.16,majority,Special Committee on Aging,Mr. Scott,6,SC
+119,2025-01-07,S.Res.16,majority,Special Committee on Aging,Mr. Scott (SC),6,
 119,2025-01-07,S.Res.16,majority,Budget,Mr. Graham,1,Chair
 119,2025-01-07,S.Res.16,majority,Budget,Mr. Grassley,2,
 119,2025-01-07,S.Res.16,majority,Budget,Mr. Crapo,3,
@@ -8598,7 +8598,7 @@ congress,date,resolution,party_designation,committee,member,rank,role
 119,2025-01-07,S.Res.16,majority,Budget,Mr. Kennedy,8,
 119,2025-01-07,S.Res.16,majority,Budget,Mr. Ricketts,9,
 119,2025-01-07,S.Res.16,majority,Budget,Mr. Moreno,10,
-119,2025-01-07,S.Res.16,majority,Budget,Mr. Scott,11,FL
+119,2025-01-07,S.Res.16,majority,Budget,Mr. Scott (FL),11,
 119,2025-01-07,S.Res.16,majority,Indian Affairs,Ms. Murkowski,1,Chair
 119,2025-01-07,S.Res.16,majority,Indian Affairs,Mr. Hoeven,2,
 119,2025-01-07,S.Res.16,majority,Indian Affairs,Mr. Daines,3,
@@ -8623,7 +8623,7 @@ congress,date,resolution,party_designation,committee,member,rank,role
 119,2025-01-07,S.Res.16,majority,Small Business and Entrepreneurship,Ms. Ernst,1,Chair
 119,2025-01-07,S.Res.16,majority,Small Business and Entrepreneurship,Mr. Risch,2,
 119,2025-01-07,S.Res.16,majority,Small Business and Entrepreneurship,Mr. Paul,3,
-119,2025-01-07,S.Res.16,majority,Small Business and Entrepreneurship,Mr. Scott,4,SC
+119,2025-01-07,S.Res.16,majority,Small Business and Entrepreneurship,Mr. Scott (SC),4,
 119,2025-01-07,S.Res.16,majority,Small Business and Entrepreneurship,Mr. Young,5,
 119,2025-01-07,S.Res.16,majority,Small Business and Entrepreneurship,Mr. Hawley,6,
 119,2025-01-07,S.Res.16,majority,Small Business and Entrepreneurship,Mr. Budd,7,
@@ -8866,11 +8866,11 @@ congress,date,resolution,party_designation,committee,member,rank,role
 119,2025-01-14,S.Res.26,majority,Special Committee on Aging,Mr. Tuberville,4,
 119,2025-01-14,S.Res.26,majority,Special Committee on Aging,Mr. Johnson,5,
 119,2025-01-14,S.Res.26,majority,Special Committee on Aging,Mr. Crapo,6,
-119,2025-01-14,S.Res.26,majority,Special Committee on Aging,Mr. Scott,7,SC
+119,2025-01-14,S.Res.26,majority,Special Committee on Aging,Mr. Scott (SC),7,
 119,2025-01-14,S.Res.26,majority,Small Business and Entrepreneurship,Ms. Ernst,1,Chair
 119,2025-01-14,S.Res.26,majority,Small Business and Entrepreneurship,Mr. Risch,2,
 119,2025-01-14,S.Res.26,majority,Small Business and Entrepreneurship,Mr. Paul,3,
-119,2025-01-14,S.Res.26,majority,Small Business and Entrepreneurship,Mr. Scott,4,SC
+119,2025-01-14,S.Res.26,majority,Small Business and Entrepreneurship,Mr. Scott (SC),4,
 119,2025-01-14,S.Res.26,majority,Small Business and Entrepreneurship,Mr. Young,5,
 119,2025-01-14,S.Res.26,majority,Small Business and Entrepreneurship,Mr. Hawley,6,
 119,2025-01-14,S.Res.26,majority,Small Business and Entrepreneurship,Mr. Budd,7,
@@ -8893,7 +8893,7 @@ congress,date,resolution,party_designation,committee,member,rank,role
 119,2025-01-24,S.Res.38,majority,"Health, Education, Labor, and Pensions",Ms. Murkowski,4,
 119,2025-01-24,S.Res.38,majority,"Health, Education, Labor, and Pensions",Mr. Mullin,5,
 119,2025-01-24,S.Res.38,majority,"Health, Education, Labor, and Pensions",Mr. Marshall,6,
-119,2025-01-24,S.Res.38,majority,"Health, Education, Labor, and Pensions",Mr. Scott,7,SC
+119,2025-01-24,S.Res.38,majority,"Health, Education, Labor, and Pensions",Mr. Scott (SC),7,
 119,2025-01-24,S.Res.38,majority,"Health, Education, Labor, and Pensions",Mr. Hawley,8,
 119,2025-01-24,S.Res.38,majority,"Health, Education, Labor, and Pensions",Mr. Tuberville,9,
 119,2025-01-24,S.Res.38,majority,"Health, Education, Labor, and Pensions",Mr. Banks,10,
@@ -8902,7 +8902,7 @@ congress,date,resolution,party_designation,committee,member,rank,role
 119,2025-01-24,S.Res.38,majority,Homeland Security and Governmental Affairs,Mr. Paul,1,Chair
 119,2025-01-24,S.Res.38,majority,Homeland Security and Governmental Affairs,Mr. Johnson,2,
 119,2025-01-24,S.Res.38,majority,Homeland Security and Governmental Affairs,Mr. Lankford,3,
-119,2025-01-24,S.Res.38,majority,Homeland Security and Governmental Affairs,Mr. Scott,4,FL
+119,2025-01-24,S.Res.38,majority,Homeland Security and Governmental Affairs,Mr. Scott (FL),4,
 119,2025-01-24,S.Res.38,majority,Homeland Security and Governmental Affairs,Mr. Hawley,5,
 119,2025-01-24,S.Res.38,majority,Homeland Security and Governmental Affairs,Mr. Moreno,6,
 119,2025-01-24,S.Res.38,majority,Homeland Security and Governmental Affairs,Ms. Ernst,7,
@@ -8944,7 +8944,7 @@ congress,date,resolution,party_designation,committee,member,rank,role
 119,2025-01-24,S.Res.38,majority,Small Business and Entrepreneurship,Ms. Ernst,1,Chair
 119,2025-01-24,S.Res.38,majority,Small Business and Entrepreneurship,Mr. Risch,2,
 119,2025-01-24,S.Res.38,majority,Small Business and Entrepreneurship,Mr. Paul,3,
-119,2025-01-24,S.Res.38,majority,Small Business and Entrepreneurship,Mr. Scott,4,SC
+119,2025-01-24,S.Res.38,majority,Small Business and Entrepreneurship,Mr. Scott (SC),4,
 119,2025-01-24,S.Res.38,majority,Small Business and Entrepreneurship,Mr. Young,5,
 119,2025-01-24,S.Res.38,majority,Small Business and Entrepreneurship,Mr. Hawley,6,
 119,2025-01-24,S.Res.38,majority,Small Business and Entrepreneurship,Mr. Budd,7,
@@ -8973,7 +8973,7 @@ congress,date,resolution,party_designation,committee,member,rank,role
 119,2026-03-27,S.Res.664,majority,Armed Services,Ms. Ernst,5,
 119,2026-03-27,S.Res.664,majority,Armed Services,Mr. Sullivan,6,
 119,2026-03-27,S.Res.664,majority,Armed Services,Mr. Cramer,7,
-119,2026-03-27,S.Res.664,majority,Armed Services,Mr. Scott,8,FL
+119,2026-03-27,S.Res.664,majority,Armed Services,Mr. Scott (FL),8,
 119,2026-03-27,S.Res.664,majority,Armed Services,Mr. Tuberville,9,
 119,2026-03-27,S.Res.664,majority,Armed Services,Mr. Budd,10,
 119,2026-03-27,S.Res.664,majority,Armed Services,Mr. Schmitt,11,
@@ -8985,7 +8985,7 @@ congress,date,resolution,party_designation,committee,member,rank,role
 119,2026-03-27,S.Res.664,majority,"Health, Education, Labor, and Pensions",Ms. Collins,3,
 119,2026-03-27,S.Res.664,majority,"Health, Education, Labor, and Pensions",Ms. Murkowski,4,
 119,2026-03-27,S.Res.664,majority,"Health, Education, Labor, and Pensions",Mr. Marshall,5,
-119,2026-03-27,S.Res.664,majority,"Health, Education, Labor, and Pensions",Mr. Scott,6,SC
+119,2026-03-27,S.Res.664,majority,"Health, Education, Labor, and Pensions",Mr. Scott (SC),6,
 119,2026-03-27,S.Res.664,majority,"Health, Education, Labor, and Pensions",Mr. Hawley,7,
 119,2026-03-27,S.Res.664,majority,"Health, Education, Labor, and Pensions",Mr. Tuberville,8,
 119,2026-03-27,S.Res.664,majority,"Health, Education, Labor, and Pensions",Mr. Banks,9,
