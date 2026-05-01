@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="H5FDC071194BC4B7CBC71E1B217755AF1" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>115 HRES 1000 EH: </dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2018-07-17</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">115th CONGRESS</congress> 
+<session display="no">2d Session</session> 
+<legis-num>H. RES. 1000</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber>
+<action>
+<action-date date="20180717">July 17, 2018</action-date>
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no"><?xm-replace_text {official-title}?></official-title> 
+</form> 
+<resolution-body style="traditional" id="HE3E5516AB4E94B8DBF01046E9938CD12"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="H650CD1589F1D4D5A96681773BBCDB2AF"><text>That the following named Member be, and is hereby, elected to the following standing committees of the House of Representatives:</text> <committee-appointment-paragraph><header>Committee on Oversight and Government Reform:</header><text>Mr. Cloud.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Science, Space, and Technology:</header><text>Mr. Cloud. </text></committee-appointment-paragraph> </section> </resolution-body> <attestation><attestation-group><attestor display="no">Karen L. Haas,</attestor><role>Clerk.</role></attestation-group></attestation> </resolution> 
+

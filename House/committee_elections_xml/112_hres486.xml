@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="H5702A9193B104E2D95D4D9E897CF22AA" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H" stage-count="1"> 
+<form> 
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">112th CONGRESS</congress> 
+<session display="no">1st Session</session> 
+<legis-num>H. RES. 486</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber>
+<action>
+<action-date date="20111207">December 7, 2011</action-date>
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no">Electing a Member to a certain standing committee of the House of Representatives.</official-title> 
+</form> 
+<resolution-body style="traditional" id="HF0C388EBB60C4166856266A4C33990A2"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="HDE3B18C8EF6D4893B6882514EA216C49"><text>That the following named Member be, and is hereby, elected to the following standing committee of the House of Representatives:</text>
+
+<committee-appointment-paragraph><header>Committee on the Judiciary:</header><text>Mr. Polis.</text></committee-appointment-paragraph>
+
+</section> 
+</resolution-body> 
+<attestation><attestation-group><attestor display="no">Karen L. Haas,</attestor><role>Clerk.</role></attestation-group></attestation>
+</resolution> 

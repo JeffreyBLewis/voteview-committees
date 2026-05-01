@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="H11199BCF8D0847A78B7D9E6E5DE08CA7" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HRES 87 EH: Electing Members to certain standing committees of the House of Representatives.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-02-01</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">118th CONGRESS</congress> 
+<session display="no">1st Session</session> 
+<legis-num>H. RES. 87</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber>
+<action>
+<action-date date="20230201">February 1, 2023</action-date>
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no">Electing Members to certain standing committees of the House of Representatives.</official-title> 
+</form> 
+<resolution-body style="traditional" id="H8CCAB9EAAE964003A6CA9DEF8DD92EDD"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="H2AF9F6BB92AD4C9D8E6490E643C45A3C"><text display-inline="yes-display-inline">That the following named Members be, and are hereby, elected to the following standing committees of the House of Representatives:</text> <committee-appointment-paragraph><header>Committee on Education and the Workforce:</header><text>Mr. Grijalva, Mr. Courtney, Mr. Sablan, Ms. Wilson of Florida, Ms. Bonamici, Mr. Takano, Ms. Adams, Mr. DeSaulnier, Mr. Norcross, Ms. Jayapal, Ms. Wild, Mrs. McBath, Mrs. Hayes, Ms. Omar, Ms. Stevens, Ms. Leger Fernandez, Ms. Manning, Mr. Mrvan, Mr. Bowman.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Foreign Affairs:</header><text>Mr. Sherman, Mr. Connolly, Mr. Keating, Mr. Cicilline, Mr. Bera, Mr. Castro of Texas, Ms. Titus, Mr. Lieu, Ms. Wild, Mr. Phillips, Ms. Omar, Mr. Allred, Ms. Spanberger, Ms. Houlahan, Mr. Kim of New Jersey, Ms. Jacobs, Ms. Manning, Mrs. Cherfilus-McCormick, Mr. Stanton, Ms. Dean of Pennsylvania, Mr. Moskowitz, Mr. Jackson of Illinois, Ms. Kamlager-Dove.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header>Committee on Science, Space, and Technology:</header><text>Ms. Bonamici, Mr. Bera, Ms. Stevens, Ms. Sherrill, Mr. Bowman, Ms. Ross, Mr. Sorensen, Ms. Salinas, Mrs. Foushee, Mr. Mullin, Mr. Jackson of North Carolina, Mrs. Sykes, Mr. Frost, Ms. Caraveo, Ms. Lee of Pennsylvania, Mr. Lieu, Mr. Casten.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Small Business:</header><text>Mr. Golden of Maine, Mr. Mfume, Mr. Phillips, Mr. Landsman, Ms. Perez, Mr. Thanedar, Mr. McGarvey, Ms. Scholten, Ms. Chu, Ms. Davids of Kansas, Mr. Pappas.</text></committee-appointment-paragraph> </section> </resolution-body> <attestation><attestation-group><attestor display="no">Cheryl L. Johnson,</attestor><role>Clerk.</role></attestation-group></attestation> </resolution> 
+

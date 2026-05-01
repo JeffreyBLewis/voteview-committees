@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="HC0AD8DD98186475FB171270004EC3063" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>110 HRES 139 EH: </dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2007-02-08</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form> 
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">110th CONGRESS</congress> 
+<session display="no">1st Session</session> 
+<legis-num>H. RES. 139</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber>
+<action>
+<action-date date="20070208">February 8, 2007</action-date>
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no"><?xm-replace_text {official-title}?></official-title> 
+</form> 
+<resolution-body style="traditional" id="HD9F301CCE9CC4992A2825986781200A9"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="HF1AAFECC6A984C229136ABECF33009BA"><text>That the following named Members be, and are hereby, elected to the following standing committees of the House of Representatives:</text>
+
+<committee-appointment-paragraph><header>Committee on House Administration:</header><text>Mr. Brady of Pennsylvania, Ms. Zoe Lofgren of California, Mr. Capuano, Mr. Gonzalez, and Mrs. Davis of California.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Standards of Official Conduct:</header><text>Mr. Gene Green of Texas, Ms. Roybal-Allard, Mr. Doyle, and Mr. Delahunt.</text></committee-appointment-paragraph>
+
+</section> 
+</resolution-body> 
+<attestation><attestation-group><attestor display="no">Karen L. Haas,</attestor><role>Clerk.</role></attestation-group></attestation>
+</resolution> 
+
+

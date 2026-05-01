@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="H651B427A8CF7489193A0B474016A6467" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>116 HRES 725 EH: Electing a certain Member to a certain standing committee of the House of Representatives.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2019-11-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">116th CONGRESS</congress> 
+<session display="no">1st Session</session> 
+<legis-num>H. RES. 725</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber>
+<action>
+<action-date date="20191121">November 21, 2019</action-date>
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no">Electing a certain Member to a certain standing committee of the House of Representatives.</official-title> 
+</form> 
+<resolution-body style="traditional" id="H4D83F173A6A445FE9AEB0BE1C5B40E38"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="HB02FC37CBF8643AF957D85BA44992E96"><text>That the following named Member be, and is hereby, elected to the following standing committee of the House of Representatives:</text> <committee-appointment-paragraph><header>Committee on Oversight and Reform:</header><text>Mrs. Carolyn B. Maloney of New York, Chair.</text></committee-appointment-paragraph>
+
+</section> 
+</resolution-body> 
+<attestation><attestation-group><attestor display="no">Cheryl L. Johnson,</attestor><role>Clerk.</role></attestation-group></attestation>
+</resolution> 
+
+

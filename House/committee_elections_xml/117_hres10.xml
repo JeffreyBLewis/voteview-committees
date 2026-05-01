@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="HC7D7713823D64E039540AE770DB16AD2" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HRES 10 EH: Electing Members to certain standing committees of the House of Representatives. </dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2021-01-04</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">117th CONGRESS</congress> 
+<session display="no">1st Session</session> 
+<legis-num>H. RES. 10</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber>
+<action>
+<action-date date="20210104">January 4, 2021</action-date>
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no">Electing Members to certain standing committees of the House of Representatives. </official-title> 
+</form> 
+<resolution-body style="traditional" id="H2FC741F491AF4ECB9583C38EB9120A56"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="H319E6628FBF14D538F63B4E99A5531E2"><text>That the following named Members be, and are hereby, elected to the following standing committees of the House of Representatives: </text> <committee-appointment-paragraph><header> Committee on Agriculture:</header><text>Mr. Thompson of Pennsylvania.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Appropriations:</header><text>Ms. Granger. </text></committee-appointment-paragraph> <committee-appointment-paragraph><header> Committee on Armed Services:</header><text>Mr. Rogers of Alabama.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on the Budget:</header><text>Mr. Smith of Missouri.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header> Committee on Education and Labor:</header><text>Ms. Foxx.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Energy and Commerce:</header><text>Mrs. Rodgers of Washington.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header> Committee on Financial Services:</header><text>Mr. McHenry.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header> Committee on Foreign Affairs:</header><text>Mr. McCaul.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header> Committee on Homeland Security:</header><text>Mr. Katko. </text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on the Judiciary:</header><text>Mr. Jordan.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header>Committee on Natural Resources:</header><text>Mr. Westerman.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Oversight and Reform:</header><text>Mr. Comer.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header> Committee on Science, Space, and Technology:</header><text>Mr. Lucas.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header> Committee on Small Business:</header><text>Mr. Luetkemeyer.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header> Committee on Transportation and Infrastructure:</header><text>Mr. Graves of Missouri.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header> Committee on Veterans’ Affairs:</header><text>Mr. Bost.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header> Committee on Ways and Means:</header><text>Mr. Brady.</text></committee-appointment-paragraph>
+
+</section> 
+</resolution-body> 
+<attestation><attestation-group><attestor display="no">Cheryl L. Johnson,</attestor><role>Clerk.</role></attestation-group></attestation>
+</resolution> 
+
+

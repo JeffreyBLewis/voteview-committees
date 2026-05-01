@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution public-private="public" resolution-stage="Agreed-to-Senate" resolution-type="senate-resolution" star-print="no-star-print">
+	<form>
+		<distribution-code display="yes">III</distribution-code>
+		<congress display="yes">112th CONGRESS</congress>
+		<session display="yes">1st Session</session>
+		<legis-num>S. RES. 179</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action display="yes">
+			<action-date date="20110511">May 11, 2011</action-date>
+			<action-desc><sponsor name-id="S174">Mr. McConnell</sponsor> submitted
+			 the following resolution; which was considered and agreed to</action-desc>
+		</action>
+		<legis-type>RESOLUTION</legis-type>
+		<official-title display="yes">To constitute the minority party's
+		  membership on certain committees for the One Hundred Twelfth Congress, or until
+		  their successors are chosen.</official-title>
+	</form>
+	<resolution-body>
+		<section display-inline="yes-display-inline" id="S1" section-type="undesignated-section"><enum></enum><text>That the following shall constitute
+			 the minority party's membership on the following committees for the One Hundred
+			 Twelfth Congress, or until their successors are chosen:</text>
+			<committee-appointment-paragraph><header>COMMITTEE ON COMMERCE, SCIENCE,
+			 AND TRANSPORTATION:</header><text>Mrs. Hutchison, Ms. Snowe, Mr. DeMint, Mr.
+			 Thune, Mr. Wicker, Mr. Isakson, Mr. Blunt, Mr. Boozman, Mr. Toomey, Mr. Rubio,
+			 Ms. Ayotte, and Mr. Heller.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>COMMITTEE ON ENERGY AND NATURAL
+			 RESOURCES:</header><text>Ms. Murkowski, Mr. Barrasso, Mr. Risch, Mr. Lee, Mr.
+			 Paul, Mr. Coats, Mr. Portman, Mr. Hoeven, Mr. Heller and Mr. Corker.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>COMMITTEE ON
+			 FINANCE:</header><text>Mr. Hatch, Mr. Grassley, Ms. Snowe, Mr. Kyl, Mr. Crapo,
+			 Mr. Roberts, Mr. Enzi, Mr. Cornyn, Mr. Coburn, Mr. Thune and Mr. Burr.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>COMMITTEE ON HOMELAND SECURITY
+			 AND GOVERNMENTAL AFFAIRS:</header><text>Ms. Collins, Mr. Coburn, Mr. Brown
+			 (Massachusetts), Mr. McCain, Mr. Johnson (Wisconsin), Mr. Portman, Mr. Paul and
+			 Mr. Moran.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>COMMITTEE ON THE
+			 BUDGET:</header><text>Mr. Sessions, Mr. Grassley, Mr. Enzi, Mr. Crapo, Mr.
+			 Cornyn, Mr. Graham, Mr. Thune, Mr. Portman, Mr. Toomey, Mr. Johnson
+			 (Wisconsin), and Ms. Ayotte.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>SPECIAL COMMITTEE ON
+			 AGING:</header><text>Mr. Corker, Ms. Collins, Mr. Hatch, Mr. Kirk, Mr. Heller,
+			 Mr. Moran, Mr. Johnson (Wisconsin), Mr. Shelby, Mr. Graham, and Mr.
+			 Chambliss.</text>
+			</committee-appointment-paragraph></section></resolution-body>
+</resolution>

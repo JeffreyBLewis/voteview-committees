@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="H5D478EBDAFD048C79A93DA82402CFF85" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>116 HRES 481 EH: Electing Members to certain standing committees of the House of Representatives.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2019-07-10</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">116th CONGRESS</congress> 
+<session display="no">1st Session</session> 
+<legis-num>H. RES. 481</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber>
+<action>
+<action-date date="20190710">July 10, 2019</action-date>
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no">Electing Members to certain standing committees of the House of Representatives.</official-title> 
+</form> 
+<resolution-body style="traditional" id="H8C23C870C3FE453FA6EAD1300A63BAAE"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="HBBFA98405729487284DE2F9F6960D727"><text display-inline="yes-display-inline">That the following named Members be, and are hereby, elected to the following standing committees of the House of Representatives: </text> <committee-appointment-paragraph><header>Committee on the Budget:</header><text>Mr. Kevin Hern of Oklahoma, to rank immediately after Mr. Norman. </text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Education and Labor:</header><text>Mr. Keller. </text></committee-appointment-paragraph> <committee-appointment-paragraph><header>Committee on Oversight and Reform:</header><text>Mr. Keller. </text></committee-appointment-paragraph>
+
+</section> 
+</resolution-body> 
+<attestation><attestation-group><attestor display="no">Cheryl L. Johnson,</attestor><role>Clerk.</role></attestation-group></attestation>
+</resolution> 
+
+

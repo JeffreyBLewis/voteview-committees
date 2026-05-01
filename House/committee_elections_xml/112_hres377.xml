@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="HDCAD9700CD5A469BAEACDC773FAE7593" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H" stage-count="1"> 
+<form> 
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">112th CONGRESS</congress> 
+<session display="no">1st Session</session> 
+<legis-num>H. RES. 377</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber>
+<action>
+<action-date date="20110728">July 28, 2011</action-date>
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no"><?xm-replace_text {official-title}?></official-title> 
+</form> 
+<resolution-body style="traditional" id="HA90C7AF14A584909BC64E3C41F474D5E"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="H7FC9C178175F451AA43671F940EEB268"><text display-inline="yes-display-inline">That the following named Members be, and are hereby, elected to the following standing committees of the House of Representatives:</text> 
+
+<committee-appointment-paragraph><header>Committee on Armed Services:</header><text>Ms. Hochul.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Homeland Security:</header><text>Ms. Hahn.</text></committee-appointment-paragraph>
+
+</section> 
+</resolution-body> 
+<attestation><attestation-group><attestor display="no">Karen L. Haas,</attestor><role>Clerk.</role></attestation-group></attestation>
+</resolution> 

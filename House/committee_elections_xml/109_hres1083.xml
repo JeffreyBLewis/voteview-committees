@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="H8C87D854713F4DD1B930CFB97D27476F" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>109 HRES 1083 EH: </dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2006-11-15</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form> 
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">109th CONGRESS</congress> 
+<session display="no">2d Session</session> 
+<legis-num>H. RES. 1083</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber>
+<action>
+<action-date date="20061115">November 15, 2006</action-date>
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no"><?xm-replace_text {official-title}?></official-title> 
+</form> 
+<resolution-body style="traditional" id="H9AD447B466234D35B3F2F145239E0049"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="H587422C5C532427CAE6EFE000034EDDA"><text display-inline="yes-display-inline">That the following Member be and is hereby elected to the following standing committees of the House of Representatives: </text>
+
+<committee-appointment-paragraph><header>Committee on Education and the Workforce: </header><text>Ms. Sekula Gibbs.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Transportation and Infrastructure: </header><text>Ms. Sekula Gibbs.</text></committee-appointment-paragraph>
+
+</section> 
+</resolution-body> 
+<attestation><attestation-group><attestor display="no">Karen L. Haas</attestor><role>Clerk.</role></attestation-group></attestation>
+</resolution> 
+
+

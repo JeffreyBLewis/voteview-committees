@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="H81431512B2F4492A88DABCE5C0031B73" public-private="public" resolution-stage="Engrossed-House" resolution-type="house-resolution" star-print="no-star-print" key="H"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>109 HRES 513 : </dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2005-10-26</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form> 
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">109th CONGRESS</congress> 
+<session display="no">1st Session</session> 
+<legis-num>H. RES. 513</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U.S.,</current-chamber> 
+<action> 
+<action-date date="20051026">October 26, 2005.</action-date> 
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no"><?xm-replace_text {official-title}?></official-title> 
+</form> 
+<resolution-body style="traditional" id="H9FC5B5FE12014D8EBE127EF2FCC00C7"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="H9FDDBA5B51234D21ABD3C23974C8DA47"><text>That the following named Member be, and he is hereby, elected to the following standing committee of the House of Representatives:</text> 
+
+<committee-appointment-paragraph><header>Committee on Energy and Commerce:</header><text>Mr. Barrett of South Carolina.</text></committee-appointment-paragraph>
+
+</section> 
+</resolution-body> 
+<attestation><attestation-group><attestation-date date="20051026" chamber="House"></attestation-date><attestor display="no">Jeff Trandahl</attestor><role>Clerk.</role></attestation-group></attestation> 
+</resolution> 
+
+

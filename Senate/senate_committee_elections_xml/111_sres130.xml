@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution public-private="public" resolution-stage="Agreed-to-Senate" resolution-type="senate-resolution" star-print="no-star-print">
+	<form>
+		<distribution-code display="yes">III</distribution-code>
+		<congress display="yes">111th CONGRESS</congress>
+		<session display="yes">1st Session</session>
+		<legis-num>S. RES. 130</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action display="yes">
+			<action-date date="20090505">May 5, 2009</action-date>
+			<action-desc><sponsor name-id="S198">Mr. Reid</sponsor> submitted the
+			 following resolution; which was considered and agreed to</action-desc>
+		</action>
+		<legis-type>RESOLUTION</legis-type>
+		<official-title display="yes">To constitute the majority party's
+		  membership on certain committees for the One Hundred Eleventh Congress, or
+		  until their successors are chosen.</official-title>
+	</form>
+	<resolution-body>
+		<section display-inline="yes-display-inline" id="S1" section-type="undesignated-section"><enum></enum><text>That the following shall constitute
+			 the majority party's membership on the following committees for the One Hundred
+			 Eleventh Congress, or until their successors are chosen:</text>
+			<committee-appointment-paragraph><header>Committee on
+			 appropriations:</header><text>Mr. Inouye (Chairman), Mr. Byrd, Mr. Leahy, Mr.
+			 Harkin, Ms. Mikulski, Mr. Kohl, Mrs. Murray, Mr. Dorgan, Mrs. Feinstein, Mr.
+			 Durbin, Mr. Johnson, Ms. Landrieu, Mr. Reed, Mr. Lautenberg, Mr. Nelson of
+			 Nebraska, Mr. Pryor, Mr. Tester, and Mr. Specter.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on the environment and
+			 public works:</header><text>Mrs. Boxer (Chairman), Mr. Baucus, Mr. Carper, Mr.
+			 Lautenberg, Mr. Cardin, Mr. Sanders, Ms. Klobuchar, Mr. Whitehouse, Mr. Udall
+			 of New Mexico, Mr. Merkley, Mrs. Gillibrand, and Mr. Specter.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on the
+			 judiciary:</header><text>Mr. Leahy (Chairman), Mr. Kohl, Mrs. Feinstein, Mr.
+			 Feingold, Mr. Schumer, Mr. Durbin, Mr. Cardin, Mr. Whitehouse, Mr. Wyden, Ms.
+			 Klobuchar, Mr. Kaufman, and Mr. Specter.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on veterans'
+			 affairs:</header><text>Mr. Akaka (Chairman), Mr. Rockefeller, Mrs. Murray, Mr.
+			 Sanders, Mr. Brown, Mr. Webb, Mr. Tester, Mr. Begich, Mr. Burris, and Mr.
+			 Specter.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Special committee on
+			 aging:</header><text>Mr. Kohl (Chairman), Mr. Wyden, Mrs. Lincoln, Mr. Bayh,
+			 Mr. Nelson of Florida, Mr. Casey, Mrs. McCaskill, Mr. Whitehouse, Mr. Udall of
+			 Colorado, Mr. Bennet, Mrs. Gillibrand, Mr. Specter, and Majority Leader
+			 designee.</text>
+			</committee-appointment-paragraph></section></resolution-body>
+</resolution>

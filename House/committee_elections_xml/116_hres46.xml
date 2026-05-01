@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="H06C5E7FC4E1743228A8D7F4DD60D87C5" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>116 HRES 46 EH: Electing Members to a certain standing committee of the House of Representatives.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2019-01-16</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">116th CONGRESS</congress> 
+<session display="no">1st Session</session> 
+<legis-num>H. RES. 46</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber>
+<action>
+<action-date date="20190116">January 16, 2019</action-date>
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no">Electing Members to a certain standing committee of the House of Representatives.</official-title> 
+</form> 
+<resolution-body style="traditional" id="H7C0090EC68234008B27954C842E89F2A"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="H623549F25A894E2DAB8DE084ACE4616D"><text display-inline="yes-display-inline">That the following named Members be, and are hereby, elected to the following standing committee of the House of Representatives:</text> <committee-appointment-paragraph><header>Committee on the Judiciary:</header><text>Ms. Lofgren, Ms. Jackson Lee, Mr. Cohen, Mr. Johnson of Georgia, Mr. Deutch, Ms. Bass, Mr. Richmond, Mr. Jeffries, Mr. Cicilline, Mr. Swalwell of California, Mr. Ted Lieu of California, Mr. Raskin, Ms. Jayapal, Mrs. Demings, Mr. Correa, Ms. Scanlon, Ms. Garcia of Texas, Mr. Neguse, Mrs. McBath, Mr. Stanton, Ms. Dean, Ms. Mucarsel-Powell, and Ms. Escobar.</text></committee-appointment-paragraph>
+
+</section> 
+</resolution-body> 
+<attestation><attestation-group><attestor display="no">Karen L. Haas,</attestor><role>Clerk.</role></attestation-group></attestation>
+</resolution> 
+
+

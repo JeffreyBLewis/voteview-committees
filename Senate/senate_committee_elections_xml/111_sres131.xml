@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution public-private="public" resolution-stage="Agreed-to-Senate" resolution-type="senate-resolution" star-print="no-star-print">
+	<form>
+		<distribution-code display="yes">III</distribution-code>
+		<congress display="yes">111th CONGRESS</congress>
+		<session display="yes">1st Session</session>
+		<legis-num>S. RES. 131</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action display="yes">
+			<action-date date="20090505">May 5, 2009</action-date>
+			<action-desc><sponsor name-id="S174">Mr. McConnell</sponsor> submitted
+			 the following resolution; which was considered and agreed to</action-desc>
+		</action>
+		<legis-type>RESOLUTION</legis-type>
+		<official-title display="yes">Making minority party appointments for
+		  certain committees for the 111th Congress.</official-title>
+	</form>
+	<resolution-body>
+		<section display-inline="yes-display-inline" id="S1" section-type="undesignated-section"><enum></enum><text>That the following be the minority
+			 membership on the following committees for the remainder of the 111th Congress,
+			 or until their successors are appointed:</text>
+			<committee-appointment-paragraph><header>Committee on
+			 appropriations:</header><text>Mr. Cochran, Mr. Bond, Mr. McConnell, Mr. Shelby,
+			 Mr. Gregg, Mr. Bennett, Mrs. Hutchison, Mr. Brownback, Mr. Alexander, Ms.
+			 Collins, Mr. Voinovich, and Ms. Murkowski.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on environment and
+			 public works:</header><text>Mr. Inhofe, Mr. Voinovich, Mr. Vitter, Mr.
+			 Barrasso, Mr. Crapo, Mr. Bond, and Mr. Alexander.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on the
+			 judiciary:</header><text>Mr. Sessions, Mr. Hatch, Mr. Grassley, Mr. Kyl, Mr.
+			 Graham, Mr. Cornyn, and Mr. Coburn.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on veterans'
+			 affairs:</header><text>Mr. Burr, Mr. Isakson, Mr. Wicker, Mr. Johanns, and Mr.
+			 Graham.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Special committee on
+			 aging:</header><text>Mr. Martinez, Mr. Shelby, Ms. Collins, Republican Leader
+			 designee, Mr. Corker, Mr. Hatch, Mr. Brownback, and Mr. Graham.</text>
+			</committee-appointment-paragraph></section></resolution-body>
+</resolution>

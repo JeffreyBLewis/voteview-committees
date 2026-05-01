@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution public-private="public" resolution-stage="Agreed-to-Senate" resolution-type="senate-resolution" star-print="no-star-print">
+	<form>
+		<distribution-code display="yes">III</distribution-code>
+		<congress display="yes">111th CONGRESS</congress>
+		<session display="yes">1st Session</session>
+		<legis-num>S. RES. 218</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action display="yes">
+			<action-date date="20090721">July 21, 2009</action-date>
+			<action-desc><sponsor name-id="S174">Mr. McConnell</sponsor> submitted
+			 the following resolution; which was considered and agreed to</action-desc>
+		</action>
+		<legis-type>RESOLUTION</legis-type>
+		<official-title display="yes">Making minority party appointments for the
+		  111th Congress.</official-title>
+	</form>
+	<resolution-body>
+		<section display-inline="yes-display-inline" id="S1" section-type="undesignated-section"><enum></enum><text>That the following be the minority
+			 membership on the following committees for the remainder of the 111th Congress,
+			 or until their successors are appointed:</text>
+			<committee-appointment-paragraph><header>Committee on agriculture,
+			 nutrition, and forestry:</header><text>Mr. Chambliss, Mr. Lugar, Mr. Cochran,
+			 Mr. McConnell, Mr. Roberts, Mr. Johanns, Mr. Grassley, Mr. Thune, and Mr.
+			 Cornyn.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on foreign
+			 relations:</header><text>Mr. Lugar, Mr. Corker, Mr. Isakson, Mr. Risch, Mr.
+			 DeMint, Mr. Barrasso, Mr. Wicker, and Mr. Inhofe.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on homeland security
+			 and governmental affairs:</header><text>Ms. Collins, Mr. Coburn, Mr. McCain,
+			 Mr. Voinovich, Mr. Ensign, Mr. Graham, and Mr. Bennett.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on small business and
+			 entrepreneurship:</header><text>Ms. Snowe, Mr. Bond, Mr. Vitter, Mr. Thune, Mr.
+			 Enzi, Mr. Isakson, Mr. Wicker, and Mr. Risch.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Special committee on
+			 aging:</header><text>Mr. Martinez, Mr. Shelby, Ms. Collins, Mr. Corker, Mr.
+			 Hatch, Mr. Brownback, Mr. Graham, and Mr. Chambliss.</text>
+			</committee-appointment-paragraph></section></resolution-body>
+</resolution>

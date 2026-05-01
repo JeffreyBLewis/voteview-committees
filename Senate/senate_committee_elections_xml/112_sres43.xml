@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution public-private="public" resolution-stage="Agreed-to-Senate" resolution-type="senate-resolution" star-print="no-star-print">
+	<form>
+		<distribution-code display="yes">III</distribution-code>
+		<congress display="yes">112th CONGRESS</congress>
+		<session display="yes">1st Session</session>
+		<legis-num>S. RES. 43</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action display="yes">
+			<action-date date="20110203">February 3, 2011</action-date>
+			<action-desc><sponsor name-id="S174">Mr. McConnell</sponsor> submitted
+			 the following resolution; which was considered and agreed to</action-desc>
+		</action>
+		<legis-type>RESOLUTION</legis-type>
+		<official-title display="yes">To constitute the minority party's
+		  membership on certain committees for the One Hundred Twelfth Congress, or until
+		  their successors are chosen.</official-title>
+	</form>
+	<resolution-body>
+		<section display-inline="yes-display-inline" id="S1" section-type="undesignated-section"><enum></enum><text>That the following shall constitute
+			 the minority party's membership on the following committees for the One Hundred
+			 Twelfth Congress, or until their successors are chosen:</text>
+			<committee-appointment-paragraph><header>Committee on Agriculture,
+			 Nutrition, and Forestry:</header><text>Mr. Roberts, Mr. Lugar, Mr. Cochran, Mr.
+			 McConnell, Mr. Chambliss, Mr. Johanns, Mr. Boozman, Mr. Grassley, Mr. Thune,
+			 and Mr. Hoeven.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on
+			 Appropriations:</header><text>Mr. Cochran, Mr. McConnell, Mr. Shelby, Mrs.
+			 Hutchison, Mr. Alexander, Ms. Collins, Ms. Murkowski, Mr. Graham, Mr. Kirk, Mr.
+			 Coats, Mr. Blunt, Mr. Moran, Mr. Hoeven, and Mr. Johnson (Wisconsin).</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on Armed
+			 Services:</header><text>Mr. McCain, Mr. Inhofe, Mr. Sessions, Mr. Chambliss,
+			 Mr. Wicker, Mr. Brown (Massachusetts), Mr. Portman, Ms. Ayotte, Ms. Collins,
+			 Mr. Graham, Mr. Cornyn, and Mr. Vitter.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on Banking, Housing,
+			 and Urban Affairs:</header><text>Mr. Shelby, Mr. Crapo, Mr. Corker, Mr. DeMint,
+			 Mr. Vitter, Mr. Johanns, Mr. Toomey, Mr. Kirk, Mr. Moran, and Mr.
+			 Wicker.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on Commerce, Science,
+			 and Transportation:</header><text>Mrs. Hutchison, Ms. Snowe, Mr. Ensign, Mr.
+			 DeMint, Mr. Thune, Mr. Wicker, Mr. Isakson, Mr. Blunt, Mr. Boozman, Mr. Toomey,
+			 Mr. Rubio, and Ms. Ayotte.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on Energy and Natural
+			 Resources:</header><text>Ms. Murkowski, Mr. Burr, Mr. Barrasso, Mr. Risch, Mr.
+			 Lee, Mr. Paul, Mr. Coats, Mr. Portman, Mr. Hoeven, and Mr. Corker.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on the Environment and
+			 Public Works:</header><text>Mr. Inhofe, Mr. Vitter, Mr. Barrasso, Mr. Sessions,
+			 Mr. Crapo, Mr. Alexander, Mr. Johanns, and Mr. Boozman.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on
+			 Finance:</header><text>Mr. Hatch, Mr. Grassley, Ms. Snowe, Mr. Kyl, Mr. Crapo,
+			 Mr. Roberts, Mr. Ensign, Mr. Enzi, Mr. Cornyn, Mr. Coburn, and Mr.
+			 Thune.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on Foreign
+			 Relations:</header><text>Mr. Lugar, Mr. Corker, Mr. Risch, Mr. Rubio, Mr.
+			 Inhofe, Mr. DeMint, Mr. Isakson, Mr. Barrasso, and Mr. Lee.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on Health, Education,
+			 Labor, and Pensions:</header><text>Mr. Enzi, Mr. Alexander, Mr. Burr, Mr.
+			 Isakson, Mr. Paul, Mr. Hatch, Mr. McCain, Mr. Roberts, Ms. Murkowski, and Mr.
+			 Kirk.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on Homeland Security
+			 and Governmental Affairs:</header><text>Ms. Collins, Mr. Coburn, Mr. Brown
+			 (Massachusetts), Mr. McCain, Mr. Johnson (Wisconsin), Mr. Ensign, Mr. Portman,
+			 and Mr. Paul.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on the
+			 Judiciary:</header><text>Mr. Grassley, Mr. Hatch, Mr. Kyl, Mr. Sessions, Mr.
+			 Graham, Mr. Cornyn, Mr. Lee, and Mr. Coburn.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on the
+			 Budget:</header><text>Mr. Sessions, Mr. Grassley, Mr. Enzi, Mr. Crapo, Mr.
+			 Ensign, Mr. Cornyn, Mr. Graham, Mr. Thune, Mr. Portman, Mr. Toomey, and Mr.
+			 Johnson (Wisconsin).</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on Rules and
+			 Administration:</header><text>Mr. Alexander, Mr. McConnell, Mr. Cochran, Mr.
+			 Chambliss, Mrs. Hutchison, Mr. Roberts, Mr. Shelby, and Mr. Blunt.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on Small Business and
+			 Entrepreneurship:</header><text>Ms. Snowe, Mr. Vitter, Mr. Risch, Mr. Rubio,
+			 Mr. Paul, Ms. Ayotte, Mr. Enzi, Mr. Brown (Massachusetts), and Mr.
+			 Moran.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on Veterans'
+			 Affairs:</header><text>Mr. Burr, Mr. Isakson, Mr. Wicker, Mr. Johanns, Mr.
+			 Brown (Massachusetts), Mr. Moran, and Mr. Boozman.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Special Committee on
+			 Aging:</header><text>Mr. Corker, Ms. Collins, Mr. Hatch, Mr. Kirk, Mr. Moran,
+			 Mr. Johnson (Wisconsin), Ms. Ayotte, Mr. Shelby, Mr. Graham, and Mr.
+			 Chambliss.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Select Committee on
+			 Intelligence:</header><text>Mr. Chambliss, Ms. Snowe, Mr. Burr, Mr. Risch, Mr.
+			 Coats, Mr. Blunt, and Mr. Rubio.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Joint Economic
+			 Committee:</header><text>Mr. DeMint, Mr. Coats, Mr. Lee, and Mr. Toomey.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Select Committee on
+			 Ethics:</header><text>Mr. Isakson, Mr. Roberts, and Mr. Risch.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on Indian
+			 Affairs:</header><text>Mr. Barrasso, Mr. McCain, Ms. Murkowski, Mr. Hoeven, Mr.
+			 Crapo, and Mr. Johanns.</text>
+			</committee-appointment-paragraph></section></resolution-body>
+</resolution>

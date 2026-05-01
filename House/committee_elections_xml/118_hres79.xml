@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="HD31D49DAFCBB482F846C1FC1055DD956" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HRES 79 EH: Electing Members to certain standing committees of the House of Representatives.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-01-31</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">118th CONGRESS</congress> 
+<session display="no">1st Session</session> 
+<legis-num>H. RES. 79</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber> 
+<action> 
+<action-date date="20230131">January 31, 2023</action-date> 
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no">Electing Members to certain standing committees of the House of Representatives.</official-title> 
+</form> 
+<resolution-body style="traditional" id="H1A258A7789E8440C9F050F8E2F619FED"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="H5B63BEF56592465EB386AB79CEDD59C4"><text display-inline="yes-display-inline">That the following named Members be, and are hereby, elected to the following standing committees of the House of Representatives:</text> <committee-appointment-paragraph><header>Committee on Agriculture:</header><text>Mr. Costa, Mr. McGovern, Ms. Adams, Ms. Spanberger, Mrs. Hayes, Ms. Brown, Ms. Plaskett, Ms. Davids of Kansas, Ms. Slotkin, Ms. Caraveo, Ms. Salinas, Ms. Perez, Mr. Davis of North Carolina, Ms. Tokuda, Ms. Budzinski, Mr. Sorensen, Mr. Vasquez, Ms. Crockett, Mr. Jackson of Illinois, Mr. Casar.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Armed Services:</header><text>Mr. Courtney, Mr. Garamendi, Mr. Norcross, Mr. Gallego, Mr. Moulton, Mr. Carbajal, Mr. Khanna, Mr. Keating, Mr. Kim of New Jersey, Ms. Houlahan, Mr. Crow, Ms. Slotkin, Ms. Sherrill, Ms. Escobar, Mr. Golden of Maine, Ms. Jacobs, Ms. Strickland, Mr. Ryan, Mr. Jackson of North Carolina, Mr. Vasquez, Mr. Deluzio, Ms. Tokuda, Mr. Davis of North Carolina, Ms. Sewell, Mr. Horsford, Mr. Panetta.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header>Committee on Ethics:</header><text>Ms. Wild, Ms. Escobar, Mr. DeSaulnier, Ms. Ross, Mr. Ivey.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Homeland Security:</header><text>Ms. Jackson Lee, Mr. Payne, Mr. Swalwell, Mr. Correa, Mr. Carter of Louisiana, Mr. Thanedar, Mr. Magaziner, Mr. Ivey, Mr. Goldman of New York, Mr. Robert Garcia of California, Mrs. Ramirez, Mr. Menendez, Ms. Clarke of New York, Ms. Titus.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header>Committee on Natural Resources:</header><text>Mrs. Napolitano, Mr. Costa, Mr. Sablan, Mr. Huffman, Mr. Gallego, Mr. Neguse, Mr. Levin, Ms. Porter, Ms. Leger Fernández, Ms. Stansbury, Mrs. Peltola, Ms. Ocasio-Cortez, Mr. Mullin, Ms. Hoyle of Oregon, Ms. Kamlager-Dove, Mr. Magaziner, Ms. Velázquez, Mr. Case, Mrs. Dingell.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Transportation and Infrastructure:</header><text>Ms. Norton, Mrs. Napolitano, Mr. Cohen, Mr. Garamendi, Mr. Johnson of Georgia, Mr. Carson, Ms. Titus, Mr. Huffman, Ms. Brownley, Ms. Wilson of Florida, Mr. Payne, Mr. DeSaulnier, Mr. Carbajal, Mr. Stanton, Mr. Allred, Ms. Davids of Kansas, Mr. García of Illinois, Mr. Pappas, Mr. Moulton, Mr. Auchincloss, Ms. Strickland, Mr. Carter of Louisiana, Mr. Ryan, Mrs. Peltola, Mr. Menendez, Ms. Hoyle of Oregon, Mrs. Sykes, Ms. Scholten, Mrs. Foushee.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header><committee-name committee-id="HVR00"> Committee on Veterans' Affairs:</committee-name></header><text>Ms. Brownley, Mr. Levin, Mr. Pappas, Mr. Mrvan, Mrs. Cherfilus-McCormick, Mr. Deluzio, Mr. McGarvey, Mrs. Ramirez, Mr. Landsman, Ms. Budzinski.</text></committee-appointment-paragraph>
+
+</section> 
+</resolution-body> 
+<attestation><attestation-group><attestor display="no">Cheryl L. Johnson,</attestor><role>Clerk.</role></attestation-group></attestation> 
+</resolution> 
+
+

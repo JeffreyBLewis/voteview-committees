@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="H9650C684D9114343A1B9122123CBB43" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>110 HRES 1342 EH: Electing certain Members to certain standing committees of the House of Representatives.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2008-07-15</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form> 
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">110th CONGRESS</congress> 
+<session display="no">2d Session</session> 
+<legis-num>H. RES. 1342</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber>
+<action>
+<action-date date="20080715">July 15, 2008</action-date>
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no">Electing certain Members to certain standing committees of the House of Representatives.</official-title> 
+</form> 
+<resolution-body style="traditional" id="H14077F5595664F44B822983FD791145"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="HE264AEADE85E44FF8E97B245E75DCB90"><text>That the following named Members be, and are hereby, elected to the following standing committees of the House of Representatives:</text>
+<paragraph id="HC73548AC334D4A87B885793445A009C"><enum>(1)</enum><header>Committee on Oversight and Government Reform</header><text>Ms. Speier.</text></paragraph>
+<paragraph id="H5E4D4FC3E5D845169ECFA1003EE8B32E"><enum>(2)</enum><header>Committee on Science and Technology</header><text>Ms. Edwards of Maryland (to rank immediately after Ms. Richardson).</text></paragraph>
+<paragraph id="HDED674C9C18B4D250007BC40B0D598D"><enum>(3)</enum><header>Committee on Transportation and Infrastructure</header><text>Ms. Edwards of Maryland.</text></paragraph></section> 
+</resolution-body> 
+<attestation><attestation-group><attestor display="no">Lorraine C. Miller,</attestor><role>Clerk.</role></attestation-group></attestation>
+</resolution> 
+
+

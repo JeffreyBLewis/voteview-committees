@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="HA13A321FD2904ECCAEC475651DD55D93" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HRES 887 EH: Electing Members to certain standing committees of the House of Representatives.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2025-11-18</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">119th CONGRESS</congress> 
+<session display="no">1st Session</session> 
+<legis-num>H. RES. 887</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber>
+<action>
+<action-date date="20251118">November 18, 2025</action-date>
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no">Electing Members to certain standing committees of the House of Representatives.</official-title> 
+</form> 
+<resolution-body style="traditional" id="H034C219FF2BC4D6FB3EBDC2D1FA719B4"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="H94079AA892E543AEA3A2500EF8BA85D6"><text display-inline="yes-display-inline">That the following named Members be, and are hereby, elected to the following standing committees of the House of Representatives:</text> <committee-appointment-paragraph><header><committee-name committee-id="HAS00"> Committee on Armed Services:</committee-name> </header><text>Mr. Conaway.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header><committee-name committee-id="HED00"> Committee on Education and Workforce:</committee-name> </header><text>Mrs. Grijalva.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header><committee-name committee-id="HHM00"> Committee on Homeland Security:</committee-name> </header><text>Mr. Walkinshaw (to rank immediately after Ms. Pou).</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header><committee-name committee-id="HII00"> Committee on Natural Resources:</committee-name> </header><text>Mrs. Grijalva (to rank immediately after Ms. Rivas).</text></committee-appointment-paragraph> </section> </resolution-body> <attestation><attestation-group><attestor display="no">Kevin F. McCumber,</attestor><role>Clerk.</role></attestation-group></attestation> </resolution> 
+

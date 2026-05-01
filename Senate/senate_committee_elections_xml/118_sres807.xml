@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution public-private="public" resolution-stage="Agreed-to-Senate" resolution-type="senate-resolution" star-print="no-star-print" key="G"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 SRES 807 ATS: To constitute the majority party's membership on certain committees for the One Hundred Eighteenth Congress, or until their successors are chosen.</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2024-09-10</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">III</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">2d Session</session><legis-num>S. RES. 807</legis-num><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action display="yes"><action-date date="20240910">September 10, 2024</action-date><action-desc><sponsor name-id="S270">Mr. Schumer</sponsor> submitted the following resolution; which was considered and agreed to</action-desc></action><legis-type>RESOLUTION</legis-type><official-title display="yes">To constitute the majority party's membership on certain committees for the One Hundred Eighteenth Congress, or until their successors are chosen.</official-title></form><resolution-body><section display-inline="yes-display-inline" id="S1" section-type="undesignated-section"><text>the following shall constitute the majority party's membership on the following committees for the One Hundred Eighteenth Congress, or until their successors are chosen:</text><committee-appointment-paragraph><header><committee-name committee-id="SSBK00">Committee on Banking, Housing, and Urban Affairs: </committee-name></header><text>Mr. Brown (Chair), Mr. Reed, Mr. Tester, Mr. Warner, Ms. Warren, Mr. Van Hollen, Ms. Cortez Masto, Ms. Smith, Mr. Warnock, Mr. Fetterman, Ms. Butler, Mr. Helmy.</text></committee-appointment-paragraph><committee-appointment-paragraph><header><committee-name committee-id="SSFI00">Committee on Finance:</committee-name></header><text>Mr. Wyden (Chair), Ms. Stabenow, Ms. Cantwell, Mr. Carper, Mr. Cardin, Mr. Brown, Mr. Bennet, Mr. Casey, Mr. Warner, Mr. Whitehouse, Ms. Hassan, Ms. Cortez Masto, Ms. Warren, Mr. Helmy.</text></committee-appointment-paragraph><committee-appointment-paragraph><header><committee-name committee-id="SSFR00">Committee on Foreign Relations:</committee-name></header><text>Mr. Cardin (Chair), Mrs. Shaheen, Mr. Coons, Mr. Murphy, Mr. Kaine, Mr. Merkley, Mr. Booker, Mr. Schatz, Mr. Van Hollen, Ms. Duckworth, Mr. Helmy.</text></committee-appointment-paragraph></section></resolution-body></resolution>
+
+

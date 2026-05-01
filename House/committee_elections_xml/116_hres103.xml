@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="H6B826E0D70E24E088F0B55859549215E" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>116 HRES 103 EH: </dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2019-02-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">116th CONGRESS</congress> 
+<session display="no">1st Session</session> 
+<legis-num>H. RES. 103</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber>
+<action>
+<action-date date="20190206">February 6, 2019</action-date>
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no"><?xm-replace_text {official-title}?></official-title> 
+</form> 
+<resolution-body style="traditional" id="HA8AE3FCC1D5046BEBDAD47DBA5B73AE7"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="H64C20ED3C0B74E8B9ABA04FB7D78FA1C"><text>That the following named Members be, and are hereby, elected to the following standing committee of the House of Representatives:</text> <committee-appointment-paragraph><header>Committee on House Administration:</header><text>Mr. Walker, Mr. Loudermilk.</text></committee-appointment-paragraph>
+
+</section> 
+</resolution-body> 
+<attestation><attestation-group><attestor display="no">Karen L. Haas,</attestor><role>Clerk.</role></attestation-group></attestation>
+</resolution> 
+
+

@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="HDBBF8F3796884E18A112DD83D4D54E4A" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HRES 1225 EH: Electing a Member to certain standing committees of the House of Representatives.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-07-13</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">117th CONGRESS</congress> 
+<session display="no">2d Session</session> 
+<legis-num>H. RES. 1225</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber>
+<action>
+<action-date date="20220713">July 13, 2022</action-date>
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no">Electing a Member to certain standing committees of the House of Representatives.</official-title> 
+</form> 
+<resolution-body style="traditional" id="H3A10E9FB30174058B3E47ECAAB2F8F80"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="H65DB47A221394BDF9861062A7980AEEE"><text>That the following named Member be, and is hereby, elected to the following standing committees of the House of Representatives:</text> <committee-appointment-paragraph><header>Committee on Small Business:</header><text>Mr. Flood.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Oversight and Reform:</header><text>Mr. Flood. </text></committee-appointment-paragraph> </section> </resolution-body> <attestation><attestation-group><attestor display="no">Cheryl L. Johnson,</attestor><role>Clerk.</role></attestation-group></attestation> </resolution> 
+

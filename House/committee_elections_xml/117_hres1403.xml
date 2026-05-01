@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="H732A8EED2D09499EB5039515B3337889" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HRES 1403 EH: Electing a certain Member to a certain standing committee of the House of Representatives.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-09-29</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">117th CONGRESS</congress> 
+<session display="no">2d Session</session> 
+<legis-num>H. RES. 1403</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber>
+<action>
+<action-date date="20220929">September 29, 2022</action-date>
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no">Electing a certain Member to a certain standing committee of the House of Representatives.</official-title> 
+</form> 
+<resolution-body style="traditional" id="HC03314585AE34DA0AAC0FE6FE55C2410"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="H91F81A1E83474E5FA60C1B82BCE0F3BA"><text>That the following named Member be, and is hereby, elected to the following standing committee of the House of Representatives:</text> <committee-appointment-paragraph><header>Committee on Education and Labor:</header><text>Mrs. Peltola, to rank immediately after Mrs. Cherfilus-McCormick.</text></committee-appointment-paragraph>
+
+</section> 
+</resolution-body> 
+<attestation><attestation-group><attestor display="no">Cheryl L. Johnson,</attestor><role>Clerk.</role></attestation-group></attestation>
+</resolution> 
+
+

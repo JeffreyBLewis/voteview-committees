@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution public-private="public" resolution-stage="Agreed-to-Senate" resolution-type="senate-resolution" star-print="no-star-print">
+	<form>
+		<distribution-code display="yes">III</distribution-code>
+		<congress display="yes">110th CONGRESS</congress>
+		<session display="yes">2d Session</session>
+		<legis-num>S. RES. 425</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action display="yes">
+			<action-date date="20080124">January 24, 2008</action-date>
+			<action-desc><sponsor name-id="S174">Mr. McConnell</sponsor> submitted
+			 the following resolution; which was considered and agreed to</action-desc>
+		</action>
+		<legis-type>RESOLUTION</legis-type>
+		<official-title display="yes">Making minority party appointments for the
+		  110th Congress.</official-title>
+	</form>
+	<resolution-body>
+		<section display-inline="yes-display-inline" id="S1" section-type="undesignated-section"><enum></enum><text>That the following be the minority
+			 membership on the following committees for the remainder of the 110th Congress,
+			 or until their successors are appointed:</text>
+			<committee-appointment-paragraph><header>Committee on armed
+			 services:</header><text>Mr. McCain, Mr. Warner, Mr. Inhofe, Mr. Sessions, Ms.
+			 Collins, Mr. Chambliss, Mr. Graham, Mrs. Dole, Mr. Cornyn, Mr. Thune, Mr.
+			 Martinez, and Mr. Wicker.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on banking, housing,
+			 and urban affairs:</header><text>Mr. Shelby, Mr. Bennett, Mr. Allard, Mr. Enzi,
+			 Mr. Hagel, Mr. Bunning, Mr. Crapo, Mrs. Dole, Mr. Martinez, and Mr.
+			 Corker.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on commerce, science,
+			 and transportation:</header><text>Mr. Stevens, Mr. McCain, Mrs. Hutchison, Ms.
+			 Snowe, Mr. Smith, Mr. Ensign, Mr. Sununu, Mr. DeMint, Mr. Vitter, Mr. Thune,
+			 and Mr. Wicker.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on
+			 finance:</header><text>Mr. Grassley, Mr. Hatch, Ms. Snowe, Mr. Kyl, Mr. Smith,
+			 Mr. Bunning, Mr. Crapo, Mr. Roberts, Mr. Ensign, and Mr. Sununu.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on rules and
+			 administration:</header><text>Mr. Bennett, Mr. Stevens, Mr. McConnell, Mr.
+			 Cochran, Mr. Chambliss, Mrs. Hutchison, Mr. Hagel, Mr. Alexander, and Mr.
+			 Ensign.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on veterans'
+			 affairs:</header><text>Mr. Burr, Mr. Specter, Mr. Craig, Mr. Isakson, Mr.
+			 Graham, Mrs. Hutchison, and Mr. Wicker.</text>
+			</committee-appointment-paragraph></section></resolution-body>
+</resolution>

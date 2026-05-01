@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="HD06057C0D95E4A408E645C5448E984C0" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HRES 179 EH: Electing Members to certain standing committees of the House of Representatives.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-02-28</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">118th CONGRESS</congress> 
+<session display="no">1st Session</session> 
+<legis-num>H. RES. 179</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber>
+<action>
+<action-date date="20230228">February 28, 2023</action-date>
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no">Electing Members to certain standing committees of the House of Representatives.</official-title> 
+</form> 
+<resolution-body style="traditional" id="HEA27507141E4427FA536313FE3AD4455"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="HA6E814AD7F6143EC957806B8BA19F145"><text display-inline="yes-display-inline">That the following named Members be, and are hereby, elected to the following standing committees of the House of Representatives:</text> <committee-appointment-paragraph><header>Committee on Agriculture:</header><text>Mr. Bost (to rank immediately after Mr. Bacon). </text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Science, Space, and Technology:</header><text>Mr. Fleischmann (to rank immediately after Mr. Obernolte), Mr. Zinke (to rank immediately after Ms. Tenney).</text></committee-appointment-paragraph> </section> </resolution-body> <attestation><attestation-group><attestor display="no">Cheryl L. Johnson,</attestor><role>Clerk.</role></attestation-group></attestation> </resolution> 
+

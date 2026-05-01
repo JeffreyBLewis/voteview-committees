@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="H890B31693FD545579EFC066A943AC46A" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>115 HRES 36 EH: Electing Members to certain standing committees of the House of Representatives.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2017-01-10</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">115th CONGRESS</congress> 
+<session display="no">1st Session</session> 
+<legis-num>H. RES. 36</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber>
+<action>
+<action-date date="20170110">January 10, 2017</action-date>
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no">Electing Members to certain standing committees of the House of Representatives.</official-title> 
+</form> 
+<resolution-body style="traditional" id="H324716B8FF314E1BB2F357215987B0A1"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="H36A02CD8B99D4B7AB594F5748C66B2D1"><text display-inline="yes-display-inline">That the following named Members be, and are hereby, elected to the following standing committees of the House of Representatives:</text> <committee-appointment-paragraph><header>Committee on Armed Services:</header><text>Mr. Jones, Mr. Wilson of South Carolina, Mr. LoBiondo, Mr. Bishop of Utah, Mr. Turner, Mr. Rogers of Alabama, Mr. Franks of Arizona, Mr. Shuster, Mr. Conaway, Mr. Lamborn, Mr. Wittman, Mr. Hunter, Mr. Coffman, Mrs. Hartzler, Mr. Austin Scott of Georgia, Mr. Brooks of Alabama, Mr. Cook, Mr. Bridenstine, Mr. Wenstrup, Mr. Byrne, Mr. Graves of Missouri, Ms. Stefanik, Ms. McSally, Mr. Knight, Mr. Russell, Mr. DesJarlais, Mr. Abraham, Mr. Kelly of Mississippi, Mr. Gallagher, Mr. Gaetz, Mr. Bacon, Mr. Banks of Indiana, and Ms. Cheney. </text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on the Budget: </header><text>Mr. Tom Price of Georgia, Mr. Diaz-Balart, Mr. Cole, Mr. McClintock, Mr. Rokita, Mr. Woodall, Mr. Sanford, Mr. Womack, Mr. Brat, Mr. Grothman, Mr. Palmer, Mr. Westerman, Mr. Renacci, Mr. Johnson of Ohio, Mr. Lewis of Minnesota, Mr. Bergman, Mr. Faso, Mr. Smucker, Mr. Gaetz, Mr. Arrington, and Mr. Ferguson. </text></committee-appointment-paragraph> </section> </resolution-body> <attestation><attestation-group><attestor display="no">Karen L. Haas,</attestor><role>Clerk.</role></attestation-group></attestation> </resolution> 
+

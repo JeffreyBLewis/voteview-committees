@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="HB7EF0CFDCA8F4C4D9420944164AA535B" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>116 HRES 73 EH: Electing Members to certain standing committees of the House of Representatives.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2019-01-24</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">116th CONGRESS</congress> 
+<session display="no">1st Session</session> 
+<legis-num>H. RES. 73</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber>
+<action>
+<action-date date="20190124">January 24, 2019</action-date>
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no">Electing Members to certain standing committees of the House of Representatives.</official-title> 
+</form> 
+<resolution-body style="traditional" id="HE6C60236C678427FA7F814EB90E9E18C"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="H782ABE04C5DB495196CEA4FB70D94A2A"><text>That the following named Members be, and are hereby, elected to the following standing committees of the House of Representatives:</text> <committee-appointment-paragraph><header>Committee on the Budget:</header><text>Mr. Moulton, Mr. Jeffries, Mr. Khanna, Ms. DeLauro, Mr. Doggett, Mr. Price of North Carolina, Ms. Schakowsky, Mr. Higgins of New York, Mr. Kildee, Mr. Brendan F. Boyle of Pennsylvania, Mr. Panetta, Mr. Morelle, Mr. Horsford, Mr. Scott of Virginia, Ms. Jackson Lee, Ms. Lee of California, Ms. Jayapal, and Ms. Omar.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Education and Labor:</header><text>Mrs. Trahan and Mr. Castro of Texas.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header>Committee on Natural Resources:</header><text>Mrs. Napolitano, Mr. Costa, Mr. Sablan, Mr. Huffman, Mr. Lowenthal, Mr. Gallego, Mr. Cox of California, Mr. Neguse, Mr. Levin of California, Ms. Haaland, Mr. Van Drew, Mr. Cunningham, Ms. Velázquez, Ms. DeGette, Mr. Clay, Mrs. Dingell, Mr. Brown of Maryland, Mr. McEachin, Mr. Soto, Mr. Case, Mr. Horsford, and Mr. San Nicolas.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Science, Space, and Technology:</header><text>Mr. Cohen (to rank immediately after Mr. Sherman).</text></committee-appointment-paragraph> <committee-appointment-paragraph><header>Committee on Small Business:</header><text>Ms. Finkenauer, Mr. Golden, Mr. Kim, Mr. Crow, Ms. Davids of Kansas, Ms. Judy Chu of California, Mr. Veasey, Mr. Evans, Mr. Schneider, Mr. Espaillat, Mr. Delgado, and Ms. Houlahan.</text></committee-appointment-paragraph>
+
+</section> 
+</resolution-body> 
+<attestation><attestation-group><attestor display="no">Karen L. Haas,</attestor><role>Clerk.</role></attestation-group></attestation>
+</resolution> 
+
+

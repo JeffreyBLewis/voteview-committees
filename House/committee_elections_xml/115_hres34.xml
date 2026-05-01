@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="HDE32CBAA2F164FD3B20D25CC9605CC3C" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>115 HRES 34 EH: Electing a Member to a certain standing committee of the House of Representatives.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2017-01-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">115th CONGRESS</congress> 
+<session display="no">1st Session</session> 
+<legis-num>H. RES. 34</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber> 
+<action> 
+<action-date date="20170109">January 9, 2017</action-date> 
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no">Electing a Member to a certain standing committee of the House of Representatives.</official-title> 
+</form> 
+<resolution-body style="traditional" id="HAD7FF11F29DE41B68D1A2AD1646627F7"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="HCC1742769C404828A30422CDF6F59393"><text>That the following named Member be, and is hereby, elected to the following standing committee of the House of Representatives:</text> <committee-appointment-paragraph><header>Committee on Armed Services:</header><text>Mr. Smith of Washington.</text></committee-appointment-paragraph>
+
+</section> 
+</resolution-body> 
+<attestation><attestation-group><attestor display="no">Karen L. Haas,</attestor><role>Clerk.</role></attestation-group></attestation> 
+</resolution> 
+
+

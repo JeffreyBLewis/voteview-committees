@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="HEA0D51222CED4A6E8F837162F2F6E2ED" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>110 HRES 85 EH: </dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2007-01-23</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form> 
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">110th CONGRESS</congress> 
+<session display="no">1st Session</session> 
+<legis-num>H. RES. 85</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber>
+<action>
+<action-date date="20070123">January 23, 2007</action-date>
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no"><?xm-replace_text {official-title}?></official-title> 
+</form> 
+<resolution-body style="traditional" id="H4BF693E2CE4042CB86D393759135A49B"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="H8D613D7500C54DC895EF361391B5E05E"><text>That the following named Members be, and are hereby, elected to the following standing committees of the House of Representatives:</text>
+
+<committee-appointment-paragraph><header>Committee on Financial Services:</header><text>Mr. Wexler (to rank immediately after Mr. Donnelly).</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on the Judiciary:</header><text>Ms. Wasserman Schultz (to rank immediately after Mr. Davis of Alabama).</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Science and Technology:</header><text>Mr. Kanjorski (to rank immediately after Mr. McNerney) and Ms. Hooley (to rank immediately after Mr. Kanjorski).</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Small Business:</header><text>Ms. Millender-McDonald, Mr. Jefferson, Mr. Shuler, Mr. Gonzalez, Mr. Larsen of Washington, Mr. Grijalva, Mr. Michaud, Ms. Bean, Mr. Cuellar, Mr. Lipinski, Ms. Moore of Wisconsin, Mr. Altmire, Mr. Braley of Iowa, Ms. Clarke, Mr. Ellsworth, Mr. Johnson of Georgia, and Mr. Sestak.</text></committee-appointment-paragraph>
+
+</section> 
+</resolution-body> 
+<attestation><attestation-group><attestor display="no">Karen L. Haas,</attestor><role>Clerk.</role></attestation-group></attestation>
+</resolution> 
+
+

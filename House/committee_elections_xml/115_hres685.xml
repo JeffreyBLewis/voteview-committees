@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="HFE7E69957F5A436BA06AD7D15383E1B3" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>115 HRES 685 EH: Electing Members to certain standing committees of the House of Representatives.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2018-01-11</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no"> IV</distribution-code> 
+<congress display="no">115th CONGRESS</congress> 
+<session display="no">2d Session</session> 
+<legis-num>H. RES. 685</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber>
+<action>
+<action-date date="20180111">January 11, 2018</action-date>
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no">Electing Members to certain standing committees of the House of Representatives.</official-title> 
+</form> 
+<resolution-body style="multiple-resolved-clause" id="HA48DC778968C40DA8130D2AC45D8B039"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="H869CE6387C74496C857279D8369E6015"><text>That the following named Members be, and are hereby, elected to the following standing committees of the House of Representatives:</text> <committee-appointment-paragraph><header><committee-name committee-id="HAS00"> Committee on Armed Services</committee-name>: </header><text>Mr. Jody B. Hice of Georgia. </text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header><committee-name committee-id="HBU00"> Committee on the Budget</committee-name>: </header><text>Mr. Womack, Chair.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header><committee-name committee-id="HSO00"> Committee on Ethics</committee-name>: </header><text>Mrs. Mimi Walters of California.</text></committee-appointment-paragraph>
+
+</section>
+<section id="HC6F8CC6A86F14B449CB43A77F1F545F0" section-type="resolved"><text>That the following named Member be, and is hereby, ranked as follows on the following standing committee of the House of Representatives:</text> <committee-appointment-paragraph><header><committee-name committee-id="HBU00"> Committee on the Budget</committee-name>: </header><text>Mrs. Black, after Mr. Womack.</text></committee-appointment-paragraph>
+
+</section> 
+</resolution-body> 
+<attestation><attestation-group><attestor display="no">Karen L. Haas,</attestor><role>Clerk.</role></attestation-group></attestation>
+</resolution> 
+
+

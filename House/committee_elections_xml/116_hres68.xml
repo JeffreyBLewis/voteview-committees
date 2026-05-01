@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="H1EE1171EDC83435F9971A1D0F230CCDC" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>116 HRES 68 EH: Electing Members to certain standing committees of the House of Representatives. </dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2019-01-23</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">116th CONGRESS</congress> 
+<session display="no">1st Session</session> 
+<legis-num>H. RES. 68</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber>
+<action>
+<action-date date="20190123">January 23, 2019</action-date>
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no">Electing Members to certain standing committees of the House of Representatives. </official-title> 
+</form> 
+<resolution-body style="traditional" id="HFFB4E8F7D0FA49DF857921D7091DD960"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="HB76AA38BFE0C4D6B8D481F023612084A"><text>That the following named Members be, and are hereby, elected to the following standing committees of the House of Representatives:</text> <committee-appointment-paragraph><header>Committee on Agriculture:</header><text>Mr. Thompson of Pennsylvania, Mr. Austin Scott of Georgia, Mr. Crawford, Mr. DesJarlais, Mrs. Hartzler, Mr. LaMalfa, Mr. Rodney Davis of Illinois, Mr. Yoho, Mr. Allen, Mr. Bost, Mr. Rouzer, Mr. Abraham, Mr. Kelly of Mississippi, Mr. Comer, Mr. Marshall, Mr. Bacon, Mr. Dunn, Mr. Johnson of South Dakota, Mr. Baird, and Mr. Hagedorn.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Appropriations:</header><text>Mr. Rogers of Kentucky, Mr. Aderholt, Mr. Simpson, Mr. Carter of Texas, Mr. Calvert, Mr. Cole, Mr. Diaz-Balart, Mr. Graves of Georgia, Mr. Womack, Mr. Fortenberry, Mr. Fleischmann, Ms. Herrera Beutler, Mr. Joyce of Ohio, Mr. Harris, Mrs. Roby, Mr. Amodei, Mr. Stewart, Mr. Palazzo, Mr. Newhouse, Mr. Moolenaar, Mr. Rutherford, and Mr. Hurd of Texas.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header>Committee on Armed Services:</header><text>Mr. Wilson of South Carolina, Mr. Bishop of Utah, Mr. Turner, Mr. Rogers of Alabama, Mr. Conaway, Mr. Lamborn, Mr. Wittman, Mrs. Hartzler, Mr. Austin Scott of Georgia, Mr. Brooks of Alabama, Mr. Cook, Mr. Byrne, Mr. Graves of Missouri, Ms. Stefanik, Mr. DesJarlais, Mr. Abraham, Mr. Kelly of Mississippi, Mr. Gallagher, Mr. Gaetz, Mr. Bacon, Mr. Banks, Ms. Cheney, Mr. Mitchell, Mr. Bergman, and Mr. Waltz.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Education and Labor:</header><text>Mr. David P. Roe of Tennessee, Mr. Thompson of Pennsylvania, Mr. Walberg, Mr. Guthrie, Mr. Byrne, Mr. Grothman, Ms. Stefanik, Mr. Allen, Mr. Rooney of Florida, Mr. Smucker, Mr. Walker, Mr. Banks, Mr. Comer, Mr. Cline, Mr. Fulcher, Mr. Taylor, Mr. Watkins, Mr. Wright, Mr. Meuser, Mr. Timmons, and Mr. Johnson of South Dakota.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header>Committee on Energy and Commerce:</header><text>Mr. Upton, Mr. Shimkus, Mr. Burgess, Mr. Scalise, Mr. Latta, Mrs. Rogers of Washington, Mr. Guthrie, Mr. Olson, Mr. McKinley, Mr. Kinzinger, Mr. Griffith, Mr. Bilirakis, Mr. Johnson of Ohio, Mr. Long, Mr. Bucshon, Mr. Flores, Mrs. Brooks of Indiana, Mr. Mullin, Mr. Hudson, Mr. Walberg, Mr. Carter of Georgia, Mr. Duncan, and Mr. Gianforte.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Financial Services:</header><text>Mr. King of New York, Mr. Lucas, Mr. Posey, Mr. Luetkemeyer, Mr. Huizenga, Mr. Duffy, Mr. Stivers, Mrs. Wagner, Mr. Barr, Mr. Tipton, Mr. Williams, Mr. Hill of Arkansas, Mr. Emmer, Mr. Zeldin, Mr. Loudermilk, Mr. Mooney of West Virginia, Mr. Davidson of Ohio, Mr. Budd, Mr. Kustoff of Tennessee, Mr. Hollingsworth, Mr. Gonzalez of Ohio, Mr. John W. Rose of Tennessee, Mr. Steil, Mr. Gooden, and Mr. Riggleman.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header>Committee on Foreign Affairs:</header><text>Mr. Smith of New Jersey, Mr. Chabot, Mr. Wilson of South Carolina, Mr. Perry, Mr. Yoho, Mr. Kinzinger, Mr. Zeldin, Mr. Sensenbrenner, Mrs. Wagner, Mr. Mast, Mr. Rooney of Florida, Mr. Fitzpatrick, Mr. Curtis, Mr. Buck, Mr. Wright, Mr. Reschenthaler, Mr. Burchett, Mr. Pence, Mr. Watkins, and Mr. Guest.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Homeland Security:</header><text>Mr. McCaul, Mr. King of New York, Mr. Katko, Mr. Ratcliffe, Mr. Higgins of Louisiana, Mr. Walker, Mrs. Lesko, Mr. Green of Tennessee, Mr. Taylor, Mr. Joyce of Pennsylvania, Mr. Crenshaw, and Mr. Guest.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header>Committee on the Judiciary:</header><text>Mr. Sensenbrenner, Mr. Chabot, Mr. Gohmert, Mr. Jordan, Mr. Buck, Mr. Ratcliffe, Mrs. Roby, Mr. Gaetz, Mr. Johnson of Louisiana, Mr. Biggs, Mr. McClintock, Mrs. Lesko, Mr. Reschenthaler, Mr. Cline, Mr. Armstrong, and Mr. Steube.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Oversight and Reform:</header><text>Mr. Amash, Mr. Gosar, Ms. Foxx of North Carolina, Mr. Massie, Mr. Meadows, Mr. Hice of Georgia, Mr. Grothman, Mr. Comer, Mr. Cloud, Mr. Gibbs, Mr. Higgins of Louisiana, Mr. Norman, Mr. Roy, Mrs. Miller, Mr. Green of Tennessee, Mr. Armstrong, and Mr. Steube.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header>Committee on Science, Space, and Technology:</header><text>Mr. Brooks of Alabama, Mr. Posey, Mr. Weber of Texas, Mr. Babin, Mr. Biggs, Mr. Marshall, Mr. Dunn, Mr. Norman, Mr. Cloud, Mr. Balderson, Mr. Olson, Mr. Gonzalez of Ohio, Mr. Waltz, and Mr. Baird.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Transportation and Infrastructure:</header><text>Mr. Young, Mr. Crawford, Mr. Gibbs, Mr. Webster of Florida, Mr. Massie, Mr. Meadows, Mr. Perry, Mr. Rodney Davis of Illinois, Mr. Woodall, Mr. Katko, Mr. Babin, Mr. Graves of Louisiana, Mr. Rouzer, Mr. Bost, Mr. Weber of Texas, Mr. LaMalfa, Mr. Westerman, Mr. Smucker, Mr. Mitchell, Mr. Mast, Mr. Gallagher, Mr. Palmer, Mr. Fitzpatrick, Miss González-Colón of Puerto Rico, Mr. Balderson, Mr. Spano, Mr. Stauber, Mrs. Miller, and Mr. Pence.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header>Committee on Veterans’ Affairs:</header><text>Mr. Bilirakis, Mrs. Radewagen, Mr. Bost, Mr. Dunn, Mr. Bergman, Mr. Banks, Mr. Barr, Mr. Meuser, Mr. Watkins, Mr. Roy, and Mr. Steube.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Ways and Means:</header><text>Mr. Nunes, Mr. Buchanan, Mr. Smith of Nebraska, Mr. Marchant, Mr. Reed, Mr. Kelly of Pennsylvania, Mr. Holding, Mr. Smith of Missouri, Mr. Rice of South Carolina, Mr. Schweikert, Mrs. Walorski, Mr. LaHood, Mr. Wenstrup, Mr. Arrington, Mr. Ferguson, and Mr. Estes.</text></committee-appointment-paragraph> </section> </resolution-body> <attestation><attestation-group><attestor display="no">Karen L. Haas,</attestor><role>Clerk.</role></attestation-group></attestation> </resolution> 
+

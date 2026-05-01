@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="H3A4AD33C329944DC8FBAC6C371027CCB" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H"> 
+<form> 
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">111th CONGRESS</congress> 
+<session display="no">1st Session</session> 
+<legis-num>H. RES. 548</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber>
+<action>
+<action-date date="20090616">June 16, 2009</action-date>
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no">Providing for the election of certain minority members to a standing committee.</official-title> 
+</form> 
+<resolution-body style="traditional" id="H9A86FFE8B6D74F2D8E50F300D251C7A2"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="HD318CF39324B49F1B9C7F63762A22B1D"><text>That the following named Members be, and they are hereby, elected to the following standing committee of the House of Representatives:</text> 
+
+<committee-appointment-paragraph><header><committee-name committee-id="HAS00"> Committee on Armed Services</committee-name>:</header><text>Mr. McKeon to rank before Mr. Bartlett; and Mr. Platts.</text></committee-appointment-paragraph>
+
+</section> 
+</resolution-body> 
+<attestation><attestation-group><attestor display="no">Lorraine C. Miller,</attestor><role>Clerk.</role></attestation-group></attestation>
+</resolution> 

@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution key="G" public-print="no" public-private="public" resolution-stage="Agreed-to-Senate" resolution-type="senate-resolution" stage-count="1" star-print="no-star-print"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>116 SRES 12 ATS: To constitute the majority party's membership on certain committees for the One Hundred Sixteenth Congress, or until their successors are chosen.</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2019-01-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form display="yes">
+<distribution-code display="yes">III</distribution-code><congress display="yes">116th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">S. RES. 12</legis-num><current-chamber display="yes">IN THE SENATE OF THE UNITED STATES</current-chamber><action display="yes"><action-date date="20190109">January 9, 2019</action-date><action-desc><sponsor name-id="S174">Mr. McConnell</sponsor> submitted the following resolution; which was considered and agreed to</action-desc></action><legis-type display="yes">RESOLUTION</legis-type><official-title display="yes">To constitute the majority party's membership on certain committees for the One Hundred Sixteenth
+			 Congress, or until their successors are chosen.</official-title></form>
+	<resolution-body display-resolving-clause="yes-display-resolving-clause" style="OLC">
+ <section commented="no" display-inline="yes-display-inline" id="id9592D254985D4D17A8D157515603AAA4" section-type="undesignated-section"><enum></enum><text>That the following shall constitute the majority party's membership on the following committees for the One Hundred Sixteenth Congress, or until their successors are chosen:</text>
+			<committee-appointment-paragraph><header><committee-name committee-id="SSAF00">Committee on Agriculture, Nutrition, and
+			 Forestry:</committee-name></header>
+ <text>Mr. Roberts, Mr. McConnell, Mr. Boozman, Mr. Hoeven, Ms. Ernst, Mrs. Hyde-Smith, Mr. Braun, Mr. Perdue, Mr. Grassley, Mr. Thune, Mrs. Fischer.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header><committee-name committee-id="SSAP00">Committee on
+			 Appropriations:</committee-name></header>
+ <text>Mr. Shelby, Mr. McConnell, Mr. Alexander, Ms. Collins, Ms. Murkowski, Mr. Graham, Mr. Blunt, Mr. Moran, Mr. Hoeven, Mr. Boozman, Mrs. Capito, Mr. Kennedy, Mrs. Hyde-Smith, Mr. Daines, Mr. Rubio, Mr. Lankford.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header><committee-name committee-id="SSHR00">Committee on Armed Services:</committee-name></header>
+ <text>Mr. Inhofe, Mr. Wicker, Mrs. Fischer, Mr. Cotton, Mr. Rounds, Ms. Ernst, Mr. Tillis, Mr. Sullivan, Mr. Perdue, Mr. Cramer, Ms. McSally, Mr. Scott (FL), Mrs. Blackburn, Mr. Hawley.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header><committee-name committee-id="SSHR00">Committee on Banking, Housing, and Urban Affairs:</committee-name></header>
+ <text>Mr. Crapo, Mr. Shelby, Mr. Toomey, Mr. Scott (SC), Mr. Sasse, Mr. Cotton, Mr. Rounds, Mr. Perdue, Mr. Tillis, Mr. Kennedy, Ms. McSally, Mr. Moran, Mr. Cramer.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header><committee-name committee-id="SSCM00">Committee on Commerce, Science, and
+			 Transportation:</committee-name></header>
+ <text>Mr. Wicker, Mr. Thune, Mr. Blunt, Mr. Cruz, Mrs. Fischer, Mr. Moran, Mr. Sullivan, Mr. Gardner, Mrs. Blackburn, Mrs. Capito, Mr. Lee, Mr. Johnson, Mr. Young, Mr. Scott (FL).</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header><committee-name committee-id="SSEV00">Committee on Energy and Natural Resources:</committee-name></header>
+ <text>Ms. Murkowski, Mr. Barrasso, Mr. Risch, Mr. Lee, Mr. Daines, Mr. Cassidy, Mr. Gardner, Mrs. Hyde-Smith, Ms. McSally, Mr. Alexander, Mr. Hoeven.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header><committee-name committee-id="SSFI00">Committee on Environment and Public Works:</committee-name></header>
+ <text>Mr. Barrasso, Mr. Inhofe, Mrs. Capito, Mr. Cramer, Mr. Braun, Mr. Rounds, Mr. Sullivan, Mr. Boozman, Mr. Wicker, Mr. Shelby, Ms. Ernst.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header><committee-name committee-id="SSFR00">Committee on Finance:</committee-name></header>
+ <text>Mr. Grassley, Mr. Crapo, Mr. Roberts, Mr. Enzi, Mr. Cornyn, Mr. Thune, Mr. Burr, Mr. Isakson, Mr. Portman, Mr. Toomey, Mr. Scott (SC), Mr. Cassidy, Mr. Lankford, Mr. Daines, Mr. Young.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header><committee-name committee-id="SSHR00">Committee on Foreign Relations:</committee-name></header>
+ <text>Mr. Risch, Mr. Rubio, Mr. Johnson, Mr. Gardner, Mr. Romney, Mr. Graham, Mr. Isakson, Mr. Barrasso, Mr. Portman, Mr. Paul, Mr. Young, Mr. Cruz.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header><committee-name committee-id="SSGA00">Committee on Health, Education, Labor, and Pensions:</committee-name></header>
+ <text>Mr. Alexander, Mr. Enzi, Mr. Burr, Mr. Isakson, Mr. Paul, Ms. Collins, Mr. Cassidy, Mr. Roberts, Ms. Murkowski, Mr. Scott (SC), Mr. Romney, Mr. Braun.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header><committee-name committee-id="SLIN00">Committee on
+			 Homeland Security and Governmental Affairs:</committee-name></header>
+ <text>Mr. Johnson, Mr. Portman, Mr. Paul, Mr. Lankford, Mr. Romney, Mr. Scott (FL), Mr. Enzi, Mr. Hawley.</text> </committee-appointment-paragraph><committee-appointment-paragraph><header><committee-name committee-id="SSJU00">Committee on the Judiciary:</committee-name></header> <text>Mr. Graham, Mr. Grassley, Mr. Cornyn, Mr. Lee, Mr. Cruz, Mr. Sasse, Mr. Hawley, Mr. Tillis, Ms. Ernst, Mr. Crapo, Mr. Kennedy, Mrs. Blackburn.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header><committee-name committee-id="SSBU00">Select Committee on Intelligence:</committee-name></header>
+ <text>Mr. Burr, Mr. Risch, Mr. Rubio, Ms. Collins, Mr. Blunt, Mr. Cotton, Mr. Cornyn, Mr. Sasse.</text> </committee-appointment-paragraph><committee-appointment-paragraph><header><committee-name committee-id="SSVA00">Special Committee on Aging:</committee-name></header> <text>Ms. Collins, Mr. Scott (SC), Mr. Burr, Ms. McSally, Mr. Rubio, Mr. Hawley, Mr. Braun, Mr. Scott (FL).</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header><committee-name committee-id="SLIA00">Committee on the Budget:</committee-name></header>
+ <text>Mr. Enzi, Mr. Grassley, Mr. Crapo, Mr. Graham, Mr. Toomey, Mr. Johnson, Mr. Perdue, Mr. Braun, Mr. Scott (FL), Mr. Kennedy, Mr. Cramer.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header><committee-name committee-id="SLET00">Committee on
+			 Indian Affairs:</committee-name></header>
+ <text>Mr. Hoeven, Mr. Barrasso, Ms. Murkowski, Mr. Lankford, Mr. Daines, Ms. McSally, Mr. Moran.</text> </committee-appointment-paragraph><committee-appointment-paragraph><header><committee-name committee-id="SPAG00">Joint Economic Committee:</committee-name></header> <text>Mr. Lee, Mr. Cotton, Mr. Sasse, Mr. Portman, Mr. Cassidy, Mr. Cruz.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header><committee-name committee-id="SPAG00">Committee on
+			 Rules and Administration:</committee-name></header>
+ <text>Mr. Blunt, Mr. McConnell, Mr. Alexander, Mr. Roberts, Mr. Shelby, Mr. Cruz, Mrs. Capito, Mr. Wicker, Mrs. Fischer, Mrs. Hyde-Smith.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header><committee-name committee-id="SPAG00">Committee on
+			 Small Business and Entrepreneurship:</committee-name></header>
+ <text>Mr. Rubio, Mr. Risch, Mr. Paul, Mr. Scott (SC), Ms. Ernst, Mr. Inhofe, Mr. Young, Mr. Kennedy, Mr. Romney, Mr. Hawley.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header><committee-name committee-id="SPAG00">Committee on
+			 Veterans' Affairs:</committee-name></header>
+ <text>Mr. Isakson, Mr. Moran, Mr. Boozman, Mr. Cassidy, Mr. Rounds, Mr. Tillis, Mr. Sullivan, Mrs. Blackburn, Mr. Cramer.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header><committee-name committee-id="SPAG00">Select Committee on
+ Ethics:</committee-name></header><text>Mr. Isakson, Mr. Roberts, Mr. Risch.</text></committee-appointment-paragraph></section></resolution-body></resolution> 
+

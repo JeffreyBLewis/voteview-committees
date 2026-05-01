@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="H37F76AA5357045E19E50CE0014E2CEDD" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>110 HRES 8 EH: </dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2007-01-04</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form> 
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">110th CONGRESS</congress> 
+<session display="no">1st Session</session> 
+<legis-num>H. RES. 8</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber> 
+<action> 
+<action-date date="20070104">January 4, 2007</action-date> 
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no"><?xm-replace_text {official-title}?></official-title> 
+</form> 
+<resolution-body style="traditional" id="HCE139A80ABCE4DC4A23D58EF80EA3681"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="H44E3C319505943129DC324CFDA94E557"><text>That the following named Members be, and are hereby, elected to the following standing committees of the House of Representatives:</text> 
+
+<committee-appointment-paragraph><header>Committee on Agriculture:</header><text>Mr. Goodlatte.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Appropriations:</header><text>Mr. Lewis of California, Mr. Young of Florida, Mr. Regula, Mr. Rogers of Kentucky, Mr. Wolf, Mr. Walsh of New York, Mr. Hobson, Mr. Knollenberg, Mr. Kingston, Mr. Frelinghuysen, Mr. Wicker, Mr. Tiahrt, Mr. Wamp, Mr. Latham, Mr. Aderholt, Mrs. Emerson, Ms. Granger, Mr. Peterson of Pennsylvania, Mr. Goode, Mr. Doolittle, Mr. LaHood, Mr. Weldon of Florida, Mr. Simpson, Mr. Culberson, Mr. Kirk, Mr. Crenshaw, Mr. Rehberg, Mr. Carter, and Mr. Alexander.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Armed Services:</header><text>Mr. Hunter.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on the Budget:</header><text>Mr. Ryan of Wisconsin.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Education and Labor:</header><text>Mr. McKeon.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Energy and Commerce:</header><text>Mr. Barton of Texas.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Financial Services:</header><text>Mr. Bachus.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Foreign Affairs:</header><text>Ms. Ros-Lehtinen.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Homeland Security:</header><text>Mr. King of New York.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on House Administration:</header><text>Mr. Ehlers, Mr. Daniel E. Lungren of California, and Mr. McCarthy of California.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on the Judiciary:</header><text>Mr. Smith of Texas.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Natural Resources:</header><text>Mr. Young of Alaska.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Oversight and Government Reform:</header><text>Mr. Tom Davis of Virginia.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Rules:</header><text>Mr. Dreier, Mr. Lincoln Diaz-Balart of Florida, Mr. Hastings of Washington, and Mr. Sessions.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Science and Technology:</header><text>Mr. Hall of Texas.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Small Business:</header><text>Mr. Chabot.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Standards of Official Conduct:</header><text>Mr. Hastings of Washington.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Transportation and Infrastructure:</header><text>Mr. Mica.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Veterans’ Affairs:</header><text>Mr. Buyer</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Ways and Means:</header><text>Mr. McCrery, Mr. Herger, Mr. Camp of Michigan, Mr. Ramstad, Mr. Sam Johnson of Texas, Mr. English of Pennsylvania, Mr. Weller of Illinois, Mr. Hulshof, Mr. Lewis of Kentucky, Mr. Brady of Texas, Mr. Reynolds, Mr. Ryan of Wisconsin, Mr. Cantor, Mr. Linder, Mr. Nunes, Mr. Tiberi, and Mr. Porter.</text></committee-appointment-paragraph>
+
+</section> 
+</resolution-body> 
+<attestation><attestation-group><attestor display="no">Karen L. Haas,</attestor><role>Clerk.</role></attestation-group></attestation> 
+</resolution> 
+
+

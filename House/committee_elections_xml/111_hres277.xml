@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="H1DFBE1CB5CCA4047A92EF4B5AC29C9E9" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H"> 
+<form> 
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">111th CONGRESS</congress> 
+<session display="no">1st Session</session> 
+<legis-num>H. RES. 277</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber>
+<action>
+<action-date date="20090324">March 24, 2009</action-date>
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no">Electing a minority member to a certain standing committee.</official-title> 
+</form> 
+<resolution-body style="traditional" id="HA2020E5493F4472EA26152232000348C"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="HBA43A388ABB941F6B6053C57A94473D7"><text>That the following member be, and is hereby, elected to the following standing committee:</text> 
+
+<committee-appointment-paragraph><header><committee-name committee-id="HBU00"> Committee on the Budget</committee-name>— </header><text>Mr. Latta.</text></committee-appointment-paragraph>
+
+</section> 
+</resolution-body> 
+<attestation><attestation-group><attestor display="no">Lorraine C. Miller,</attestor><role>Clerk.</role></attestation-group></attestation>
+</resolution> 

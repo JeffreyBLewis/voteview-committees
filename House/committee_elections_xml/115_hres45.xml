@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="HC4AC98469E0E4BCBAB14AE2E8D4369B4" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>115 HRES 45 EH: </dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2017-01-11</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">115th CONGRESS</congress> 
+<session display="no">1st Session</session> 
+<legis-num>H. RES. 45</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber>
+<action>
+<action-date date="20170111">January 11, 2017</action-date>
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no"><?xm-replace_text {official-title}?></official-title> 
+</form> 
+<resolution-body style="traditional" id="HB01A2E7558544C978C56283D0E1C9788"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="HA8443D5A402D4F27844995239C5E68E0"><text>That the following named Members be, and are hereby, elected to the following standing committees of the House of Representatives:</text> <committee-appointment-paragraph><header>Committee on Agriculture:</header><text>Mr. Peterson, Mr. David Scott of Georgia, Mr. Costa, Mr. Walz, Ms. Fudge, Mr. McGovern, Mr. Vela, Ms. Michelle Lujan Grisham of New Mexico, Ms. Kuster of New Hampshire, Mr. Nolan, Mrs. Bustos, Mr. Sean Patrick Maloney of New York, Ms. Plaskett, Ms. Adams, Mr. Evans, Mr. Lawson of Florida, Mr. O'Halleran, Mr. Panetta, and Mr. Soto.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Appropriations:</header><text>Ms. Kaptur, Mr. Visclosky, Mr. Serrano, Ms. DeLauro, Mr. Price of North Carolina, Ms. Roybal-Allard, Mr. Bishop of Georgia, Ms. Lee, Ms. McCollum, Mr. Ryan of Ohio, Mr. Ruppersberger, Ms. Wasserman Schultz, Mr. Cuellar, Ms. Pingree, Mr. Quigley, Mr. Kilmer, Mr. Cartwright, Ms. Meng, Mr. Pocan, Ms. Clark of Massachusetts, and Mr. Aguilar.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header>Committee on Armed Services:</header><text>Mr. Brady of Pennsylvania, Mrs. Davis of California, Mr. Langevin, Mr. Larsen of Washington, Mr. Cooper, Ms. Bordallo, Mr. Courtney, Ms. Tsongas, Mr. Garamendi, Ms. Speier, Mr. Veasey, Ms. Gabbard, Mr. O'Rourke, Mr. Norcross, Mr. Gallego, Mr. Moulton, Ms. Hanabusa, Ms. Shea-Porter, Ms. Rosen, Mr. McEachin, Mr. Carbajal, Mr. Brown of Maryland, Mrs. Murphy of Florida, Mr. Khanna, Mr. Peters, Mr. Aguilar, and Mr. Castro of Texas.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on the Budget:</header><text>Ms. Lee, Ms. Michelle Lujan Grisham of New Mexico, Mr. Moulton, Mr. Jeffries, Mr. Higgins of New York, and Ms. DelBene.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header>Committee on Education and the Workforce:</header><text>Mrs. Davis of California, Mr. Grijalva, Mr. Courtney, Ms. Fudge, Mr. Polis, Mr. Sablan, Ms. Wilson of Florida, Ms. Bonamici, Mr. Takano, Ms. Adams, Mr. DeSaulnier, Mr. Norcross, Ms. Blunt Rochester, and Mr. Krishnamoorthi.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Energy and Commerce:</header><text>Mr. Rush, Ms. Eshoo, Mr. Engel, Mr. Gene Green of Texas, Ms. DeGette, Mr. Michael F. Doyle of Pennsylvania, Ms. Schakowsky, Mr. Butterfield, Ms. Matsui, Ms. Castor of Florida, Mr. Sarbanes, Mr. McNerney, Mr. Welch, Mr. Ben Ray Luján of New Mexico, Mr. Tonko, Ms. Clarke of New York, Mr. Loebsack, Mr. Schrader, Mr. Kennedy, Mr. Cárdenas, Mr. Ruiz, Mr. Peters, and Mrs. Dingell.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header>Committee on Financial Services:</header><text>Mrs. Carolyn B. Maloney of New York, Ms. Velázquez, Mr. Sherman, Mr. Meeks, Mr. Capuano, Mr. Clay, Mr. Lynch, Mr. David Scott of Georgia, Mr. Al Green of Texas, Mr. Cleaver, Ms. Moore, Mr. Ellison, Mr. Perlmutter, Mr. Himes, Mr. Foster, Mr. Kildee, Mr. Delaney, Ms. Sinema, Mrs. Beatty, Mr. Heck, Mr. Vargas, Mr. Gottheimer, Mr. Gonzalez of Texas, Mr. Crist, and Mr. Kihuen.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Foreign Affairs:</header><text>Mr. Sherman, Mr. Meeks, Mr. Sires, Mr. Connolly, Mr. Deutch, Ms. Bass, Mr. Keating, Mr. Cicilline, Mr. Bera, Ms. Frankel of Florida, Ms. Gabbard, Mr. Castro of Texas, Ms. Kelly of Illinois, Mr. Brendan F. Boyle of Pennsylvania, Ms. Titus, Mrs. Torres, Mr. Schneider, Mr. Suozzi, and Mr. Espaillat.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header>Committee on Homeland Security:</header><text>Ms. Jackson Lee, Mr. Langevin, Mr. Richmond, Mr. Keating, Mr. Payne, Mr. Vela, Mrs. Watson Coleman, Miss Rice of New York, Mr. Correa, Mrs. Demings, and Ms. Barragán.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on House Administration:</header><text>Mr. Raskin.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header>Committee on the Judiciary:</header><text>Mr. Conyers, Mr. Nadler, Ms. Lofgren, Ms. Jackson Lee, Mr. Cohen, Mr. Johnson of Georgia, Ms. Judy Chu of California, Mr. Deutch, Mr. Gutiérrez, Ms. Bass, Mr. Richmond, Mr. Jeffries, Mr. Cicilline, Mr. Swalwell of California, Mr. Ted Lieu of California, Mr. Raskin, and Ms. Jayapal.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Natural Resources:</header><text>Mrs. Napolitano, Ms. Bordallo, Mr. Costa, Mr. Sablan, Ms. Tsongas, Mr. Huffman, Mr. Lowenthal, Mr. Beyer, Mrs. Torres, and Mr. Gallego.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header>Committee on Oversight and Government Reform:</header><text>Mrs. Carolyn B. Maloney of New York, Ms. Norton, Mr. Clay, Mr. Lynch, Mr. Cooper, Mr. Connolly, Ms. Kelly of Illinois, Mrs. Lawrence, Mr. Ted Lieu of California, Mrs. Watson Coleman, Ms. Plaskett, and Mr. Brendan F. Boyle of Pennsylvania.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Science, Space, and Technology:</header><text>Ms. Eddie Bernice Johnson of Texas, Ms. Lofgren, Mr. Lipinski, Ms. Bonamici, Mr. Bera, Ms. Esty, Mr. Veasey, and Mr. Beyer.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header>Committee on Small Business:</header><text>Ms. Judy Chu of California.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Transportation and Infrastructure:</header><text>Mr. DeFazio, Ms. Norton, Mr. Nadler, Ms. Eddie Bernice Johnson of Texas, Mr. Cummings, Mr. Larsen of Washington, Mr. Capuano, Mrs. Napolitano, Mr. Lipinski, Mr. Cohen, Mr. Sires, Mr. Garamendi, Mr. Johnson of Georgia, Mr. Carson of Indiana, Mr. Nolan, Ms. Titus, Mr. Sean Patrick Maloney of New York, Ms. Esty, Ms. Frankel of Florida, Mrs. Bustos, Mr. Huffman, Ms. Brownley of California, Ms. Wilson of Florida, Mr. Payne, Mr. Lowenthal, Mrs. Lawrence, and Mr. DeSaulnier.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header>Committee on Veterans’ Affairs:</header><text>Mr. Walz, Mr. Takano, Ms. Brownley of California, Ms. Kuster of New Hampshire, Mr. O'Rourke, and Miss Rice of New York.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Ways and Means:</header><text>Mr. Levin, Mr. Lewis of Georgia, Mr. Becerra, Mr. Doggett, Mr. Thompson of California, Mr. Larson of Connecticut, Mr. Blumenauer, Mr. Kind, Mr. Pascrell, Mr. Crowley, Mr. Danny K. Davis of Illinois, Ms. Sánchez, Mr. Higgins of New York, Ms. Sewell of Alabama, and Ms. DelBene.</text></committee-appointment-paragraph> </section> </resolution-body> <attestation><attestation-group><attestor display="no">Karen L. Haas,</attestor><role>Clerk.</role></attestation-group></attestation> </resolution> 
+

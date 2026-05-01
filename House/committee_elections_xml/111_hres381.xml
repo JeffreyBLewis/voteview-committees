@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="H3B965864595A446DA95BB58EC78EC672" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H"> 
+<form> 
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">111th CONGRESS</congress> 
+<session display="no">1st Session</session> 
+<legis-num>H. RES. 381</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber>
+<action>
+<action-date date="20090430">April 30, 2009</action-date>
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no">Electing Members to certain standing committees of the House of Representatives.</official-title> 
+</form> 
+<resolution-body style="traditional" id="H57EF32BEA3E84FF3A56BD712A3D001AB"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="HAE1EC1CD5F22430CA8D2A46372D1D88D"><text>That the following named Members be and are hereby elected to the following standing committees of the House of Representatives:</text>
+<paragraph id="H3E2E5C1A3DCD4DA8BCC71DA61918FB7B"><enum>(1)</enum><header>Committee on Agriculture</header><text>Mr. Murphy of New York (to rank immediately after Mr. Boccieri).</text></paragraph>
+<paragraph id="H77444BD1A6894F14B0AB62D06A42E2CD"><enum>(2)</enum><header>Committee on Armed Services</header><text display-inline="yes-display-inline">Mr. Murphy of New York, Mr. Boren.</text></paragraph>
+<paragraph id="HD7AA101850F44D87893F877C190C3357"><enum>(3)</enum><header>Committee on the Judiciary</header><text>Mr. Quigley (to rank immediately after Mr. Pierluisi).</text></paragraph>
+<paragraph id="H46BCD5358DA444539BFF4607987F3B03"><enum>(4)</enum><header>Committee on Oversight and Government Reform</header><text>Mr. Quigley (to rank immediately after Mr. Connolly of Virginia), Ms. Kaptur (to rank immediately after Mr. Quigley).</text></paragraph></section> 
+</resolution-body> 
+<attestation><attestation-group><attestor display="no">Lorraine C. Miller,</attestor><role>Clerk.</role></attestation-group></attestation>
+</resolution> 

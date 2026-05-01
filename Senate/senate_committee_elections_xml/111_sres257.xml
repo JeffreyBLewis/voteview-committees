@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution public-print="no" public-private="public" resolution-stage="Agreed-to-Senate" resolution-type="senate-resolution" stage-count="1" star-print="no-star-print">
+	<form display="yes">
+		<distribution-code display="yes">III</distribution-code>
+		<congress display="yes">111th CONGRESS</congress>
+		<session display="yes">1st Session</session>
+		<legis-num display="yes">S. RES. 257</legis-num>
+		<current-chamber display="yes">IN THE SENATE OF THE UNITED
+		  STATES</current-chamber>
+		<action display="yes">
+			<action-date date="20090909">September 9, 2009</action-date>
+			<action-desc><sponsor name-id="S198">Mr. Reid</sponsor> submitted the
+			 following resolution; which was considered and agreed to</action-desc>
+		</action>
+		<legis-type display="yes">RESOLUTION</legis-type>
+		<official-title display="yes">To constitute the majority party's
+		  membership on certain committees for the One Hundred Eleventh Congress, or
+		  until their successors are chosen.</official-title>
+	</form>
+	<resolution-body display-resolving-clause="yes-display-resolving-clause" style="OLC">
+		<section commented="no" display-inline="yes-display-inline" id="S1" section-type="undesignated-section"><enum></enum><text display-inline="yes-display-inline">That the following shall constitute the
+			 majority party's membership on the following committees for the One Hundred
+			 Eleventh Congress, or until their successors are chosen:</text>
+			<committee-appointment-paragraph><header>Committee on agriculture,
+			 nutrition, and forestry:</header><text>Mrs. Lincoln (Chairman), Mr. Harkin, Mr.
+			 Leahy, Mr. Conrad, Mr. Baucus, Ms. Stabenow, Mr. Nelson of Nebraska, Mr. Brown,
+			 Mr. Casey, Ms. Klobuchar, Mr. Bennet, and Mrs. Gillibrand.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on health, education,
+			 labor, and pensions: </header><text>Mr. Harkin (Chairman), Mr. Dodd, Ms.
+			 Mikulski, Mr. Bingaman, Mrs. Murray, Mr. Reed, Mr. Sanders, Mr. Brown, Mr.
+			 Casey, Mrs. Hagan, Mr. Merkley, Mr. Franken, and Majority Leader
+			 designee.</text>
+			</committee-appointment-paragraph></section></resolution-body>
+</resolution>

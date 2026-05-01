@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="HC9EBC2E767F54EDCB14F39FF38F1E533" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HRES 71 EH: Electing Members to certain standing committees of the House of Representatives and ranking a Member on a certain standing committee of the House of Representatives.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-01-30</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">118th CONGRESS</congress> 
+<session display="no">1st Session</session> 
+<legis-num>H. RES. 71</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber>
+<action>
+<action-date date="20230130">January 30, 2023</action-date>
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no">Electing Members to certain standing committees of the House of Representatives and ranking a Member on a certain standing committee of the House of Representatives.</official-title> 
+</form> 
+<resolution-body style="multiple-resolved-clause" id="H415E57CB8CBB4B8AA07674E9683F94BA"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="HE50266EFD25442A19749AEB343918490"><text>That the following named Members be, and are hereby, elected to the following standing committees of the House of Representatives:</text> <committee-appointment-paragraph><header>Committee on the Judiciary:</header><text>Ms. Lofgren, Ms. Jackson Lee, Mr. Cohen, Mr. Johnson of Georgia, Mr. Schiff, Mr. Cicilline, Mr. Swalwell, Mr. Lieu, Ms. Jayapal, Mr. Correa, Ms. Scanlon, Mr. Neguse, Mrs. McBath, Ms. Dean of Pennsylvania, Ms. Escobar, Ms. Ross, Ms. Bush, Mr. Ivey.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Oversight and Accountability:</header><text>Ms. Norton, Mr. Lynch, Mr. Connolly, Mr. Krishnamoorthi, Mr. Khanna, Mr. Mfume, Ms. Ocasio-Cortez, Ms. Porter, Ms. Bush, Mr. Gomez, Ms. Brown, Ms. Stansbury, Mr. Robert Garcia of California, Mr. Frost, Ms. Balint, Ms. Lee of Pennsylvania, Mr. Casar, Ms. Crockett, Mr. Goldman of New York, Mr. Moskowitz.</text></committee-appointment-paragraph> </section> <section id="HBA89F3C3882D415796913F9E6B318A0F" section-type="resolved"><text>That the following named Member be, and is hereby, ranked as follows on the following standing committee of the House of Representatives:</text> 
+
+<committee-appointment-paragraph><header>Committee on Financial Services:</header><text>Mr. Torres of New York (to rank immediately after Ms. Tlaib). </text></committee-appointment-paragraph> </section> </resolution-body> <attestation><attestation-group><attestor display="no">Cheryl L. Johnson,</attestor><role>Clerk.</role></attestation-group></attestation> </resolution> 
+

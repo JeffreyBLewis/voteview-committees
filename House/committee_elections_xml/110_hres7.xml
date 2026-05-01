@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="HDAB12221D2374E3D97A905C768A5EE2D" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>110 HRES 7 EH: </dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2007-01-04</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form> 
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">110th CONGRESS</congress> 
+<session display="no">1st Session</session> 
+<legis-num>H. RES. 7</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber> 
+<action> 
+<action-date date="20070104">January 4, 2007</action-date> 
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no"><?xm-replace_text {official-title}?></official-title> 
+</form> 
+<resolution-body style="traditional" id="H14003DBF9ADE4914A5CD740EF5F7408"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="H6E92724CF29949D2A7796C56B12000A"><text display-inline="yes-display-inline">That the following named Members be, and are hereby, elected to the following standing committees of the House of Representatives:</text> 
+
+<committee-appointment-paragraph><header>Committee on Agriculture:</header><text>Mr. Peterson of Minnesota, Chairman.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Appropriations:</header><text>Mr. Obey, Chairman; Mr. Murtha, Mr. Dicks, Mr. Mollohan, Ms. Kaptur, Mr. Visclosky, Mrs. Lowey, Mr. Serrano, Ms. DeLauro, Mr. Moran of Virginia, Mr. Olver, Mr. Pastor, Mr. Price of North Carolina, Mr. Edwards, Mr. Cramer, Mr. Kennedy of Rhode Island, Mr. Hinchey, Ms. Roybal-Allard, Mr. Farr, Mr. Jackson of Illinois, Ms. Kilpatrick of Michigan, Mr. Boyd of Florida, Mr. Fattah, Mr. Rothman, Mr. Bishop of Georgia, Mr. Berry, Ms. Lee, Mr. Udall of New Mexico, Mr. Schiff, Mr. Honda, Ms. McCollum of Minnesota, Mr. Israel, Mr. Ryan of Ohio, Mr. Ruppersberger, Mr. Chandler, Ms. Wasserman Schultz, and Mr. Rodriguez.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Armed Services:</header><text>Mr. Skelton, Chairman.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on the Budget:</header><text>Mr. Spratt, Chairman.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Education and Labor:</header><text>Mr. George Miller of California, Chairman.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Energy and Commerce:</header><text>Mr. Dingell, Chairman; Mr. Waxman, Mr. Markey, Mr. Boucher, Mr. Towns, Mr. Pallone, Mr. Gordon of Tennessee, Mr. Rush, Ms. Eshoo, Mr. Stupak, Mr. Engel, Mr. Wynn, Mr. Gene Green of Texas, Ms. DeGette, Mrs. Capps, Mr. Doyle, Ms. Harman, Mr. Allen, Ms. Schakowsky, Ms. Solis, Mr. Gonzalez, Mr. Inslee, Ms. Baldwin, Mr. Ross, Ms. Hooley, Mr. Weiner, Mr. Matheson, Mr. Butterfield, Mr. Melancon, Mr. Barrow, and Mr. Hill.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Financial Services:</header><text>Mr. Frank of Massachusetts, Chairman.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Foreign Affairs:</header><text>Mr. Lantos, Chairman.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Homeland Security:</header><text>Mr. Thompson of Mississippi, Chairman.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on House Administration:</header><text>Ms. Millender-McDonald, Chairman.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on the Judiciary:</header><text>Mr. Conyers, Chairman.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Natural Resources:</header><text>Mr. Rahall, Chairman.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Oversight and Government Reform:</header><text>Mr. Waxman, Chairman.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Rules:</header><text>Ms. Slaughter, Chairman.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Science and Technology:</header><text>Mr. Gordon of Tennessee, Chairman.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Small Business:</header><text>Ms. Velázquez, Chairman.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Standards of Official Conduct:</header><text>Mrs. Jones of Ohio, Chairman.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Transportation and Infrastructure:</header><text>Mr. Oberstar, Chairman.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Veterans’ Affairs:</header><text>Mr. Filner, Chairman.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Ways and Means:</header><text>Mr. Rangel, Chairman; Mr. Stark, Mr. Levin, Mr. McDermott, Mr. Lewis of Georgia, Mr. Neal of Massachusetts, Mr. McNulty, Mr. Tanner, Mr. Becerra, Mr. Doggett, Mr. Pomeroy, Mrs. Jones of Ohio, Mr. Thompson of California, Mr. Larson of Connecticut, Mr. Emanuel, Mr. Blumenauer, Mr. Kind, Mr. Pascrell, Ms. Berkley, Mr. Crowley, Mr. Van Hollen, Mr. Meek of Florida, Ms. Schwartz of Pennsylvania, and Mr. Davis of Alabama.</text></committee-appointment-paragraph>
+
+</section> 
+</resolution-body> 
+<attestation><attestation-group><attestor display="no">Karen L. Haas,</attestor><role>Clerk.</role></attestation-group></attestation> 
+</resolution> 
+
+

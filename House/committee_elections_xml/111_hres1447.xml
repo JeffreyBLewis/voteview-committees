@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="HBAF7EB7057E64FEA9EB541B3019F9EBF" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H" stage-count="1"> 
+<form> 
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">111th CONGRESS</congress> 
+<session display="no">2d Session</session> 
+<legis-num>H. RES. 1447</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber> 
+<action> 
+<action-date date="20100616">June 16, 2010</action-date> 
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no">Electing certain minority Members to certain standing committees.</official-title> 
+</form> 
+<resolution-body style="traditional" id="H334413022DB0448C9483879CF069901A"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="H75E5705D5B2842CC98722F413EA7CDC8"><text>That the following named Members be, and they are hereby, elected to the following standing committees of the House of Representatives:</text> 
+
+<committee-appointment-paragraph><header>Committee on Agriculture:</header><text>Mr. Rooney.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Homeland Security:</header><text>Mr. Graves of Georgia.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Transportaton and Infrastructure:</header><text>Mr. Graves of Georgia.</text></committee-appointment-paragraph>
+
+</section> 
+</resolution-body> 
+<attestation><attestation-group><attestor display="no">Lorraine C. Miller,</attestor><role>Clerk.</role></attestation-group></attestation> 
+</resolution> 

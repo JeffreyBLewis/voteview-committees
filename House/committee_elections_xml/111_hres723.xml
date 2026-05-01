@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="HCD79872D550A4E1DB333AD7245856D8B" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H" stage-count="1"> 
+<form> 
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">111th CONGRESS</congress> 
+<session display="no">1st Session</session> 
+<legis-num>H. RES. 723</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber>
+<action>
+<action-date date="20090909">September 9, 2009</action-date>
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no">Electing a minority member to a standing committee.</official-title> 
+</form> 
+<resolution-body style="traditional" id="H41E4020F944B48968BEBDB2FCE6C5D3C"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="HFC79A85D945447E8B6BEA5BA080F370B"><text>That the following named Member be, and he is hereby, elected to the following standing committee of the House of Representatives:</text> 
+
+<committee-appointment-paragraph><header>Committee on Oversight and Government Reform:</header><text>Mr. Luetkemeyer.</text></committee-appointment-paragraph>
+
+</section> 
+</resolution-body> 
+<attestation><attestation-group><attestor display="no">Lorraine C. Miller,</attestor><role>Clerk.</role></attestation-group></attestation>
+</resolution> 

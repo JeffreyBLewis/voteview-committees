@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="H7658B20F61DC42608A04150F364E1DE2" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HRES 205 EH: Electing Members to certain standing committees of the House of Representatives and ranking a Member on a certain standing committee of the House of Representatives.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-03-08</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">118th CONGRESS</congress> 
+<session display="no">1st Session</session> 
+<legis-num>H. RES. 205</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber>
+<action>
+<action-date date="20230308">March 8, 2023</action-date>
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no">Electing Members to certain standing committees of the House of Representatives and ranking a Member on a certain standing committee of the House of Representatives.</official-title> 
+</form> 
+<resolution-body style="traditional" id="HE29B82287B7B447D8F8A7D3E26C6CD3D"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="HDB4E209BBB264836AD240EE40C444132"><text>That the following named Members be, and are hereby, elected to the following standing committees of the House of Representatives:</text> <committee-appointment-paragraph><header>Committee on Agriculture:</header><text>Mr. Bishop of Georgia.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Armed Services:</header><text>Mrs. McClellan (to rank immediately after Mr. Davis of North Carolina). </text></committee-appointment-paragraph> <committee-appointment-paragraph><header>Committee on Foreign Affairs:</header><text>Mr. Schneider.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Science, Space, and Technology:</header><text>Mrs. McClellan (to rank immediately after Ms. Lee of Pennsylvania).</text></committee-appointment-paragraph> </section> <section id="H03A2C969D2CE48508FCD4DAE8DB5EF69" section-type="resolved"><text>That the following named Member be, and is hereby, ranked as follows on the following standing committee of the House of Representatives:</text> 
+
+<committee-appointment-paragraph><header>Committee on the Budget:</header><text>Mr. Panetta (to rank immediately after Mr. Doggett). </text></committee-appointment-paragraph> </section> </resolution-body> <attestation><attestation-group><attestor display="no">Cheryl L. Johnson,</attestor><role>Clerk.</role></attestation-group></attestation> </resolution> 
+

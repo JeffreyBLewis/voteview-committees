@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="H12C9221CA6E74E7EB7307D003C969046" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>110 HRES 47 EH: Electing Members and Delegates to a certain standing committee of the House of Representatives.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2007-01-10</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form> 
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">110th CONGRESS</congress> 
+<session display="no">1st Session</session> 
+<legis-num>H. RES. 47</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber>
+<action>
+<action-date date="20070110">January 10, 2007</action-date>
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no">Electing Members and Delegates to a certain standing committee of the House of Representatives.</official-title> 
+</form> 
+<resolution-body style="traditional" id="HD06EC44A628A4AB5BCE48133D5767101"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="HADA892626D834530BDFFB50095F71FF"><text>That the following named Members and Delegate be, and are hereby, elected to the following standing committee of the House of Representatives:</text> 
+
+<committee-appointment-paragraph><header>Committee on Transportation and Infrastructure:</header><text>Mr. Rahall, Mr. DeFazio, Mr. Costello, Ms. Norton, Mr. Nadler, Ms. Corrine Brown of Florida, Mr. Filner, Ms. Eddie Bernice Johnson of Texas, Mr. Taylor of Mississippi, Ms. Millender-McDonald, Mr. Cummings, Mrs. Tauscher, Mr. Boswell, Mr. Holden, Mr. Baird, Mr. Larsen of Washington, Mr. Capuano, Ms. Carson, Mr. Bishop of New York, Mr. Michaud, Mr. Higgins, Mr. Carnahan, Mr. Salazar, Mrs. Napolitano, Mr. Lipinski, Mr. Lampson, Mr. Space, Ms. Hirono, Mr. Braley of Iowa, Mr. Altmire, Mr. Walz of Minnesota, Mr. Shuler, Mr. Arcuri, Mr. Mitchell, Mr. Carney, Mr. Hall of New York, Mr. Kagen, Mr. Cohen, and Mr. McNerney.</text></committee-appointment-paragraph>
+
+</section> 
+</resolution-body> 
+<attestation><attestation-group><attestor display="no">Karen L. Haas,</attestor><role>Clerk.</role></attestation-group></attestation>
+</resolution> 
+
+

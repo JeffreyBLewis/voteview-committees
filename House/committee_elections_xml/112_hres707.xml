@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="H2CBA8CDCD7BE47DA837F7D7EA252BF2B" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H" stage-count="1"> 
+<form> 
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">112th CONGRESS</congress> 
+<session display="no">2d Session</session> 
+<legis-num>H. RES. 707</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber> 
+<action> 
+<action-date date="20120626">June 26, 2012</action-date> 
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no">Electing Members to certain standing committees of the House of Representatives.</official-title> 
+</form> 
+<resolution-body style="traditional" id="HFF2EE627FEC746849C5E769CA0B53717"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="HBB5FC7B1865A4DF68FE23955027D7C75"><text display-inline="yes-display-inline">That the following named Members be, and are hereby, elected to the following standing committees of the House of Representatives:</text> 
+
+<committee-appointment-paragraph><header>Committee on Armed Services:</header><text>Mr. Barber.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Homeland Security:</header><text>Mr. Barber.</text></committee-appointment-paragraph>
+
+</section> 
+</resolution-body> 
+<attestation><attestation-group><attestor display="no">Karen L. Haas,</attestor><role>Clerk.</role></attestation-group></attestation> 
+</resolution> 

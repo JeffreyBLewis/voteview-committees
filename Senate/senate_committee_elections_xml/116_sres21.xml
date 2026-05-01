@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution key="G" public-print="no" public-private="public" resolution-stage="Agreed-to-Senate" resolution-type="senate-resolution" stage-count="1" star-print="no-star-print">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>116 SRES 21 ATS: To constitute the minority party's membership on certain committees for the One Hundred Sixteenth Congress, or until their successors are chosen.</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2019-01-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form display="yes">
+		<distribution-code display="yes">III</distribution-code><congress display="yes">116th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">S. RES. 21</legis-num><current-chamber display="yes">IN THE SENATE OF THE UNITED STATES</current-chamber><action display="yes"><action-date date="20190109">January 17, 2019</action-date><action-desc><sponsor name-id="S270">Mr. Schumer</sponsor> submitted the following resolution; which was considered and agreed to</action-desc></action><legis-type display="yes">RESOLUTION</legis-type><official-title display="yes">To constitute the minority party's membership on certain committees for the One Hundred Sixteenth
+			 Congress, or until their successors are chosen.</official-title></form>
+	<resolution-body display-resolving-clause="yes-display-resolving-clause" style="OLC">
+ <section commented="no" display-inline="yes-display-inline" id="id9592D254985D4D17A8D157515603AAA4" section-type="undesignated-section"><enum></enum><text>That the following shall constitute the minority party's membership on the following committees for the One Hundred Sixteenth Congress, or until their successors are chosen:</text>
+			<committee-appointment-paragraph><header><committee-name committee-id="SSEV00">Committee on Energy and Natural Resources:</committee-name></header>
+ <text>Mr. Manchin, Mr. Wyden, Ms. Cantwell, Mr. Sanders, Ms. Stabenow, Mr. Heinrich, Ms. Hirono, Mr. King, Ms. Cortez Masto.</text>
+			</committee-appointment-paragraph></section></resolution-body></resolution>
+
+

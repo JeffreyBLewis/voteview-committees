@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="H321CE250765E4241BA6EFAAFFCF26EEE" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H"> 
+<form> 
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">111th CONGRESS</congress> 
+<session display="no">1st Session</session> 
+<legis-num>H. RES. 237</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber>
+<action>
+<action-date date="20090312">March 12, 2009</action-date>
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no">Electing a Member to a certain standing committee of the House of Representatives.</official-title> 
+</form> 
+<resolution-body style="traditional" id="H4DF3BFA00CC249748A30FF8333219B93"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="HA448B98133644259BA08D82B5EAADBD1"><text>That the following named Member be and is hereby elected to the following standing committee of the House of Representatives:</text> 
+<paragraph id="HC6C45A707AF74AD09938F4BEDB60ED92"><enum>(1)</enum><header>Committee on Foreign Affairs</header><text>Ms. Woolsey (to rank immediately after Mr. Gene Green of Texas).</text></paragraph></section> 
+</resolution-body> 
+<attestation><attestation-group><attestor display="no">Lorraine C. Miller,</attestor><role>Clerk.</role></attestation-group></attestation>
+</resolution> 

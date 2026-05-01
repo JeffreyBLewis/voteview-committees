@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="HA7486444160C4B4B8266D866D919051C" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>116 HRES 1037 EH: Electing Members to certain standing committees of the House of Representatives and ranking a certain Member on a certain standing committee of the House of Representatives.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2020-07-01</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">116th CONGRESS</congress> 
+<session display="no">2d Session</session> 
+<legis-num>H. RES. 1037</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber>
+<action>
+<action-date date="20200701">July 1, 2020</action-date>
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no">Electing Members to certain standing committees of the House of Representatives and ranking a certain Member on a certain standing committee of the House of Representatives.</official-title> 
+</form> 
+<resolution-body style="traditional" id="H20E96E9D50F945D79DA7104E9890FFA7"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="H422484B617B34A0A88AC0F89703FF952"><text display-inline="yes-display-inline">That the following named Members be, and are hereby, elected to the following standing committees of the House of Representatives:</text> <committee-appointment-paragraph><header>Committee on the Judiciary:</header><text>Mr. Tiffany.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Oversight and Reform:</header><text>Mr. Palmer, to rank immediately before Mr. Cloud.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header>Committee on Science, Space, and Technology:</header><text>Mr. Garcia of California, Mr. Tiffany.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Transportation and Infrastructure:</header><text>Mr. Garcia of California.</text></committee-appointment-paragraph> </section> <section id="H57FA35B668B74470BA1370BB0FFC3BAD" section-type="resolved"><text>That the following named Member be, and is hereby, ranked as follows on the following standing committee of the House of Representatives:</text> 
+
+<committee-appointment-paragraph><header>Committee on Oversight and Reform:</header><text>Mr. Comer, to rank before Mr. Jordan. </text></committee-appointment-paragraph> </section> </resolution-body> <attestation><attestation-group><attestor display="no">Cheryl L. Johnson,</attestor><role>Clerk.</role></attestation-group></attestation> </resolution> 
+

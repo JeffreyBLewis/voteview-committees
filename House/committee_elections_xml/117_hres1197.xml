@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="H6B5357EA6F954D38970160AEDBEE0687" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HRES 1197 EH: Electing Members to certain standing committees of the House of Representatives. </dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2022-06-22</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">117th CONGRESS</congress> 
+<session display="no">2d Session</session> 
+<legis-num>H. RES. 1197</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber>
+<action>
+<action-date date="20220622">June 22, 2022</action-date>
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no">Electing Members to certain standing committees of the House of Representatives. </official-title> 
+</form> 
+<resolution-body style="traditional" id="H6431435E80294B1FB0CE0F8AD3CEE975"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="HBC74D2FB82C7492AA6454AB7A7A519DF"><text>That the following named Members be, and are hereby, elected to the following standing committees of the House of Representatives:</text> <committee-appointment-paragraph><header>Committee on Natural Resources:</header><text>Ms. Conway.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Veterans’ Affairs:</header><text>Ms. Conway.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header>Committee on Agriculture:</header><text>Mrs. Flores.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Homeland Security:</header><text>Mrs. Flores.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header>Committee on the Budget:</header><text>Mr. Moore of Utah, to rank immediately after Mr. Smith of Missouri. </text></committee-appointment-paragraph>
+
+</section> 
+</resolution-body> 
+<attestation><attestation-group><attestor display="no">Cheryl L. Johnson,</attestor><role>Clerk.</role></attestation-group></attestation>
+</resolution> 
+
+

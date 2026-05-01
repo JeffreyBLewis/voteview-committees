@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="H1B27FC7F685540B69120471E968DD3F5" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H" stage-count="1"> 
+<form> 
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">112th CONGRESS</congress> 
+<session display="no">1st Session</session> 
+<legis-num>H. RES. 395</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber>
+<action>
+<action-date date="20110908">September 8, 2011</action-date>
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no">Electing a certain Member to a certain standing committee of the House of Representatives.</official-title> 
+</form> 
+<resolution-body style="traditional" id="H763414ECA9734554AC97E3F5AE1F2206"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="HD12411C2AD0B47AEA895C9310ACFE175"><text>That the following named Member be, and is hereby, elected to the following standing committee of the House of Representatives:</text> 
+
+<committee-appointment-paragraph><header>Committee on small business:</header><text>Mr. Schilling.</text></committee-appointment-paragraph>
+
+</section> 
+</resolution-body> 
+<attestation><attestation-group><attestor display="no">Karen L. Haas,</attestor><role>Clerk.</role></attestation-group></attestation>
+</resolution> 

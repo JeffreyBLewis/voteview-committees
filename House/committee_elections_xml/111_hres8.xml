@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="HBBED2DA67EBB4580BE19A4208E254FB9" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H"> 
+<form> 
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">111th CONGRESS</congress> 
+<session display="no">1st Session</session> 
+<legis-num>H. RES. 8</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber>
+<action>
+<action-date date="20090106">January 6, 2009</action-date>
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no">Electing Members to certain standing committees of the House of Representatives.</official-title> 
+</form> 
+<resolution-body style="traditional" id="HDFA0A151FC6B453FBBBD378CCC3C22C"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="H6117FA7696D94C7BA9C47F599FB0001E"><text>That the following named Members be and are hereby elected to the following standing committees of the House of Representatives:</text>
+<paragraph id="H233446F7CCD346D5B940082B65C0967"><enum>(1)</enum><header>Committee on Agriculture</header><text>Mr. Peterson of Minnesota, Chairman.</text></paragraph>
+<paragraph id="HFB116E77CE4E4E86B9D88BD30081D14F" display-inline="no-display-inline"><enum>(2)</enum><header>Committee on Appropriations</header><text display-inline="yes-display-inline">Mr. Obey, Chairman.</text></paragraph>
+<paragraph id="HF0C85E26AEEA40A4A3645455EB135451" display-inline="no-display-inline"><enum>(3)</enum><header>Committee on Armed Services</header><text display-inline="yes-display-inline">Mr. Skelton, Chairman.</text></paragraph>
+<paragraph id="H5DD213A88C0C4A4397001C00D9B237BB" display-inline="no-display-inline"><enum>(4)</enum><header>Committee on the Budget</header><text display-inline="yes-display-inline">Mr. Spratt, Chairman.</text></paragraph>
+<paragraph id="HB8557A29DCDF47E7AAA722BA1D9C5B97" display-inline="no-display-inline"><enum>(5)</enum><header>Committee on Education and Labor</header><text display-inline="yes-display-inline">Mr. George Miller of California, Chairman.</text></paragraph>
+<paragraph id="H49186C1C89724CFF93B0755B4488A9C" display-inline="no-display-inline"><enum>(6)</enum><header>Committee on Energy and Commerce</header><text display-inline="yes-display-inline">Mr. Waxman, Chairman.</text></paragraph>
+<paragraph id="H1D96CD5976CD4958A6501359DCE0914F" display-inline="no-display-inline"><enum>(7)</enum><header>Committee on Financial Services</header><text display-inline="yes-display-inline">Mr. Frank of Massachusetts, Chairman.</text></paragraph>
+<paragraph id="H34A34ACF88774B84B291BE2F067DDAA8" display-inline="no-display-inline"><enum>(8)</enum><header>Committee on Foreign Affairs</header><text display-inline="yes-display-inline">Mr. Berman, Chairman.</text></paragraph>
+<paragraph id="H5D9DC03B746249CBAF1F93BCE0F9A029"><enum>(9)</enum><header>Committee on Homeland Security</header><text display-inline="yes-display-inline">Mr. Thompson of Mississippi, Chairman.</text></paragraph>
+<paragraph id="H089BF757380B40A6832F4688DFA6C530" display-inline="no-display-inline"><enum>(10)</enum><header>Committee on House Administration</header><text display-inline="yes-display-inline">Mr. Brady of Pennsylvania, Chairman.</text></paragraph>
+<paragraph id="H68BC224D410A4087A8B0FD1241512429" display-inline="no-display-inline"><enum>(11)</enum><header>Committee on the Judiciary</header><text display-inline="yes-display-inline">Mr. Conyers, Chairman.</text></paragraph>
+<paragraph id="H03F4D7040EE945139DDCCD4599A9D348" display-inline="no-display-inline"><enum>(12)</enum><header>Committee on Natural Resources</header><text display-inline="yes-display-inline">Mr. Rahall, Chairman.</text></paragraph>
+<paragraph id="H6A3A4A24E68849D682F2C2BD21E1948B" display-inline="no-display-inline"><enum>(13)</enum><header>Committee on Oversight and Government Reform</header><text display-inline="yes-display-inline">Mr. Towns, Chairman.</text></paragraph>
+<paragraph id="H2D4BB18117CF48F4001473619EB3E234" display-inline="no-display-inline"><enum>(14)</enum><header>Committee on Rules</header><text display-inline="yes-display-inline">Ms. Slaughter, Chairman; Mr. McGovern, Mr. Hastings of Florida, Ms. Matsui, Mr. Cardoza, Mr. Welch, Ms. Castor of Florida, Mr. Arcuri, Ms. Sutton.</text></paragraph>
+<paragraph id="H99B9B76BFC0F4B6F9F7BF666DA9DDA58" display-inline="no-display-inline"><enum>(15)</enum><header>Committee on Science and Technology</header><text display-inline="yes-display-inline">Mr. Gordon of Tennessee, Chairman.</text></paragraph>
+<paragraph id="HA457A01AC1734835ADB1A8D51DD7983E" display-inline="no-display-inline"><enum>(16)</enum><header>Committee on Small Business</header><text display-inline="yes-display-inline">Ms. Velázquez, Chairman.</text></paragraph>
+<paragraph id="HBC9FD769B3EE499F8B83EA538D200008" display-inline="no-display-inline"><enum>(17)</enum><header>Committee on Transportation and Infrastructure</header><text display-inline="yes-display-inline">Mr. Oberstar, Chairman.</text></paragraph>
+<paragraph id="H89015EBAF5B347748DE52FDA0042333C" display-inline="no-display-inline"><enum>(18)</enum><header>Committee on Veterans’ Affairs</header><text display-inline="yes-display-inline">Mr. Filner, Chairman.</text></paragraph>
+<paragraph id="H67FD31CC27EA4B1EB8174E4B8E524DD" display-inline="no-display-inline"><enum>(19)</enum><header>Committee on Ways and Means</header><text display-inline="yes-display-inline">Mr. Rangel, Chairman.</text></paragraph></section> 
+</resolution-body> 
+<attestation><attestation-group><attestor display="no">Lorraine C. Miller,</attestor><role>Clerk.</role></attestation-group></attestation>
+</resolution> 

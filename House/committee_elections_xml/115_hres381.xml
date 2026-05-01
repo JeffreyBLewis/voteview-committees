@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="HDA42818178B44F65977DEDB0B2F04FD7" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>115 HRES 381 EH: Electing Members to certain standing committees of the House of Representatives.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2017-06-13</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">115th CONGRESS</congress> 
+<session display="no">1st Session</session> 
+<legis-num>H. RES. 381</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber>
+<action>
+<action-date date="20170613">June 13, 2017</action-date>
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no">Electing Members to certain standing committees of the House of Representatives.</official-title> 
+</form> 
+<resolution-body style="multiple-resolved-clause" id="H8D44BA61AB5A433FAC5D08D2A921BD6E"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="HB5C34DF704A3403EBF4953DBCCC74537"><text display-inline="yes-display-inline">That the following named Members be, and are hereby, elected to the following standing committees of the House of Representatives:</text> <committee-appointment-paragraph><header><committee-name committee-id="HJU00"> Committee on the Judiciary</committee-name>:</header><text>Mr. Rutherford.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header><committee-name committee-id="HGO00"> Committee on Oversight and Government Reform</committee-name>: </header><text>Mr. Gowdy, Chair.</text></committee-appointment-paragraph> </section> </resolution-body> <resolution-body style="multiple-resolved-clause" id="H9E3C23CCA9334E92A2404F89212F60E1"> <section display-inline="yes-display-inline" section-type="undesignated-section" id="H9C7144E1B91D44EF8D237113121A4991"><text display-inline="yes-display-inline">That the following named Member be, and is hereby, ranked as follows on the following standing committee of the House of Representatives:</text> 
+
+<committee-appointment-paragraph><header><committee-name committee-id="HGO00"> Committee on Oversight and Government Reform</committee-name>: </header><text>Mr. Chaffetz, after Mr. Jordan.</text></committee-appointment-paragraph> </section> </resolution-body> <attestation><attestation-group><attestor display="no">Karen L. Haas,</attestor><role>Clerk.</role></attestation-group></attestation> </resolution> 
+

@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution public-print="no" public-private="public" resolution-stage="Agreed-to-Senate" resolution-type="senate-resolution" star-print="no-star-print">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>115 SRES 370 ATS: To constitute the minority party's membership on certain committees for the One Hundred Fifteenth Congress, or until their successors are chosen.</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2018-01-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form display="yes">
+		<distribution-code display="yes">III</distribution-code>
+		<congress display="yes">115th CONGRESS</congress>
+		<session display="yes">2d Session</session>
+		<legis-num display="yes">S. RES. 370</legis-num>
+		<current-chamber display="yes">IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20180109">January 9, 2018</action-date>
+			<action-desc><sponsor name-id="S270">Mr. Schumer</sponsor> submitted the following resolution; which was considered and agreed to</action-desc></action>
+		<legis-type display="yes">RESOLUTION</legis-type>
+		<official-title display="yes">To constitute the minority party's membership on certain committees for the One Hundred Fifteenth
+			 Congress, or until their successors are chosen.</official-title>
+	</form>
+	<resolution-body display-resolving-clause="yes-display-resolving-clause" style="OLC">
+ <section commented="no" display-inline="yes-display-inline" id="S1" section-type="undesignated-section"><enum></enum><text>That the following shall constitute the minority party's membership on the following committees for the One Hundred Fifteenth Congress, or until their successors are chosen:</text>
+ <committee-appointment-paragraph><header><committee-name>Committee on Agriculture, Nutrition, and Forestry</committee-name>: </header><text>Ms. Stabenow, Mr. Leahy, Mr. Brown, Ms. Klobuchar, Mr. Bennet, Mrs. Gillibrand, Mr. Donnelly, Ms. Heitkamp, Mr. Casey, Ms. Smith.</text>
+ </committee-appointment-paragraph><committee-appointment-paragraph><header><committee-name>Committee on Appropriations</committee-name>:</header><text>Mr. Leahy, Mrs. Murray, Mrs. Feinstein, Mr. Durbin, Mr. Reed, Mr. Tester, Mr. Udall, Mrs. Shaheen, Mr. Merkley, Mr. Coons, Mr. Schatz, Ms. Baldwin, Mr. Murphy, Mr. Manchin, Mr. Van Hollen.</text>
+ </committee-appointment-paragraph><committee-appointment-paragraph><header><committee-name>Committee on Armed Services</committee-name>:</header><text>Mr. Reed, Mr. Nelson, Mrs. McCaskill, Mrs. Shaheen, Mrs. Gillibrand, Mr. Blumenthal, Mr. Donnelly, Ms. Hirono, Mr. Kaine, Mr. King, Mr. Heinrich, Ms. Warren, Mr. Peters.</text>
+ </committee-appointment-paragraph><committee-appointment-paragraph><header><committee-name>Committee on Banking, Housing, and Urban Affairs</committee-name>:</header><text>Mr. Brown, Mr. Reed, Mr. Menendez, Mr. Tester, Mr. Warner, Ms. Warren, Ms. Heitkamp, Mr. Donnelly, Mr. Schatz, Mr. Van Hollen, Ms. Cortez Masto, Mr. Jones.</text>
+ </committee-appointment-paragraph><committee-appointment-paragraph><header><committee-name>Committee on Commerce, Science, and Transportation</committee-name>:</header><text>Mr. Nelson, Ms. Cantwell, Ms. Klobuchar, Mr. Blumenthal, Mr. Schatz, Mr. Markey, Mr. Udall, Mr. Peters, Ms. Baldwin, Ms. Duckworth, Ms. Hassan, Ms. Cortez Masto, Mr. Tester.</text>
+ </committee-appointment-paragraph><committee-appointment-paragraph><header><committee-name>Committee on Energy and Natural Resources</committee-name>:</header><text>Ms. Cantwell, Mr. Wyden, Mr. Sanders, Ms. Stabenow, Mr. Manchin, Mr. Heinrich, Ms. Hirono, Mr. King, Ms. Duckworth, Ms. Cortez Masto, Ms. Smith.</text>
+ </committee-appointment-paragraph><committee-appointment-paragraph><header><committee-name>Committee on the Environment and Public Works</committee-name>:</header><text>Mr. Carper, Mr. Cardin, Mr. Sanders, Mr. Whitehouse, Mr. Merkley, Mrs. Gillibrand, Mr. Booker, Mr. Markey, Ms. Duckworth, Mr. Van Hollen.</text>
+ </committee-appointment-paragraph><committee-appointment-paragraph><header><committee-name>Committee on Finance</committee-name>:</header><text>Mr. Wyden, Ms. Stabenow, Ms. Cantwell, Mr. Nelson, Mr. Menendez, Mr. Carper, Mr. Cardin, Mr. Brown, Mr. Bennet, Mr. Casey, Mr. Warner, Mrs. McCaskill, Mr. Whitehouse.</text>
+ </committee-appointment-paragraph><committee-appointment-paragraph><header><committee-name>Committee on Foreign Relations</committee-name>:</header><text>Mr. Cardin, Mr. Menendez, Mrs. Shaheen, Mr. Coons, Mr. Udall, Mr. Murphy, Mr. Kaine, Mr. Markey, Mr. Merkley, Mr. Booker.</text>
+ </committee-appointment-paragraph><committee-appointment-paragraph><header><committee-name>Committee on Health, Education, Labor, and Pensions</committee-name>:</header><text>Mrs. Murray, Mr. Sanders, Mr. Casey, Mr. Bennet, Ms. Baldwin, Mr. Murphy, Ms. Warren, Mr. Kaine, Ms. Hassan, Ms. Smith, Mr. Jones.</text>
+ </committee-appointment-paragraph><committee-appointment-paragraph><header><committee-name>Committee on Homeland Security and Governmental Affairs</committee-name>:</header><text>Mrs. McCaskill, Mr. Carper, Ms. Heitkamp, Mr. Peters, Ms. Hassan, Ms. Harris, Mr. Jones.</text> </committee-appointment-paragraph><committee-appointment-paragraph><header><committee-name>Select Committee on Intelligence</committee-name>:</header><text>Mr. Warner (Vice Chairman), Mrs. Feinstein, Mr. Wyden, Mr. Heinrich, Mr. King, Mr. Manchin, Ms. Harris, Mr. Schumer (ex officio), and Mr. Reed (ex officio).</text>
+ </committee-appointment-paragraph><committee-appointment-paragraph><header><committee-name>Committee on the Judiciary</committee-name>:</header><text>Mrs. Feinstein, Mr. Leahy, Mr. Durbin, Mr. Whitehouse, Ms. Klobuchar, Mr. Coons, Mr. Blumenthal, Ms. Hirono, Mr. Booker, Ms. Harris.</text>
+ </committee-appointment-paragraph><committee-appointment-paragraph><header><committee-name>Committee on the Budget</committee-name>:</header><text>Mr. Sanders, Mrs. Murray, Mr. Wyden, Ms. Stabenow, Mr. Whitehouse, Mr. Warner, Mr. Merkley, Mr. Kaine, Mr. King, Mr. Van Hollen, Ms. Harris.</text>
+ </committee-appointment-paragraph><committee-appointment-paragraph><header><committee-name>Committee on Rules and Administration</committee-name>:</header><text>Ms. Klobuchar, Mrs. Feinstein, Mr. Schumer, Mr. Durbin, Mr. Udall, Mr. Warner, Mr. Leahy, Mr. King, Ms. Cortez Masto.</text>
+ </committee-appointment-paragraph><committee-appointment-paragraph><header><committee-name>Committee on Small Business and Entrepreneurship</committee-name>:</header><text>Mrs. Shaheen, Ms. Cantwell, Mr. Cardin, Ms. Heitkamp, Mr. Markey, Mr. Booker, Mr. Coons, Ms. Hirono, Ms. Duckworth.</text>
+ </committee-appointment-paragraph><committee-appointment-paragraph><header><committee-name>Committee on Veterans' Affairs</committee-name>: </header><text>Mr. Tester, Mrs. Murray, Mr. Sanders, Mr. Brown, Mr. Blumenthal, Ms. Hirono, Mr. Manchin.</text> </committee-appointment-paragraph><committee-appointment-paragraph><header><committee-name>Special Committee on Aging</committee-name>:</header><text>Mr. Casey, Mr. Nelson, Mrs. Gillibrand, Mr. Blumenthal, Mr. Donnelly, Ms. Warren, Ms. Cortez Masto, Mr. Jones.</text>
+ </committee-appointment-paragraph><committee-appointment-paragraph><header><committee-name>Joint Economic Committee</committee-name>: </header><text>Mr. Heinrich, Ms. Klobuchar, Mr. Peters, Ms. Hassan.</text> </committee-appointment-paragraph><committee-appointment-paragraph><header><committee-name>Select Committee on Ethics</committee-name>: </header><text>Mr. Coons (Vice Chairman), Mr. Schatz, Mrs. Shaheen.</text>
+ </committee-appointment-paragraph><committee-appointment-paragraph><header><committee-name>Committee on Indian Affairs</committee-name>:</header><text>Mr. Udall (Vice Chairman), Ms. Cantwell, Mr. Tester, Mr. Schatz, Ms. Heitkamp, Ms. Cortez Masto, Ms. Smith.</text>
+			</committee-appointment-paragraph></section></resolution-body>
+</resolution>
+
+

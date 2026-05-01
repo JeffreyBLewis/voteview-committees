@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="H4F825F1DEC5648F499449704F5E55767" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H" stage-count="1"> 
+<form> 
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">112th CONGRESS</congress> 
+<session display="no">2d Session</session> 
+<legis-num>H. RES. 553</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber> 
+<action> 
+<action-date date="20120216">February 16, 2012</action-date> 
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no">Electing Members to certain standing committees of the House of Representatives.</official-title> 
+</form> 
+<resolution-body style="traditional" id="H446D1E8A2CE94586905933839C72CE79"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="H11D5B8B23D66483DA21A8B4053234F3F"><text display-inline="yes-display-inline">That the following named Members be, and are hereby, elected to the following standing committees of the House of Representatives:</text> 
+
+<committee-appointment-paragraph><header>Committee on armed services:</header><text>Ms. Speier.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header> Committee on the budget:</header><text>Ms. Bonamici.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header> Committee on natural resources:</header><text>Mr. Tonko.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header> Committee on Science, Space, and Technology:</header><text>Ms. Bonamici.</text></committee-appointment-paragraph>
+
+</section> 
+</resolution-body> 
+<attestation><attestation-group><attestor display="no">Karen L. Haas,</attestor><role>Clerk.</role></attestation-group></attestation> 
+</resolution> 

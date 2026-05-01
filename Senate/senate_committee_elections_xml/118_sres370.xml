@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution public-print="no" public-private="public" resolution-stage="Agreed-to-Senate" resolution-type="senate-resolution" star-print="no-star-print" key="G"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 SRES 370 ATS: To constitute the majority party's membership on certain committees for the One Hundred Eighteenth Congress, or until their successors are chosen.</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2023-09-27</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form display="yes">
+<distribution-code display="yes">III</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">S. RES. 370</legis-num><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date date="20230927" legis-day="20230922">September 27 (legislative day, September 22), 2023</action-date><action-desc><sponsor name-id="S270">Mr. Schumer</sponsor> submitted the following resolution; which was considered and agreed to</action-desc></action><legis-type display="yes">RESOLUTION</legis-type><official-title display="yes">To constitute the majority party's membership on certain committees for the One Hundred Eighteenth Congress, or until their successors are chosen.</official-title></form><resolution-body display-resolving-clause="yes-display-resolving-clause" style="OLC"><section commented="no" display-inline="yes-display-inline" id="S1" section-type="undesignated-section"><text> the following shall constitute the majority party's membership on the following committees for the One Hundred Eighteenth Congress, or until their successors are chosen: </text><committee-appointment-paragraph><header>Committee on Foreign Relations:</header><text>Mr. Cardin (Chair), Mr. Menendez, Mrs. Shaheen, Mr. Coons, Mr. Murphy, Mr. Kaine, Mr. Merkley, Mr. Booker, Mr. Schatz, Mr. Van Hollen, Ms. Duckworth. </text></committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on Small Business and Entrepreneurship:</header><text>Mrs. Shaheen (Chair), Ms. Cantwell, Mr. Cardin, Mr. Markey, Mr. Booker, Mr. Coons, Ms. Hirono, Ms. Duckworth, Ms. Rosen, Mr. Hickenlooper.</text></committee-appointment-paragraph></section></resolution-body></resolution> 
+

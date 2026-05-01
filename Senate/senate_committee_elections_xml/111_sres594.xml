@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution public-private="public" resolution-stage="Agreed-to-Senate" resolution-type="senate-resolution">
+	<form>
+		<distribution-code display="yes">III</distribution-code>
+		<congress>111th CONGRESS</congress>
+		<session>2d Session</session>
+		<legis-num>S. RES. 594</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20100721">July 22, 2010</action-date>
+			<action-desc><sponsor name-id="S198">Mr. Reid</sponsor> submitted the
+			 following resolution; which was considered and agreed to</action-desc>
+		</action>
+		<legis-type>RESOLUTION</legis-type>
+		<official-title display="yes">To constitute the majority party's
+		  membership on certain committees for the One Hundred Eleventh Congress, or
+		  until their successors are chosen.</official-title>
+	</form>
+	<resolution-body>
+		<section display-inline="yes-display-inline" id="S1" section-type="undesignated-section"><enum></enum><text>That the following shall constitute
+			 the majority party's membership on the following committees for the One Hundred
+			 Eleventh Congress, or until their successors are chosen:</text>
+			<committee-appointment-paragraph><header>Committee on
+			 appropriations:</header><text>Mr. Inouye (Chairman), Mr. Leahy, Mr. Harkin, Ms.
+			 Mikulski, Mr. Kohl, Mrs. Murray, Mr. Dorgan, Mrs. Feinstein, Mr. Durbin, Mr.
+			 Johnson, Ms. Landrieu, Mr. Reed, Mr. Lautenberg, Mr. Nelson (Nebraska), Mr.
+			 Pryor, Mr. Tester, Mr. Specter, and Mr. Brown (Ohio).</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on armed
+			 services:</header><text>Mr. Levin (Chairman), Mr. Lieberman, Mr. Reed, Mr.
+			 Akaka, Mr. Nelson (Florida), Mr. Nelson (Nebraska), Mr. Bayh, Mr. Webb, Mrs.
+			 McCaskill, Mr. Udall (Colorado), Mrs. Hagan, Mr. Begich, Mr. Burris, Mr.
+			 Bingaman, Mr. Kaufman, and Mr. Goodwin.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on the
+			 budget:</header><text>Mr. Conrad (Chairman), Mrs. Murray, Mr. Wyden, Mr.
+			 Feingold, Mr. Nelson (Florida), Ms. Stabenow, Mr. Cardin, Mr. Sanders, Mr.
+			 Whitehouse, Mr. Warner, Mr. Merkley, Mr. Begich, and Mr. Goodwin.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on health, education,
+			 labor, and pensions:</header><text>Mr. Harkin (Chairman), Mr. Dodd, Ms.
+			 Mikulski, Mr. Bingaman, Mrs. Murray, Mr. Reed, Mr. Sanders, Mr. Casey, Mrs.
+			 Hagan, Mr. Merkley, Mr. Franken, Mr. Bennet, and Mr. Goodwin.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on rules and
+			 administration:</header><text>Mr. Schumer (Chairman), Mr. Inouye, Mr. Dodd,
+			 Mrs. Feinstein, Mr. Durbin, Mr. Nelson (Nebraska), Mrs. Murray, Mr. Pryor, Mr.
+			 Udall (New Mexico), Mr. Warner, and Mr. Goodwin.</text>
+			</committee-appointment-paragraph></section></resolution-body>
+</resolution>

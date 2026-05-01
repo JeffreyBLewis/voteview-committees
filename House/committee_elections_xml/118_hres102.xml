@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="H889FF867488E482D8A8B221AAD374ABD" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HRES 102 EH: Electing Members to certain standing committees of the House.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-02-08</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">118th CONGRESS</congress> 
+<session display="no">1st Session</session> 
+<legis-num>H. RES. 102</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber>
+<action>
+<action-date date="20230208">February 8, 2023</action-date>
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no">Electing Members to certain standing committees of the House.</official-title> 
+</form> 
+<resolution-body style="traditional" id="H4BEFC525B3144ACFA5676B43F9AD44E5"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="H6098F482859C4B2890B810D46BF619BE"><text>That the following named Members be, and are hereby, elected to the following standing committees of the House:</text> <committee-appointment-paragraph><header>Committee on the Budget:</header><text>Mr. Higgins of New York, Ms. Schakowsky, Mr. Blumenauer, Mr. Kildee, Mr. Peters, Ms. Lee of California, Mr. Doggett, Ms. Wexton, Ms. Jackson Lee, Ms. Omar, Mr. Trone, Ms. Balint, Mr. Scott of Virginia, Mr. Panetta.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Foreign Affairs:</header><text>Mr. Costa, Mr. Crow.</text></committee-appointment-paragraph> </section> </resolution-body> <attestation><attestation-group><attestor display="no">Cheryl L. Johnson,</attestor><role>Clerk.</role></attestation-group></attestation> </resolution> 
+

@@ -1,0 +1,211 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution public-private="public" resolution-stage="Agreed-to-Senate" resolution-type="senate-resolution" star-print="no-star-print">
+
+	<form display="yes">
+
+		<distribution-code display="yes">III </distribution-code>
+
+		<congress display="yes">109th CONGRESS</congress>
+
+		<session display="yes">1st Session</session>
+
+		<legis-num>S. RES. 6</legis-num>
+
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+
+		<action display="yes">
+
+			<action-date date="20050106">January 6, 2005</action-date>
+
+			<action-desc blank-lines-after="0" display="yes">
+
+				<sponsor by-request="no" name-id="S198">Mr. Reid</sponsor> submitted the
+
+			 following resolution; which was considered and agreed to</action-desc>
+
+		</action>
+
+		<legis-type>RESOLUTION</legis-type>
+
+		<official-title display="yes">Making minority party appointments to
+
+		  certain Senate committees for the 109th Congress.</official-title>
+
+	</form>
+
+	<resolution-body display-resolving-clause="yes-display-resolving-clause" style="OLC">
+
+		<section commented="no" display-inline="yes-display-inline" id="S1" section-type="undesignated-section">
+
+			<text display-inline="yes-display-inline">That notwithstanding the
+
+			 provisions of Rule XXV, the following shall constitute the minority party's
+
+			 membership on the following standing committees for the One Hundred Ninth
+
+			 Congress, or until their successors are chosen:</text>
+
+			<subsection id="id9577F7E457F747EC8AF26F8E77B80930"><enum></enum><text><header-in-text>Committee on
+
+			 Agriculture, Nutrition, and Forestry</header-in-text>: Mr. Harkin (Ranking
+
+			 Member), Mr. Leahy, Mr. Conrad, Mr. Baucus, Mrs. Lincoln, Ms. Stabenow, Mr.
+
+			 Nelson of Nebraska, Mr. Dayton, and Mr. Salazar.</text>
+
+			</subsection><subsection id="idF460885D700D453CB345AE822B785439"><enum></enum><text><header-in-text>Committee on
+
+			 Appropriations</header-in-text>: Mr. Byrd (Ranking Member), Mr. Inouye, Mr.
+
+			 Leahy, Mr. Harkin, Ms. Mikulski, Mr. Reid, Mr. Kohl, Mrs. Murray, Mr. Dorgan,
+
+			 Mrs. Feinstein, Mr. Durbin, Mr. Johnson, and Ms. Landrieu.</text>
+
+			</subsection><subsection id="idB49AE49F8FAD4C5BAB8F36AA1E72F880"><enum></enum><text><header-in-text>Committee on
+
+			 Armed Services</header-in-text>: Mr. Levin (Ranking Member), Mr. Kennedy, Mr.
+
+			 Byrd, Mr. Lieberman, Mr. Reed, Mr. Akaka, Mr. Nelson of Florida, Mr. Nelson of
+
+			 Nebraska, Mr. Dayton, Mr. Bayh, and Mrs. Clinton.</text>
+
+			</subsection><subsection id="id099D784DC068400E88DE34C53F647D1B"><enum></enum><text><header-in-text>Committee on
+
+			 Banking, Housing, and Urban Affairs</header-in-text>: Mr. Sarbanes (Ranking
+
+			 Member), Mr. Dodd, Mr. Johnson, Mr. Reed, Mr. Schumer, Mr. Bayh, Mr. Carper,
+
+			 Ms. Stabenow, and Mr. Corzine.</text>
+
+			</subsection><subsection id="idA65E1DD8F5C14CFBBC8C1077A16573A3"><enum></enum><text><header-in-text>Committee on
+
+			 Commerce, Science, and Transportation</header-in-text>: Mr. Inouye (Ranking
+
+			 Member), Mr. Rockefeller, Mr. Kerry, Mr. Dorgan, Mrs. Boxer, Mr. Nelson of
+
+			 Florida, Ms. Cantwell, Mr. Lautenberg, Mr. Nelson of Nebraska, and Mr.
+
+			 Pryor.</text>
+
+			</subsection><subsection id="id6067B6C1B7DB476A90A441B7DC79DF35"><enum></enum><text><header-in-text>Committee on
+
+			 Energy and Natural Resources</header-in-text>: Mr. Bingaman (Ranking Member),
+
+			 Mr. Akaka, Mr. Dorgan, Mr. Wyden, Mr. Johnson, Ms. Landrieu, Mrs. Feinstein,
+
+			 Ms. Cantwell, Mr. Corzine, and Mr. Salazar.</text>
+
+			</subsection><subsection id="id5F96F64E3CD044149F41181308427BF7"><enum></enum><text><header-in-text>Committee on
+
+			 Environment and Public Works</header-in-text>: Mr. Jeffords (Ranking Member),
+
+			 Mr. Baucus, Mr. Lieberman, Mrs. Boxer, Mr. Carper, Mrs. Clinton, Mr.
+
+			 Lautenberg, and Mr. Obama.</text>
+
+			</subsection><subsection id="id3B21E6E65AC144F19666C9056CB2CB47"><enum></enum><text><header-in-text>Committee on
+
+			 Finance</header-in-text>: Mr. Baucus (Ranking Member), Mr. Rockefeller, Mr.
+
+			 Conrad, Mr. Jeffords, Mr. Bingaman, Mr. Kerry, Mrs. Lincoln, Mr. Wyden, and Mr.
+
+			 Schumer.</text>
+
+			</subsection><subsection id="id3056D5701BFB4C9DABFF50D6AEA601CF"><enum></enum><text><header-in-text>Committee on
+
+			 Foreign Relations</header-in-text>: Mr. Biden (Ranking Member), Mr. Sarbanes,
+
+			 Mr. Dodd, Mr. Kerry, Mr. Feingold, Mrs. Boxer, Mr. Nelson of Florida, and Mr.
+
+			 Obama.</text>
+
+			</subsection><subsection id="idC7D37135AB1D4EA690FCD83B25148E4F"><enum></enum><text><header-in-text>Committee on
+
+			 Health, Education, Labor, and Pensions</header-in-text>: Mr. Kennedy (Ranking
+
+			 Member), Mr. Dodd, Mr. Harkin, Ms. Mikulski, Mr. Jeffords, Mr. Bingaman, Mrs.
+
+			 Murray, Mr. Reed, and Mrs. Clinton.</text>
+
+			</subsection><subsection id="idA2464AFA71734C088AF1878919FCB915"><enum></enum><text><header-in-text>Committee on
+
+			 Homeland Security and Governmental Affairs</header-in-text>: Mr. Lieberman
+
+			 (Ranking Member), Mr. Levin, Mr. Akaka, Mr. Carper, Mr. Dayton, Mr. Lautenberg,
+
+			 and Mr. Pryor.</text>
+
+			</subsection><subsection id="id2D306E755C9E4653A2464ABB984722B7"><enum></enum><text><header-in-text>Committee on the
+
+			 Judiciary</header-in-text>: Mr. Leahy (Ranking Member), Mr. Kennedy, Mr. Biden,
+
+			 Mr. Kohl, Mrs. Feinstein, Mr. Feingold, Mr. Schumer, and Mr. Durbin.</text>
+
+			</subsection><subsection id="id912A5488B07142CFB79F432E0073DABB"><enum></enum><text><header-in-text>Committee on
+
+			 Rules and Administration</header-in-text>: Mr. Dodd (Ranking Member), Mr. Byrd,
+
+			 Mr. Inouye, Mrs. Feinstein, Mr. Schumer, Mr. Dayton, Mr. Durbin, and Mr. Nelson
+
+			 of Nebraska.</text>
+
+			</subsection><subsection id="idE9315A3449844142B3F6323D101538E3"><enum></enum><text><header-in-text>Committee on
+
+			 Small Business and Entrepreneurship</header-in-text>: Mr. Kerry (Ranking
+
+			 Member), Mr. Levin, Mr. Harkin, Mr. Lieberman, Ms. Landrieu, Ms. Cantwell, Mr.
+
+			 Bayh, and Mr. Pryor.</text>
+
+			</subsection><subsection id="id705013D945DC454DAC89FF0085346A75"><enum></enum><text><header-in-text>Committee on
+
+			 Veterans' Affairs</header-in-text>: Mr. Akaka (Ranking Member), Mr.
+
+			 Rockefeller, Mr. Jeffords, Mrs. Murray, Mr. Obama, and Mr. Salazar.</text>
+
+			</subsection><subsection id="id6B8BAFB0FB86431BA93974DA5F8F24E3"><enum></enum><text><header-in-text>Special Committee
+
+			 on Aging</header-in-text>: Mr. Kohl (Ranking Member), Mr. Jeffords, Mr.
+
+			 Feingold, Mr. Wyden, Mrs. Lincoln, Mr. Bayh, Mr. Carper, Mr. Nelson of Florida,
+
+			 and Mrs. Clinton.</text>
+
+			</subsection><subsection id="id33711FB97679414298D129972DBC41B2"><enum></enum><text><header-in-text>Committee on the
+
+			 Budget</header-in-text>: Mr. Conrad (Ranking Member), Mr. Sarbanes, Mrs.
+
+			 Murray, Mr. Wyden, Mr. Feingold, Mr. Johnson, Mr. Byrd, Mr. Nelson of Florida,
+
+			 Ms. Stabenow, and Mr. Corzine.</text>
+
+			</subsection><subsection id="id0E0514AD77E84020AC19664BAFB23AD2"><enum></enum><text><header-in-text>Select Committee
+
+			 on Ethics</header-in-text>: Mr. Johnson (Vice Chairman), Mr. Akaka, and Mr.
+
+			 Pryor.</text>
+
+			</subsection><subsection id="idADE8E3C66AED43FEA5E22057529DE13C"><enum></enum><text><header-in-text>Committee on
+
+			 Indian Affairs</header-in-text>: Mr. Dorgan (Vice Chairman), Mr. Inouye, Mr.
+
+			 Conrad, Mr. Akaka, Mr. Johnson, and Ms. Cantwell.</text>
+
+			</subsection><subsection id="idBFC81DC7B0BA46B7B7151FB59E74B424"><enum></enum><text><header-in-text>Select Committee
+
+			 on Intelligence</header-in-text>: Mr. Rockefeller (Vice Chairman), Mr. Levin,
+
+			 Mrs. Feinstein, Mr. Wyden, Mr. Bayh, Ms. Mikulski, and Mr. Corzine.</text>
+
+			</subsection><subsection id="id6081A10533544DC79D6AC4508EF9456A"><enum></enum><text><header-in-text>Joint Economic
+
+			 Committee</header-in-text>: Mr. Reed, Mr. Kennedy, Mr. Sarbanes, and Mr.
+
+			 Bingaman.</text>
+
+			</subsection></section></resolution-body>
+
+</resolution>
+

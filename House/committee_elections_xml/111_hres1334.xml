@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="H173317C632114211A2E2FFA32ACD4CBB" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H" stage-count="1"> 
+<form> 
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">111th CONGRESS</congress> 
+<session display="no">2d Session</session> 
+<legis-num>H. RES. 1334</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber> 
+<action> 
+<action-date date="20100506">May 6, 2010</action-date> 
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no">Electing Members to certain standing committees of the House of Representatives.</official-title> 
+</form> 
+<resolution-body style="traditional" id="H1F699149CFF04475A82FA76095A79623"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="H4E16BD16ADA94F47B6F4FD22FBF928D3"><text display-inline="yes-display-inline">That the following named Members be, and are hereby, elected to the following standing committees of the House of Representatives:</text> 
+
+<committee-appointment-paragraph><header>Committee on Agriculture:</header><text>Mr. Owens (to rank immediately after Mr. Murphy of New York). </text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Appropriations:</header><text>Mr. Patrick Murphy of Pennsylvania.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Armed Services:</header><text>Mr. Garamendi (to rank immediately after Mr. Owens), Mr. Boswell (to rank immediately after Mr. Garamendi), Mr. Johnson of Georgia (to rank immediately after Mr. Boren).</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Foreign Affairs:</header><text>Mr. Deutch (to rank immediately after Mr. McMahon).</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Homeland Security:</header><text>Mr. Owens (to rank immediately after Ms. Titus).</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on the Judiciary:</header><text>Mr. Deutch (to rank immediately after Ms. Chu), Mr. Polis.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Natural Resources:</header><text>Mr. Luján (to rank immediately after Mr. Heinrich).</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Science and Technology:</header><text>Mr. Garamendi (to rank immediately after Mr. Peters).</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Transportation and Infrastructure:</header><text>Mr. Johnson of Georgia.</text></committee-appointment-paragraph>
+
+</section> 
+</resolution-body> 
+<attestation><attestation-group><attestor display="no">Lorraine C. Miller,</attestor><role>Clerk.</role></attestation-group></attestation> 
+</resolution> 

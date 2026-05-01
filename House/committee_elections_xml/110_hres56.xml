@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="H5EE8635E945049DD00EB690758CDF14E" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="first-star-print" key="H"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>110 HRES 56 EH: Electing Members and Delegates to certain standing committees of the House of Representatives. </dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2007-01-12</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form> 
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">110th CONGRESS</congress> 
+<session display="no">1st Session</session> 
+<legis-num>H. RES. 56</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber>
+<action>
+<action-date date="20070112">January 12, 2007</action-date>
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no">Electing Members and Delegates to certain standing committees of the House of Representatives. </official-title> 
+</form> 
+<resolution-body style="traditional" id="HF871C369C57B41978DCD5140CD5D037C"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="H4CCF57220B994646BE942B518BD73639"><text>That the following named Members and Delegates be, and are hereby, elected to the following standing committees of the House of Representatives:</text> 
+
+<committee-appointment-paragraph><header>Committee on rules:</header><text>Mr. McGovern, Mr. Hastings of Florida, Ms. Matsui, Mr. Cardoza, Mr. Welch of Vermont, Ms. Castor, Mr. Arcuri, and Ms. Sutton.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on financial services:</header><text>Mr. Frank, Chairman; Mr. Kanjorski, Ms. Waters, Ms. Maloney of New York, Mr. Gutierrez, Ms. Velazquez, Mr. Watt, Mr. Ackerman, Ms. Carson, Mr. Sherman, Mr. Meeks of New York, Mr. Moore of Kansas, Mr. Capuano, Mr. Hinojosa, Mr. Clay, Ms. McCarthy of New York, Mr. Baca, Mr. Lynch, Mr. Miller of North Carolina, Mr. Scott of Georgia, Mr. Al Green of Texas, Mr. Cleaver, Ms. Bean, Ms. Moore of Wisconsin, Mr. Davis of Tennessee, Mr. Sires, Mr. Hodes, Mr. Ellison, Mr. Klein of Florida, Mr. Mahoney, Mr. Wilson of Ohio, Mr. Perlmutter, Mr. Murphy of Connecticut, Mr. Donnelly, and Mr. Marshall of Georgia.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on agriculture:</header><text>Mr. Peterson, Chairman; Mr. Holden, Mr. McIntyre, Mr. Etheridge, Mr. Boswell, Mr. Baca, Mr. Cardoza, Mr. Scott of Georgia, Mr. Marshall of Georgia, Ms. Herseth, Mr. Cuellar, Mr. Costa, Mr. Salazar, Mr. Ellsworth, Ms. Boyda, Mr. Space, Mr. Walz, Ms. Gillibrand, Mr. Kagen, Mr. Pomeroy, Mr. Davis of Tennessee, Mr. Barrow, Mr. Lampson, Mr. Donnelly, and Mr. Mahoney of Florida.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Foreign Affairs:</header><text>Mr. Lantos, Chairman; Mr. Berman, Mr. Ackerman, Mr. Faleomavaega, Mr. Payne, Mr. Sherman, Mr. Wexler, Mr. Engel, Mr. Delahunt, Mr. Meeks, Ms. Watson, Mr. Smith of Washington, Mr. Carnahan, Mr. Tanner, Ms. Woolsey, Ms. Jackson-Lee, Mr. Hinojosa, Mr. Wu, Mr. Miller of North Carolina, Ms. Linda Sanchez of California, Mr. Scott of Georgia, Mr. Costa, Mr. Sires, Ms. Giffords, and Mr. Klein of Florida.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on homeland security:</header><text>Mr. Thompson of Mississippi, Chairman; Ms. Loretta Sanchez of California, Mr. Markey, Mr. Dicks of Washington, Ms. Harmon, Mr. DeFazio, Ms. Lowey, Ms. Norton, Ms. Lofgren, Ms. Jackson-Lee, Ms. Christensen, Mr. Etheridge, Mr. Langevin, Mr. Cuellar, Mr. Carney of Pennsylvania, Ms. Clarke, Mr. Al Green of Texas, and Mr. Perlmutter.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Oversight and Government Reform:</header><text> Mr. Waxman, Chairman; Mr. Lantos, Mr. Towns, Mr. Kanjorski, Ms. Maloney of New York, Mr. Cummings, Mr. Kucinich, Mr. Davis of Illinois, Mr. Tierney, Mr. Clay, Ms. Watson, Mr. Lynch, Mr. Higgins, Mr. Yarmuth, Mr. Braley, Ms. Norton, Ms. McCollum, Mr. Cooper of Tennessee, Mr. Van Hollen, Mr. Hodes, Mr. Murphy of Connecticut, Mr. Sarbanes, and Mr. Welch of Vermont.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Veterans’ Affairs:</header><text>Mr. Filner, Chairman; Ms. Brown of Florida, Mr. Snyder, Mr. Michaud, Ms. Herseth, Mr. Mitchell of Arizona, Mr. Hall of New York, Mr. Hare, Mr. Doyle, Mr. Salazar, Mr. Rodriguez, Mr. Donnelly, Mr. McNerney, and Mr. Space.</text></committee-appointment-paragraph>
+
+</section> 
+</resolution-body> 
+<attestation><attestation-group><attestor display="no">Karen L. Haas,</attestor><role>Clerk.</role></attestation-group></attestation>
+</resolution> 
+
+

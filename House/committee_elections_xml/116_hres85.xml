@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="H0572AAF41BFB4C059249DB7726FE2FA1" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>116 HRES 85 EH: Electing Members to a certain standing committee of the House of Representatives and ranking Members on a certain standing committee of the House of Representatives.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2019-01-29</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">116th CONGRESS</congress> 
+<session display="no">1st Session</session> 
+<legis-num>H. RES. 85</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber>
+<action>
+<action-date date="20190129">January 29, 2019</action-date>
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no">Electing Members to a certain standing committee of the House of Representatives and ranking Members on a certain standing committee of the House of Representatives.</official-title> 
+</form> 
+<resolution-body style="multiple-resolved-clause" id="H256DA11034A443B199B70C20D30633DC"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="H49C791387BD9499D85EAFD4803CA97D8"><text>That the following named Members be, and are hereby, elected to the following standing committee of the House of Representatives:</text> <committee-appointment-paragraph><header>Committee on House Administration:</header><text>Mr. Raskin, Mrs. Davis of California, Mr. Butterfield, Ms. Fudge, and Mr. Aguilar.</text></committee-appointment-paragraph>
+
+</section> 
+<section id="H8387AE23F0B44EC5B9A801E4BF73E07E" section-type="resolved"><text>That the following named Members be, and are hereby, ranked as follows on the following standing committee of the House of Representatives:</text> <committee-appointment-paragraph><header>Committee on the Budget:</header><text>Mr. Higgins of New York (to rank immediately after Mr. Jeffries) and Mr. Brendan F. Boyle of Pennsylvania (to rank immediately after Mr. Higgins of New York). </text></committee-appointment-paragraph>
+
+</section> 
+</resolution-body> 
+<attestation><attestation-group><attestor display="no">Karen L. Haas,</attestor><role>Clerk.</role></attestation-group></attestation>
+</resolution> 
+
+

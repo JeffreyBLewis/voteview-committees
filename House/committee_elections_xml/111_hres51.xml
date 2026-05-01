@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="H83EAE6508C914B4794CC1C030010F4" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H"> 
+<form> 
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">111th CONGRESS</congress> 
+<session display="no">1st Session</session> 
+<legis-num>H. RES. 51</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber>
+<action>
+<action-date date="20090113">January 13, 2009</action-date>
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no">Electing Members to certain standing committees of the House of Representatives.</official-title> 
+</form> 
+<resolution-body style="traditional" id="H182004E5F4194325B83399F5FE66A2B0"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="HFA15F75B41FF470684125B728055ACF4"><text>That the following named Members be and are hereby elected to the following standing committees of the House of Representatives:</text> 
+<paragraph id="H50D05FC151AF4F16A63D1FDCB43CB6D0" display-inline="no-display-inline"><enum>(1)</enum><header>Committee on House Administration</header><text display-inline="yes-display-inline">Ms. Zoe Lofgren of California, Mr. Capuano, Mr. Gonzalez, Mrs. Davis of California, Mr. Davis of Alabama.</text></paragraph> 
+<paragraph id="H7E328EDF8527479BABB38664237C0047" display-inline="no-display-inline"><enum>(2)</enum><header>Committee on Rules</header><text display-inline="yes-display-inline">Mr. Perlmutter, Ms. Pingree of Maine, Mr. Polis of Colorado.</text></paragraph> </section>
+<section id="HAAD2C9E4DD3D4604ADC3F42E543C3E00" indent="up1"><enum>2.</enum><text display-inline="yes-display-inline">Paragraph (5) of House Resolution 24, One Hundred Eleventh Congress, agreed to January 7, 2009, is amended by striking <quote>Mr. Bishop of Utah,</quote> and inserting <quote>Mr. Bishop of New York,</quote>.</text></section> 
+</resolution-body> 
+<attestation><attestation-group><attestor display="no">Lorraine C. Miller,</attestor><role>Clerk.</role></attestation-group></attestation>
+</resolution> 

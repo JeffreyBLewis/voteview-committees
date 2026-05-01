@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="HD7508076F4C44ACDA18654C7C28147BA" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H" stage-count="1"> 
+<form> 
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">112th CONGRESS</congress> 
+<session display="no">1st Session</session> 
+<legis-num>H. RES. 263</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber>
+<action>
+<action-date date="20110511">May 11, 2011</action-date>
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no"><?xm-replace_text {official-title}?></official-title> 
+</form> 
+<resolution-body style="traditional" id="HD04EB00ABE09478B8E4A3AE1B3C6C514"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="HBD37CF0BBC164F5E9E90BBE3A3D0830E"><text>That the following named Members be, and are hereby, elected to the following standing committees of the House of Representatives: </text>
+
+<committee-appointment-paragraph><header>Committee of financial services:</header><text>Mr. Fincher.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on transportation and infrastructure:</header><text>Mr. Ribble.</text></committee-appointment-paragraph>
+
+</section> 
+</resolution-body> 
+<attestation><attestation-group><attestor display="no">Karen L. Haas,</attestor><role>Clerk.</role></attestation-group></attestation>
+</resolution> 

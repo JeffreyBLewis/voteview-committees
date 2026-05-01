@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="HB4DC1E75F0614B5200CC489D1D3B6BD" key="H" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>110 HRES 441 EH: Electing a Member to a certain standing
+</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2007-05-24</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+	<form>
+		<distribution-code display="no">IV</distribution-code>
+		<congress display="no">110th CONGRESS</congress>
+		<session display="no">1st Session</session>
+		<legis-num>H. RES. 441</legis-num>
+		<current-chamber display="yes">In the House of Representatives, U.
+		  S.,</current-chamber>
+		<action>
+			<action-date date="20070524">May 24, 2007</action-date>
+		</action>
+		<legis-type display="yes">RESOLUTION</legis-type>
+		<official-title display="no">Electing a Member to a certain standing
+		  committee of the House of Representatives.</official-title>
+	</form>
+	<resolution-body id="H828C0722F0274DE5AC08C0BAC68DBEE" style="traditional">
+		<section display-inline="yes-display-inline" id="H77897655E224475A89EC6D006748A0B5" section-type="undesignated-section"><enum></enum><text display-inline="yes-display-inline">That the following named Member be, and is
+			 hereby, elected to the following standing committee of the House of
+			 Representatives:</text>
+			<committee-appointment-paragraph><header>Committee on House
+			 Administration:</header><text>Mr. Brady of Pennsylvania, Chairman.</text>
+			</committee-appointment-paragraph></section></resolution-body>
+	<attestation>
+		<attestation-group>
+			<attestor display="no">Lorraine C. Miller,</attestor>
+			<role>Clerk.</role>
+		</attestation-group>
+	</attestation>
+</resolution>
+
+

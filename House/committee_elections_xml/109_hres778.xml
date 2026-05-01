@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="H6A2FCC2FC55C492586558552D4CEB54D" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>109 HRES 778 EH: Electing a certain Member to a certain standing committee of the House of Representatives.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2006-04-26</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form> 
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">109th CONGRESS</congress> 
+<session display="no">2d Session</session> 
+<legis-num>H. RES. 778</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber> 
+<action> 
+<action-date date="20060426">April 26, 2006</action-date> 
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no">Electing a certain Member to a certain standing committee of the House of Representatives.</official-title> 
+</form> 
+<resolution-body style="traditional" id="H89A120C6A983491498525912CA06B2D7"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="HE4C04E1CABDC41BB9DA9C7E5906FF6F7"><text>That the following named Member be, and is hereby, elected to the following standing committee of the House of Representatives:</text>
+
+<committee-appointment-paragraph><header>Committee on Standards of Official Conduct:</header><text>Mr. Berman (to rank immediately ahead of Mrs. Jones of Ohio).</text></committee-appointment-paragraph>
+
+</section> 
+<section display-inline="no-display-inline" section-type="undesignated-section" id="H4F8FB12E950646CA976C40B257DDD26D"> </section> 
+</resolution-body> 
+<attestation><attestation-group><attestor display="no">Karen L. Haas</attestor><role>Clerk.</role></attestation-group></attestation> 
+</resolution> 
+
+

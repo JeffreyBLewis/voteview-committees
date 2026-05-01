@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="H9A8DF35310BF455EA242EDEDE5D9B4F2" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H" stage-count="1"> 
+<form> 
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">112th CONGRESS</congress> 
+<session display="no">1st Session</session> 
+<legis-num>H. RES. 31</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber>
+<action>
+<action-date date="20110111">January 11, 2011</action-date>
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no">Electing Members to certain standing committees of the House of Representatives.</official-title> 
+</form> 
+<resolution-body style="traditional" id="H3858C7439E6E49019CD144F7D0930421"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="H2520C4BDC2AE443F9D119D7DF9A65E71"><text display-inline="yes-display-inline">That the following named Members be, and are hereby, elected to the following standing committees of the House of Representatives:</text>
+
+<committee-appointment-paragraph><header>Committee on Appropriations:</header><text>Ms. Kaptur, Mr. Visclosky, Mrs. Lowey, Mr. Serrano, Ms. DeLauro, Mr. Moran, Mr. Olver, Mr. Pastor of Arizona, Mr. Price of North Carolina, Mr. Hinchey, Ms. Roybal-Allard, Mr. Farr, Mr. Jackson of Illinois, Mr. Fattah, Mr. Rothman of New Jersey, Mr. Bishop of Georgia, Ms. Lee of California, Mr. Schiff, Mr. Honda, and Ms. McCollum.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Energy and Commerce:</header><text>Mr. Dingell, Mr. Markey, Mr. Towns, Mr. Pallone, Mr. Rush, Ms. Eshoo, Mr. Engel, Mr. Gene Green of Texas, Ms. DeGette, Mrs. Capps, Mr. Doyle, Ms. Harman, Ms. Schakowsky, Mr. Gonzalez, Mr. Inslee, Ms. Baldwin, Mr. Ross of Arkansas, Mr. Weiner, Mr. Matheson, Mr. Butterfield, Mr. Barrow, and Ms. Matsui.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Ethics:</header><text>Ms. Zoe Lofgren of California.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Ways and Means:</header><text>Mr. Rangel, Mr. Stark, Mr. McDermott, Mr. Lewis of Georgia, Mr. Neal, Mr. Becerra, Mr. Doggett, Mr. Thompson of California, Mr. Larson of Connecticut, Mr. Blumenauer, Mr. Kind, Mr. Pascrell, Ms. Berkley, and Mr. Crowley.</text></committee-appointment-paragraph>
+
+</section> 
+</resolution-body> 
+<attestation><attestation-group><attestor display="no">Lorraine C. Miller,</attestor><role>Clerk.</role></attestation-group></attestation>
+</resolution> 

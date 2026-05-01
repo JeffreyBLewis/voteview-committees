@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution public-private="public" resolution-stage="Agreed-to-Senate" resolution-type="senate-resolution" star-print="no-star-print">
+	<form>
+		<distribution-code display="yes">III</distribution-code>
+		<congress display="yes">111th CONGRESS</congress>
+		<session display="yes">2d Session</session>
+		<legis-num>S. RES. 450</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action display="yes">
+			<action-date date="20100309">March 9, 2010</action-date>
+			<action-desc><sponsor name-id="S198">Mr. Reid</sponsor> submitted the
+			 following resolution; which was considered and agreed to</action-desc>
+		</action>
+		<legis-type>RESOLUTION</legis-type>
+		<official-title display="yes">To constitute the majority party's
+		  membership on certain committees for the One Hundred Eleventh Congress, or
+		  until their successors are chosen.</official-title>
+	</form>
+	<resolution-body>
+		<section display-inline="yes-display-inline" id="S1" section-type="undesignated-section"><enum></enum><text>That the following shall constitute
+			 the majority party's membership on the following committees for the One Hundred
+			 Eleventh Congress, or until their successors are chosen:</text>
+			<committee-appointment-paragraph><header>Committee on armed
+			 services:</header><text>Mr. Levin (Chairman), Mr. Byrd, Mr. Lieberman, Mr.
+			 Reed, Mr. Akaka, Mr. Nelson of Florida, Mr. Nelson of Nebraska, Mr. Bayh, Mr.
+			 Webb, Mrs. McCaskill, Mr. Udall of Colorado, Mrs. Hagan, Mr. Begich, Mr.
+			 Burris, Mr. Bingaman, Mr. Kaufman.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on the
+			 budget:</header><text>Mr. Conrad (Chairman), Mrs. Murray, Mr. Wyden, Mr.
+			 Feingold, Mr. Byrd, Mr. Nelson of Florida, Ms. Stabenow, Mr. Cardin, Mr.
+			 Sanders, Mr. Whitehouse, Mr. Warner, Mr. Merkley, Mr. Begich.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on homeland security
+			 and governmental affairs:</header><text>Mr. Lieberman (Chairman), Mr. Levin,
+			 Mr. Akaka, Mr. Carper, Mr. Pryor, Ms. Landrieu, Mrs. McCaskill, Mr. Tester, Mr.
+			 Burris, Mr. Kaufman.</text>
+			</committee-appointment-paragraph></section></resolution-body>
+</resolution>

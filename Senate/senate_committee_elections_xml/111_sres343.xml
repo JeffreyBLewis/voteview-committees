@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution public-private="public" resolution-stage="Agreed-to-Senate" resolution-type="senate-resolution" star-print="no-star-print">
+	<form>
+		<distribution-code display="yes">III</distribution-code>
+		<congress display="yes">111th CONGRESS</congress>
+		<session display="yes">1st Session</session>
+		<legis-num>S. RES. 343</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action display="yes">
+			<action-date date="20091106">November 6, 2009</action-date>
+			<action-desc><sponsor name-id="S198">Mr. Reid</sponsor> submitted the
+			 following resolution; which was considered and agreed to</action-desc>
+		</action>
+		<legis-type>RESOLUTION</legis-type>
+		<official-title display="yes">To constitute the majority party's
+		  membership on certain committees for the One Hundred Eleventh Congress, or
+		  until their successors are chosen.</official-title>
+	</form>
+	<resolution-body>
+		<section display-inline="yes-display-inline" id="S1" section-type="undesignated-section"><enum></enum><text>That the following shall constitute
+			 the majority party's membership on the following committee for the One Hundred
+			 Eleventh Congress, or until their successors are chosen:</text>
+			<committee-appointment-paragraph><header>COMMITTEE ON RULES AND
+			 ADMINISTRATION:</header><text>Mr. Schumer (Chairman), Mr. Byrd, Mr. Inouye, Mr.
+			 Dodd, Mrs. Feinstein, Mr. Durbin, Mr. Nelson (Nebraska), Mrs. Murray, Mr.
+			 Pryor, Mr. Udall (New Mexico), Mr. Warner.</text>
+			</committee-appointment-paragraph></section></resolution-body>
+</resolution>

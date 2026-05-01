@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="HF315538A21264C0AA55DAE3EAA4977A7" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>115 HRES 95 EH: Electing Members to certain standing committees of the House of Representatives.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2017-02-07</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">115th CONGRESS</congress> 
+<session display="no">1st Session</session> 
+<legis-num>H. RES. 95</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber>
+<action>
+<action-date date="20170207">February 7, 2017</action-date>
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no">Electing Members to certain standing committees of the House of Representatives.</official-title> 
+</form> 
+<resolution-body style="traditional" id="H5D83797C11EC4D6B8755F4541B211762"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="HC23E89924CAB4391AF844A9782358E3B"><text>That the following named Members be, and are hereby, elected to the following standing committees of the House of Representatives:</text> <committee-appointment-paragraph><header>Committee on Armed Services:</header><text>Mr. O’Halleran and Mr. Suozzi.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on the Budget:</header><text>Ms. Jackson Lee and Ms. Schakowsky.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header>Committee on the Judiciary:</header><text>Mr. Schneider.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Natural Resources:</header><text>Mr. Clay.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header>Committee on Oversight and Government Reform:</header><text>Mr. Welch, Mr. Cartwright, and Mr. DeSaulnier.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Science, Space, and Technology:</header><text>Mr. McNerney, Mr. Perlmutter, Mr. Tonko, Mr. Foster, Mr. Takano, Ms. Hanabusa, and Mr. Crist.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header>Committee on Small Business:</header><text>Ms. Clarke of New York, Ms. Judy Chu of California, Ms. Adams, and Mr. Espaillat.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Veterans’ Affairs:</header><text>Mr. Sablan, Ms. Esty, and Mr. Peters.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header>Committee on Ways and Means:</header><text>Ms. Judy Chu of California.</text></committee-appointment-paragraph>
+
+</section> 
+</resolution-body> 
+<attestation><attestation-group><attestor display="no">Karen L. Haas,</attestor><role>Clerk.</role></attestation-group></attestation>
+</resolution> 
+
+

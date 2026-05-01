@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution resolution-type="senate-resolution" star-print="no-star-print" public-private="public" resolution-stage="Agreed-to-Senate" slc-id="S1-ROM25015-4PN-J2-VT7" key="G"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 SRES 664 ATS: To constitute the majority party's membership on certain committees for the One Hundred Ninteenth Congress, or until their successors are chosen.</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2026-03-27</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">III</distribution-code> 
+<congress display="yes">119th CONGRESS</congress> 
+<session display="yes">2d Session</session> 
+<legis-num>S. RES. 664</legis-num> 
+<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber> 
+<action display="yes"> 
+<action-date date="20260327" legis-day="20260326">March 27 (legislative day, March 26), 2026</action-date> 
+<action-desc><sponsor name-id="S303">Mr. Thune</sponsor> submitted the following resolution; which was considered and agreed to</action-desc> 
+</action> 
+<legis-type> RESOLUTION</legis-type> 
+<official-title display="yes">To constitute the majority party's membership on certain committees for the One Hundred Ninteenth Congress, or until their successors are chosen.</official-title> 
+</form> 
+<resolution-body style="OLC" display-resolving-clause="yes-display-resolving-clause" id="H248AF52B8427495BA464997E21643985"> 
+<section id="LEXA-Repairidfeca7eb17784456f95d343ddc5ec8d7b" section-type="undesignated-section" display-inline="yes-display-inline" commented="no"><text>That the following shall constitute the majority party's membership on the following committees for the One Hundred Ninteenth Congress, or until their successors are chosen:</text> <committee-appointment-paragraph><header>Committee on Appropriations:</header><text> Ms. Collins (Chair), Mr. McConnell, Ms. Murkowski, Mr. Graham, Mr. Moran, Mr. Hoeven, Mr. Boozman, Mrs. Capito, Mr. Kennedy, Mrs. Hyde-Smith, Mr. Hagerty, Mrs. Britt, Mrs. Fisher, Mr. Rounds, Mr. Husted.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Armed Services:</header><text>Mr. Wicker (Chair), Mrs. Fischer, Mr. Cotton, Mr. Rounds, Ms. Ernst, Mr. Sullivan, Mr. Cramer, Mr. Scott (FL), Mr. Tuberville, Mr. Budd, Mr. Schmitt, Mr. Banks, Mr. Sheehy, Mrs. Moody.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header>Committee on Health, Education, Labor, and Pensions:</header><text>Mr. Cassidy (Chair), Mr. Paul, Ms. Collins, Ms. Murkowski, Mr. Marshall, Mr. Scott (SC), Mr. Hawley, Mr. Tuberville, Mr. Banks, Mr. Husted, Mrs. Moody, Mr. Armstrong.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Indian Affairs:</header><text>Ms. Murkowski (Chair), Mr. Hoeven, Mr. Daines, Mr. Rounds, Mr. Moran, Mr. Armstrong.</text></committee-appointment-paragraph> </section> </resolution-body> </resolution> 
+

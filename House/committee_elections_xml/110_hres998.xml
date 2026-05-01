@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="H565675ADC4174F56BCB12E825F51E2B" key="H" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>110 HRES 998 EH: Electing Minority Members to certain
+</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2008-02-26</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+	<form>
+		<distribution-code display="no">IV</distribution-code>
+		<congress display="no">110th CONGRESS</congress>
+		<session display="no">2d Session</session>
+		<legis-num>H. RES. 998</legis-num>
+		<current-chamber display="yes">In the House of Representatives, U.
+		  S.,</current-chamber>
+		<action>
+			<action-date date="20080226">February 26, 2008</action-date>
+		</action>
+		<legis-type display="yes">RESOLUTION</legis-type>
+		<official-title display="no">Electing Minority Members to certain
+		  standing committees of the House of Representatives.</official-title>
+	</form>
+	<resolution-body id="H0972F764ED5749FFAA2C4E49415DD972" style="traditional">
+		<section display-inline="yes-display-inline" id="H808F892C02B548DCB8D13B54F66BFB59" section-type="undesignated-section"><enum></enum><text display-inline="yes-display-inline">That the following named Members be, and
+			 are hereby, elected to the following standing committees of the House of
+			 Representatives:</text>
+			<committee-appointment-paragraph><header><committee-name committee-id="HAP00"> Committee on
+			 Appropriations:</committee-name></header><text>Mr. Bonner of Alabama.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header><committee-name committee-id="HBU00"> Committee on the
+			 Budget</committee-name>:</header><text>Mr. Jordan of Ohio.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header><committee-name committee-id="HBA00"> Committee on Financial
+			 Services:</committee-name></header><text>Mr. Heller of Nevada.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header><committee-name committee-id="HII00"> Committee on Natural
+			 Resources:</committee-name></header><text>Mr. Smith of Nebraska and Mr. Wittman
+			 of Virginia.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header><committee-name committee-id="HPW00"> Committee on Transportation and
+			 Infrastructure:</committee-name></header><text>Mr. Latta.</text>
+			</committee-appointment-paragraph></section></resolution-body>
+	<attestation>
+		<attestation-group>
+			<attestor display="no">Lorraine C. Miller,</attestor>
+			<role>Clerk.</role>
+		</attestation-group>
+	</attestation>
+</resolution>
+
+

@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="HB2C81E5F13D24FB282E605B6E2B8FAEC" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>110 HRES 236 EH: Removing a Minority Member from and electing certain Minority Members to certain standing committees of the House of Representatives.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2007-03-12</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form> 
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">110th CONGRESS</congress> 
+<session display="no">1st Session</session> 
+<legis-num>H. RES. 236</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber>
+<action>
+<action-date date="20070312">March 12, 2007</action-date>
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no">Removing a Minority Member from and electing certain Minority Members to certain standing committees of the House of Representatives.</official-title> 
+</form> 
+<resolution-body style="traditional" id="HCFD6F1DD38CA4BC5BB9B79943075377E"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="H039BD4E0FFBF4497A206643245D70026"><text>That Mr. Burton of Indiana is hereby removed from the <committee-name committee-id="HVR00"> Committee on Veterans’ Affairs</committee-name>.</text></section>
+<section id="H0124511CB2E54C5F9DF6473148E20005" indent="up1"><enum>2.</enum><text display-inline="yes-display-inline">The following named Members are hereby elected to the following standing committees of the House of Representatives:</text> 
+
+<committee-appointment-paragraph><header><committee-name committee-id="HED00"> Committee on Education and Labor</committee-name>:</header><text>Mr. Heller of Nevada, to rank immediately after Mr. Walberg.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header><committee-name committee-id="HIF00"> Committee on Energy and Commerce:</committee-name></header><text>Mrs. Blackburn.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header><committee-name committee-id="HBA00"> Committee on Financial Services:</committee-name></header><text>Mr. Marchant.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Transportation and Infrastructure:</header><text>Mrs. Capito, to rank immediately after Mr. Boozman.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Homeland Security:</header><text>Mr. McCarthy of California.<pagebreak/></text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header><committee-name committee-id="HSY00"> Committee on Science and Technology</committee-name>:</header><text>Mr. Reichert, to rank immediately after Mr. Inglis of South Carolina.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Veterans’ Affairs:</header><text>Mr. Buchanan.</text></committee-appointment-paragraph>
+
+</section> 
+</resolution-body> 
+<attestation><attestation-group><attestor display="no">Lorraine C. Miller,</attestor><role>Clerk.</role></attestation-group></attestation>
+</resolution> 
+
+

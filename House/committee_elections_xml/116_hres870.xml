@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="H5BDCC03D45394E648D17DDC904FAE479" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>116 HRES 870 EH: Electing a Member to a certain standing committee of the House of Representatives and ranking a Member on certain standing committees of the House of Representatives.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2020-02-27</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">116th CONGRESS</congress> 
+<session display="no">2d Session</session> 
+<legis-num>H. RES. 870</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber>
+<action>
+<action-date date="20200227">February 27, 2020</action-date>
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no">Electing a Member to a certain standing committee of the House of Representatives and ranking a Member on certain standing committees of the House of Representatives.</official-title> 
+</form> 
+<resolution-body style="multiple-resolved-clause" id="H873C018D7B7547D590EB1087E947F0DE"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="H06DC3A51522E421DBF6CD7A536BC1170"><text>That the following named Member be, and is hereby, elected to the following standing committee of the House of Representatives:</text> <committee-appointment-paragraph><header>Committee on Agriculture:</header><text>Ms. Torres Small of New Mexico.</text></committee-appointment-paragraph>
+
+</section> 
+<section id="HEBAE4FC0A7EC49E9BB9772213F66BDE2" section-type="resolved"><text>That the following named Member be, and is hereby, ranked as follows on the following standing committees of the House of Representatives:</text> <committee-appointment-paragraph><header>Committee on the Budget:</header><text>Mr. Khanna (to rank immediately after Mr. Cooper). </text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Oversight and Reform:</header><text>Mr. Khanna (to rank immediately after Mr. Rouda).</text></committee-appointment-paragraph> </section> </resolution-body> <attestation><attestation-group><attestor display="no">Cheryl L. Johnson,</attestor><role>Clerk.</role></attestation-group></attestation> </resolution> 
+

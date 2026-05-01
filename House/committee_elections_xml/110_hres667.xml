@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="H0BEF54F316E348D09FCF43299F22915" key="H" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>110 HRES 667 EH: </dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2007-09-20</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+	<form>
+		<distribution-code display="no">IV</distribution-code>
+		<congress display="no">110th CONGRESS</congress>
+		<session display="no">1st Session</session>
+		<legis-num>H. RES. 667</legis-num>
+		<current-chamber display="yes">In the House of Representatives, U.
+		  S.,</current-chamber>
+		<action>
+			<action-date date="20070920">September 20, 2007</action-date>
+		</action>
+		<legis-type display="yes">RESOLUTION</legis-type>
+		<official-title display="no"><?xm-replace_text {official-title}?></official-title>
+	</form>
+	<resolution-body id="H40575DE9019C42D9ACF237382E45EA09" style="traditional">
+		<section display-inline="yes-display-inline" id="HFBBC75DB5D34415D8F1E4F789140D613" section-type="undesignated-section"><enum></enum><text display-inline="yes-display-inline">That the following named Members be, and
+			 are hereby, elected to the following standing committees of the House of
+			 Representatives:</text>
+			<committee-appointment-paragraph><header>Committee on Armed
+			 Services:</header><text>Mr. Langevin.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on Homeland
+			 Security:</header><text>Mr. Pascrell.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on Science and
+			 Technology:</header><text>Ms. Richardson (to rank immediately after Mr.
+			 McNerney).</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on Small
+			 Business:</header><text>Mr. Higgins and Ms. Hirono.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on Transportation and
+			 Infrastructure:</header><text>Ms. Richardson.</text>
+			</committee-appointment-paragraph></section></resolution-body>
+	<attestation>
+		<attestation-group>
+			<attestor display="no">Lorraine C. Miller,</attestor>
+			<role>Clerk.</role>
+		</attestation-group>
+	</attestation>
+</resolution>
+
+

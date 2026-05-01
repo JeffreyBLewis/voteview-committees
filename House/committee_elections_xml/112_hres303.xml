@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="HA94D3EF0A356469EBE2C2E4DA6456C4B" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H" stage-count="1"> 
+<form> 
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">112th CONGRESS</congress> 
+<session display="no">1st Session</session> 
+<legis-num>H. RES. 303</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber> 
+<action> 
+<action-date date="20110614">June 14, 2011</action-date> 
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no">Electing Members to certain standing committees of the House of Representatives.</official-title> 
+</form> 
+<resolution-body style="traditional" id="H9EC44063B39F42B6B3993D65EAAB8EAD"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="H0309C9DC26C549179DFD3031BAC92C0C"><text>That the following named Members be, and are hereby, elected to the following standing committees of the House of Representatives: </text> 
+
+<committee-appointment-paragraph><header>Committee on agriculture:</header><text>Mrs. Noem.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Transportation and Infrastructure:</header><text>Mr. Fleischmann. </text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on ways and means:</header><text>Mr. Reed.</text></committee-appointment-paragraph>
+
+</section> 
+</resolution-body> 
+<attestation><attestation-group><attestor display="no">Karen L. Haas,</attestor><role>Clerk.</role></attestation-group></attestation> 
+</resolution> 

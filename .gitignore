@@ -1,0 +1,17 @@
+# Large snapshot directories — re-fetch with: make download
+House/MemberData_snapshots/
+
+# Intermediate/raw data files
+House/house_committee_roster_data.csv
+
+# Claude Code local settings (may contain credentials)
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+
+# macOS
+.DS_Store

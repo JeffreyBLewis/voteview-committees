@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="H9D0C61F6E40B4CC092D5B2B0E3755F00" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>116 HRES 74 EH: Electing Members to certain standing committees of the House of Representatives.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2019-01-24</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">116th CONGRESS</congress> 
+<session display="no">1st Session</session> 
+<legis-num>H. RES. 74</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber>
+<action>
+<action-date date="20190124">January 24, 2019</action-date>
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no">Electing Members to certain standing committees of the House of Representatives.</official-title> 
+</form> 
+<resolution-body style="traditional" id="H4EA3820F3E7641339EE348EDD08261A1"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="H72F65E16E503438F865704834A57538D"><text>That the following named Members be, and are hereby, elected to the following standing committees of the House of Representatives:</text> <committee-appointment-paragraph><header>Committee on the Budget:</header><text>Mr. Woodall, Mr. Johnson of Ohio, Mr. Smith of Missouri, Mr. Flores, Mr. Holding, Mr. Stewart, Mr. Norman, Mr. Roy, Mr. Meuser, Mr. Timmons, Mr. Crenshaw, Mr. Kevin Hern of Oklahoma, and Mr. Burchett.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Natural Resources:</header><text>Mr. Young, Mr. Gohmert, Mr. Lamborn, Mr. Wittman, Mr. McClintock, Mr. Gosar, Mr. Cook, Mr. Westerman, Mr. Graves of Louisiana, Mr. Hice of Georgia, Mrs. Radewagen, Mr. Webster of Florida, Ms. Cheney, Mr. Johnson of Louisiana, Miss González-Colón of Puerto Rico, Mr. Curtis, Mr. Kevin Hern of Oklahoma, and Mr. Fulcher.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header>Committee on Small Business:</header><text>Mrs. Radewagen, Mr. Kelly of Mississippi, Mr. Balderson, Mr. Kevin Hern of Oklahoma, Mr. Hagedorn, Mr. Stauber, Mr. Burchett, Mr. Spano, and Mr. Joyce of Pennsylvania.</text></committee-appointment-paragraph>
+
+</section> 
+</resolution-body> 
+<attestation><attestation-group><attestor display="no">Karen L. Haas,</attestor><role>Clerk.</role></attestation-group></attestation>
+</resolution> 
+
+

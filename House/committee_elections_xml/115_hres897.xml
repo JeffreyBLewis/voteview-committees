@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="HA411844161C548BD8A07F43806B97988" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>115 HRES 897 EH: Electing Members to certain standing committees of the House of Representatives.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2018-05-16</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">I</distribution-code> 
+<congress display="no">115th CONGRESS</congress> 
+<session display="no">2d Session</session> 
+<legis-num display="yes">H. RES. 897</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber>
+<action>
+<action-date date="20180516">May 16, 2018</action-date>
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no">Electing Members to certain standing committees of the House of Representatives.</official-title> 
+</form> 
+<resolution-body style="traditional" id="HCA31480CF7524DB688ADD9C21F88200F"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="HEA79623561C64BFD89C6A1260FF51525"><text display-inline="yes-display-inline">That the following named Members be, and are hereby, elected to the following standing committees of the House of Representatives:</text> <committee-appointment-paragraph><header><committee-name committee-id="HAP00"> Committee on Appropriations</committee-name>: </header><text>Mr. Rutherford. </text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header><committee-name committee-id="HED00"> Committee on Education and the Workforce</committee-name>:</header><text>Mr. Banks of Indiana. </text></committee-appointment-paragraph> <committee-appointment-paragraph><header><committee-name committee-id="HHM00"> Committee on Homeland Security</committee-name>: </header><text>Mrs. Lesko. </text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header><committee-name committee-id="HSY00"> Committee on Science, Space, and Technology</committee-name>: </header><text>Mr. Palmer, to rank immediately after Mr. Abraham; and Mrs. Lesko.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header><committee-name committee-id="HPW00"> Committee on Transportation and Infrastructure</committee-name>: </header><text>Mr. Gallagher.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header><committee-name committee-id="HVR00"> Committee on Veterans' Affairs</committee-name>: </header><text>Mr. Mast. </text></committee-appointment-paragraph> <committee-appointment-paragraph><header><committee-name committee-id="HWM00"> Committee on Ways and Means</committee-name>: </header><text>Mr. Wenstrup. </text></committee-appointment-paragraph>
+
+</section> 
+</resolution-body> 
+<attestation><attestation-group><attestor display="no">Karen L. Haas,</attestor><role>Clerk.</role></attestation-group></attestation>
+</resolution> 
+
+

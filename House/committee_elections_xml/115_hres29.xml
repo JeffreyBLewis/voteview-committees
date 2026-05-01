@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="HB401D4D4CAF5458782E0D0964C8B863A" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>115 HRES 29 EH: Electing Members to certain standing committees of the House of Representatives.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2017-01-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">115th CONGRESS</congress> 
+<session display="no">1st Session</session> 
+<legis-num>H. RES. 29</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber>
+<action>
+<action-date date="20170106">January 6, 2017</action-date>
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no">Electing Members to certain standing committees of the House of Representatives.</official-title> 
+</form> 
+<resolution-body style="traditional" id="H5CB8497BBB3945A79F31CEFC3A0967AF"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="H5B38B3DF9D344AF5BC76B274EA62A97E"><text display-inline="yes-display-inline">That the following named Members be, and are hereby, elected to the following standing committees of the House of Representatives:</text> <committee-appointment-paragraph><header>Committee on Appropriations:</header><text>Mr. Rogers of Kentucky, Mr. Aderholt, Ms. Granger, Mr. Simpson, Mr. Culberson, Mr. Carter of Texas, Mr. Calvert, Mr. Cole, Mr. Diaz-Balart, Mr. Dent, Mr. Graves of Georgia, Mr. Yoder, Mr. Womack, Mr. Fortenberry, Mr. Thomas J. Rooney of Florida, Mr. Fleischmann, Ms. Beutler, Mr. Joyce of Ohio, Mr. Valadao, Mr. Harris, Mrs. Roby, Mr. Amodei, Mr. Stewart, Mr. Young of Iowa, Mr. Jenkins of West Virginia, Mr. Palazzo, Mr. Newhouse, Mr. Moolenaar, and Mr. Taylor. </text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Energy and Commerce:</header><text>Mr. Barton, Mr. Upton, Mr. Shimkus, Mr. Murphy of Pennsylvania, Mr. Burgess, Mrs. Blackburn, Mr. Scalise, Mr. Latta, Mrs. McMorris Rodgers, Mr. Harper, Mr. Lance, Mr. Guthrie, Mr. Olson, Mr. McKinley, Mr. Kinzinger, Mr. Griffith, Mr. Bilirakis, Mr. Johnson of Ohio, Mr. Long, Mr. Bucshon, Mr. Flores, Mrs. Brooks of Indiana, Mr. Mullin, Mr. Hudson, Mr. Collins of New York, Mr. Cramer, Mr. Walberg, Mrs. Mimi Walters of California, Mr. Costello of Pennsylvania, and Mr. Carter of Georgia.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header>Committee on Financial Services:</header><text>Mr. King of New York, Mr. Royce of California, Mr. Lucas, Mr. McHenry, Mr. Pearce, Mr. Posey, Mr. Luetkemeyer, Mr. Huizenga, Mr. Duffy, Mr. Stivers, Mr. Hultgren, Mr. Ross, Mr. Pittenger, Mrs. Wagner, Mr. Barr, Mr. Rothfus, Mr. Messer, Mr. Tipton, Mr. Williams, Mr. Poliquin, Mrs. Love, Mr. Hill, Mr. Emmer, Mr. Zeldin, Mr. Trott, Mr. Loudermilk, Mr. Mooney of West Virginia, Mr. MacArthur, Mr. Davidson, Mr. Budd, Mr. Kustoff, Ms. Tenney, and Mr. Hollingsworth.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee of Ways and Means:</header><text>Mr. Sam Johnson of Texas, Mr. Nunes, Mr. Tiberi, Mr. Reichert, Mr. Roskam, Mr. Tom Price of Georgia, Mr. Buchanan, Mr. Smith of Nebraska, Ms. Jenkins of Kansas, Mr. Paulsen, Mr. Marchant, Mrs. Black, Mr. Reed, Mr. Kelly of Pennsylvania, Mr. Renacci, Mr. Meehan, Mrs. Noem, Mr. Holding, Mr. Smith of Missouri, Mr. Tom Rice of South Carolina, Mr. Schweikert, Mrs. Walorski, and Mr. Curbelo of Florida. </text></committee-appointment-paragraph> </section> </resolution-body> <attestation><attestation-group><attestor display="no">Karen L. Haas,</attestor><role>Clerk.</role></attestation-group></attestation> </resolution> 
+

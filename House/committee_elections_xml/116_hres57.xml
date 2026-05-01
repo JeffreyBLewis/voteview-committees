@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="H0EDEEFB1023C460CA2578105151FB717" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>116 HRES 57 EH: Electing Members to certain standing committees of the House of Representatives.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2019-01-17</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">116th CONGRESS</congress> 
+<session display="no">1st Session</session> 
+<legis-num>H. RES. 57</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber>
+<action>
+<action-date date="20190117">January 17, 2019</action-date>
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no">Electing Members to certain standing committees of the House of Representatives.</official-title> 
+</form> 
+<resolution-body style="traditional" id="H36280E8FA4C5480C8045EEE87E234F64"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="H46CA38D49D1D487BBFA3A02E38D99625"><text display-inline="yes-display-inline">That the following named Members be, and are hereby, elected to the following standing committees of the House of Representatives:</text> <committee-appointment-paragraph><header>Committee on Agriculture:</header><text>Mr. David Scott of Georgia, Mr. Costa, Ms. Fudge, Mr. McGovern, Mr. Vela, Ms. Plaskett, Ms. Adams, Ms. Spanberger, Mrs. Hayes, Mr. Delgado, Mr. Cox of California, Mrs. Craig, Mr. Brindisi, Mr. Van Drew, Mr. Harder of California, Ms. Schrier, Ms. Pingree, Mrs. Bustos, Mr. Sean Patrick Maloney of New York, Mr. Carbajal, Mr. Lawson of Florida, Mr. O'Halleran, Mr. Panetta, Mrs. Kirkpatrick, and Mrs. Axne.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Financial Services:</header><text>Mrs. Carolyn B. Maloney of New York, Ms. Velázquez, Mr. Sherman, Mr. Meeks, Mr. Clay, Mr. David Scott of Georgia, Mr. Green of Texas, Mr. Cleaver, Mr. Perlmutter, Mr. Himes, Mr. Foster, Mrs. Beatty, Mr. Heck, Mr. Vargas, Mr. Gottheimer, Mr. Gonzalez of Texas, Mr. Lawson of Florida, Mr. San Nicolas, Ms. Tlaib, Ms. Porter, Mrs. Axne, Mr. Casten of Illinois, Ms. Pressley, Mr. McAdams, Ms. Ocasio-Cortez, Ms. Wexton, Mr. Lynch, Ms. Gabbard, Ms. Adams, Ms. Dean, Mr. Garcia of Illinois, Ms. Garcia of Texas, and Mr. Phillips.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header>Committee on Foreign Affairs:</header><text>Mr. Sherman, Mr. Meeks, Mr. Sires, Mr. Connolly, Mr. Deutch, Ms. Bass, Mr. Keating, Mr. Cicilline, Mr. Bera, Mr. Castro of Texas, Ms. Titus, Mr. Espaillat, Mr. Ted Lieu of California, Ms. Wild, Mr. Phillips, Ms. Omar, Mr. Allred, Mr. Levin of Michigan, Ms. Spanberger, Ms. Houlahan, Mr. Malinowski, Mr. Trone, Mr. Costa, Mr. Vargas, and Mr. Gonzalez of Texas.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Transportation and Infrastructure:</header><text>Ms. Norton, Ms. Johnson of Texas, Mr. Cummings, Mr. Larsen of Washington, Mrs. Napolitano, Mr. Lipinski, Mr. Cohen, Mr. Sires, Mr. Garamendi, Mr. Johnson of Georgia, Mr. Carson of Indiana, Ms. Titus, Mr. Sean Patrick Maloney of New York, Mr. Huffman, Ms. Brownley of California, Ms. Wilson of Florida, Mr. Payne, Mr. Lowenthal, Mr. DeSaulnier, Ms. Plaskett, Mr. Lynch, Mr. Carbajal, Mr. Brown of Maryland, Mr. Espaillat, Mr. Malinowski, Mr. Stanton, Ms. Mucarsel-Powell, Mrs. Fletcher, Mr. Allred, Ms. Davids of Kansas, Ms. Finkenauer, Mr. Garcia of Illinois, Mr. Delgado, Mr. Pappas, Mrs. Craig, and Mr. Rouda.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header>Committee on Veterans Affairs:</header><text>Ms. Brownley of California, Miss Rice of New York, Mr. Lamb, Mr. Levin of Michigan, Mr. Brindisi, Mr. Rose of New York, Mr. Pappas, Mrs. Luria, Mrs. Lee of Nevada, Mr. Cunningham, Mr. Cisneros, Mr. Peterson, Mr. Sablan, Mr. Allred, and Ms. Underwood.</text></committee-appointment-paragraph>
+
+</section> 
+</resolution-body> 
+<attestation><attestation-group><attestor display="no">Karen L. Haas,</attestor><role>Clerk.</role></attestation-group></attestation>
+</resolution> 
+
+

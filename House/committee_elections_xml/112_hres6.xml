@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="HDCAD9700CD5A469BAEACDC773FAE7593" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H" stage-count="1"> 
+<form> 
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">112th CONGRESS</congress> 
+<session display="no">1st Session</session> 
+<legis-num>H. RES. 6</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber> 
+<action> 
+<action-date date="20110105">January 5, 2011</action-date> 
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no"><?xm-replace_text {official-title}?></official-title> 
+</form> 
+<resolution-body style="traditional" id="HA90C7AF14A584909BC64E3C41F474D5E"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="H7FC9C178175F451AA43671F940EEB268"><text display-inline="yes-display-inline">That the following named Members be, and are hereby, elected to the following standing committees of the House of Representatives:</text> 
+
+<committee-appointment-paragraph><header>Committee on Agriculture:</header><text>Mr. Lucas, Chairman.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Appropriations:</header><text>Mr. Rogers of Kentucky, Chairman; Mr. Young of Florida; Mr. Lewis of California; Mr. Wolf; Mr. Kingston; Mr. Frelinghuysen; Mr. Latham; Mr. Aderholt; Mrs. Emerson; Ms. Granger; Mr. Simpson; Mr. Culberson; Mr. Crenshaw; Mr. Rehberg; Mr. Carter; Mr. Alexander; Mr. Calvert; Mr. Bonner; Mr. LaTourette; Mr. Cole; Mr. Flake; Mr. Diaz-Balart; Mr. Dent; Mr. Austria; Mrs. Lummis; Mr. Graves of Georgia; Mr. Yoder; Mr. Womack; and Mr. Nunnelee.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Armed Services:</header><text>Mr. McKeon, Chairman.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on the Budget:</header><text>Mr. Ryan of Wisconsin, Chairman.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Education and the Workforce:</header><text>Mr. Kline, Chairman.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Energy and Commerce:</header><text>Mr. Upton, Chairman.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Ethics:</header><text>Mr. Bonner, Chairman; Mr. McCaul; Mr. Conaway; Mr. Dent; and Mr. Harper.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Financial Services:</header><text>Mr. Bachus, Chairman.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Foreign Affairs:</header><text>Ms. Ros-Lehtinen, Chairman.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Homeland Security:</header><text>Mr. King of New York, Chairman.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on House Administration:</header><text>Mr. Daniel E. Lungren of California, Chairman; Mr. Harper; Mr. Gingrey of Georgia; Mr. Schock; Mr. Rokita; and Mr. Nugent.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on the Judiciary:</header><text>Mr. Smith of Texas, Chairman.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Natural Resources:</header><text>Mr. Hastings of Washington, Chairman.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Oversight and Government Reform:</header><text>Mr. Issa, Chairman.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Rules:</header><text>Mr. Dreier, Chairman; Mr. Sessions; Ms. Foxx; Mr. Woodall; Mr. Nugent; Mr. Scott of South Carolina; and Mr. Webster.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Science, Space, and Technology:</header><text>Mr. Hall, Chairman.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Small Business:</header><text>Mr. Graves of Missouri, Chairman.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Transportation and Infrastructure:</header><text>Mr. Mica, Chairman.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Veterans’ Affairs:</header><text>Mr. Miller of Florida, Chairman.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Ways and Means:</header><text>Mr. Camp, Chairman; Mr. Herger; Mr. Sam Johnson of Texas; Mr. Brady of Texas; Mr. Ryan of Wisconsin; Mr. Nunes; Mr. Tiberi; Mr. Davis of Kentucky; Mr. Reichert; Mr. Boustany; Mr. Heller; Mr. Roskam; Mr. Gerlach; Mr. Price of Georgia; Mr. Buchanan; Mr. Smith of Nebraska; Mr. Schock; Mr. Lee of New York; Ms. Jenkins; Mr. Paulsen; Mr. Berg; and Mrs. Black.</text></committee-appointment-paragraph>
+
+</section> 
+</resolution-body> 
+<attestation><attestation-group><attestor display="no">Lorraine C. Miller,</attestor><role>Clerk.</role></attestation-group></attestation> 
+</resolution> 

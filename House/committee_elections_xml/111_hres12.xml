@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="H9D919C5CC1A84C28908F8F719B864E87" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H"> 
+<form> 
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">111th CONGRESS</congress> 
+<session display="no">1st Session</session> 
+<legis-num>H. RES. 12</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber>
+<action>
+<action-date date="20090106">January 6, 2009</action-date>
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no">Electing certain Minority Members to certain standing committees of the House of Representatives.</official-title> 
+</form> 
+<resolution-body style="traditional" id="H6E7BB32365944F64957FC601002130A7"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="H2216A4F254EC43D6BFA1300017C1DA0"><text>That the following Members are, and are hereby, elected to the following standing committees of the House of Representatives:</text> 
+
+<committee-appointment-paragraph><header><committee-name committee-id="HAG00"> Committee on Agriculture</committee-name>—</header><text>Mr. Lucas.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header><committee-name committee-id="HAP00"> Committee on Appropriations</committee-name>—</header><text>Mr. Lewis of California.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header><committee-name committee-id="HAS00"> Committee on Armed Services</committee-name>—</header><text>Mr. McHugh.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header><committee-name committee-id="HBU00"> Committee on the Budget</committee-name>—</header><text>Mr. Ryan of Wisconsin.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header><committee-name committee-id="HED00"> Committee on Education and Labor</committee-name>— </header><text>Mr. McKeon. </text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header><committee-name committee-id="HIF00"> Committee on Energy and Commerce</committee-name>— </header><text>Mr. Barton of Texas.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header><committee-name committee-id="HBA00"> Committee on Financial Services</committee-name>— </header><text>Mr. Bachus.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header><committee-name committee-id="HFA00"> Committee on Foreign Affairs</committee-name>—</header><text>Ms. Ros-Lehtinen.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header><committee-name committee-id="HHM00"> Committee on Homeland Security</committee-name>— </header><text>Mr. King of New York.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header><committee-name committee-id="HJU00"> Committee on the Judiciary</committee-name>— </header><text>Mr. Smith of Texas.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header><committee-name committee-id="HII00"> Committee on Natural Resources</committee-name>— </header><text>Mr. Hastings of Washington.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header><committee-name committee-id="HGO00"> Committee on Oversight and Government Reform</committee-name>— </header><text>Mr. Issa.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header><committee-name committee-id="HRU00"> Committee on Rules</committee-name>— </header><text>Mr. Dreier.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header><committee-name committee-id="HSY00"> Committee on Science and Technology</committee-name>— </header><text>Mr. Hall of Texas.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header><committee-name committee-id="HSM00"> Committee on Small Business</committee-name>— </header><text>Mr. Graves.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header><committee-name committee-id="HPW00"> Committee on Transportation and Infrastructure</committee-name>— </header><text>Mr. Mica.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header><committee-name committee-id="HVR00"> Committee on Veterans' Affairs</committee-name>— </header><text>Mr. Buyer.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header><committee-name committee-id="HWM00">Committee on Ways and Means</committee-name>— </header><text>Mr. Camp of Michigan.</text></committee-appointment-paragraph>
+
+</section> 
+</resolution-body> 
+<attestation><attestation-group><attestor display="no">Lorraine C. Miller,</attestor><role>Clerk.</role></attestation-group></attestation>
+</resolution> 

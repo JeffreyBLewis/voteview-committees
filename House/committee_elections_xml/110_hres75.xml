@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="H3090D331B6764491BE512ED46BA2673D" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>110 HRES 75 EH: Electing Members and Delegates to certain standing committees of the House of Representatives.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2007-01-18</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form> 
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">110th CONGRESS</congress> 
+<session display="no">1st Session</session> 
+<legis-num>H. RES. 75</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber>
+<action>
+<action-date date="20070118">January 18, 2007</action-date>
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no">Electing Members and Delegates to certain standing committees of the House of Representatives.</official-title> 
+</form> 
+<resolution-body style="traditional" id="HDDCF92B7856D4F58B1F985A2B0679E11"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="H4175915B0079460290F0BF7DBC3FF6AD"><text display-inline="yes-display-inline">That the following named Members and Delegates be, and are hereby, elected to the following standing committees of the House of Representatives:</text> 
+
+<committee-appointment-paragraph><header>Committee on Armed Services:</header><text>Mr. Meek of Florida (to rank immediately after Mr. Cummings).</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Financial Services:</header><text>Mr. Boren.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on the Judiciary:</header><text>Mr. Berman, Mr. Boucher, Mr. Nadler, Mr. Scott of Virginia, Mr. Watt, Ms. Zoe Lofgren of California, Ms. Jackson-Lee of Texas, Ms. Waters, Mr. Meehan, Mr. Delahunt, Mr. Wexler, Ms. Linda T. Sánchez of California, Mr. Cohen, Mr. Johnson of Georgia, Mr. Gutierrez, Mr. Sherman, Mr. Weiner, Mr. Schiff, Mr. Davis of Alabama, and Mr. Ellison.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Natural Resources:</header><text>Mr. Kildee, Mr. Faleomavaega, Mr. Abercrombie, Mr. Ortiz, Mr. Pallone, Mrs. Christensen, Mrs. Napolitano, Mr. Holt, Mr. Grijalva, Ms. Bordallo, Mr. Costa, Mr. Boren, Mr. Sarbanes, Mr. George Miller of California, Mr. Markey, Mr. DeFazio, Mr. Hinchey, Mr. Kennedy of Rhode Island, Mr. Kind, Mrs. Capps, Mr. Inslee, Mr. Udall of Colorado, Mr. Baca, Ms. Solis, Ms. Herseth, and Mr. Shuler.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Science and Technology:</header><text>Mr. Costello, Ms. Eddie Bernice Johnson of Texas, Ms. Woolsey, Mr. Udall of Colorado, Mr. Wu, Mr. Baird, Mr. Miller of North Carolina, Mr. Lipinski, Mr. Lampson, Ms. Giffords, Mr. McNerney, Mr. Rothman, Mr. Honda, Mr. Matheson, Mr. Ross, Mr. Chandler, Mr. Carnahan, Mr. Melancon, Mr. Hill, Mr. Mitchell, and Mr. Wilson of Ohio.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Veterans’ Affairs:</header><text>Ms. Berkley (to rank immediately after Mr. Doyle), and Mr. Walz of Minnesota.</text></committee-appointment-paragraph>
+
+</section> 
+</resolution-body> 
+<attestation><attestation-group><attestor display="no">Karen L. Haas,</attestor><role>Clerk.</role></attestation-group></attestation>
+</resolution> 
+
+

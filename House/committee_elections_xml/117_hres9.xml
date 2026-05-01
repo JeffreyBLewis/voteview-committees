@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="H725ECCC555F2450D9E624B9DA961F2CA" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HRES 9 EH: </dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2021-01-04</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">117th CONGRESS</congress> 
+<session display="no">1st Session</session> 
+<legis-num>H. RES. 9</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber> 
+<action> 
+<action-date date="20210104">January 4, 2021</action-date> 
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no"><?xm-replace_text {official-title}?></official-title> 
+</form> 
+<resolution-body style="traditional" id="HDBB821EFCBF0448BBCC6EBBD8717AEE9"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="HAEF1333F9086456EABA9B7B29B1E459A"><text display-inline="yes-display-inline">That the following named Members be, and are hereby, elected to the following standing committees of the House of Representatives:</text> <committee-appointment-paragraph><header>Committee on Agriculture:</header><text>Mr. David Scott of Georgia, Chair.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Appropriations:</header><text>Ms. DeLauro, Chair.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header>Committee on Armed Services:</header><text>Mr. Smith of Washington, Chair.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on the Budget:</header><text>Mr. Yarmuth, Chair.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header>Committee on Education and Labor:</header><text>Mr. Scott of Virginia, Chair.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Energy and Commerce:</header><text>Mr. Pallone, Chair.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header>Committee on Financial Services:</header><text>Ms. Waters, Chair.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Foreign Affairs:</header><text>Mr. Meeks, Chair.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header>Committee on Homeland Security:</header><text>Mr. Thompson of Mississippi, Chair.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on the Judiciary:</header><text>Mr. Nadler, Chair.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header>Committee on Natural Resources:</header><text>Mr. Grijalva, Chair.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Oversight and Reform:</header><text>Mrs. Carolyn B. Maloney of New York, Chair.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header>Committee on Science, Space, and Technology:</header><text>Ms. Johnson of Texas, Chair.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Small Business:</header><text>Ms. Velázquez, Chair.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header>Committee on Transportation and Infrastructure:</header><text>Mr. DeFazio, Chair.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Veterans’ Affairs:</header><text>Mr. Takano, Chair.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header>Committee on Ways and Means:</header><text>Mr. Neal, Chair.</text></committee-appointment-paragraph>
+
+</section> 
+</resolution-body> 
+<attestation><attestation-group><attestor display="no">Cheryl L. Johnson,</attestor><role>Clerk.</role></attestation-group></attestation> 
+</resolution> 
+
+

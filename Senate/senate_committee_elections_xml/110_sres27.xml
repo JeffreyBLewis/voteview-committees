@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution public-private="public" resolution-stage="Agreed-to-Senate" resolution-type="senate-resolution" star-print="no-star-print">
+	<form>
+		<distribution-code display="yes">IV</distribution-code>
+		<congress display="yes">110th CONGRESS</congress>
+		<session display="yes">1st Session</session>
+		<legis-num>S. RES. 27</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action display="yes">
+			<action-date date="20070112">January 12, 2007</action-date>
+			<action-desc><sponsor name-id="S198">Mr. Reid</sponsor> submitted the
+			 following resolution; which was considered and agreed to</action-desc>
+		</action>
+		<legis-type>RESOLUTION</legis-type>
+		<official-title display="yes">To constitute the majority party's
+		  membership on certain committees for the One Hundred Tenth Congress, or until
+		  their successors are chosen.</official-title>
+	</form>
+	<resolution-body>
+		<section display-inline="yes-display-inline" id="S1" section-type="undesignated-section"><enum></enum><text>That the following shall constitute
+			 the majority party's membership on the following committees for the One Hundred
+			 Tenth Congress, or until their successors are chosen:</text>
+			<committee-appointment-paragraph><header>Committee on Agriculture,
+			 Nutrition, and Forestry:</header><text>Mr. Harkin (Chairman), Mr. Leahy, Mr.
+			 Conrad, Mr. Baucus, Mrs. Lincoln, Ms. Stabenow, Mr. Nelson (Nebraska), Mr.
+			 Salazar, Mr. Brown, Mr. Casey, and Ms. Klobuchar.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on
+			 Appropriations:</header><text>Mr. Byrd (Chairman), Mr. Inouye, Mr. Leahy, Mr.
+			 Harkin, Ms. Mikulski, Mr. Kohl, Mrs. Murray, Mr. Dorgan, Mrs. Feinstein, Mr.
+			 Durbin, Mr. Johnson, Ms. Landrieu, Mr. Reed, Mr. Lautenberg, and Mr. Nelson
+			 (Nebraska).</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on Armed
+			 Services:</header><text>Mr. Levin (Chairman), Mr. Kennedy, Mr. Byrd, Mr.
+			 Lieberman, Mr. Reed, Mr. Akaka, Mr. Nelson (Florida), Mr. Nelson (Nebraska),
+			 Mr. Bayh, Mrs. Clinton, Mr. Pryor, Mr. Webb, and Mrs. McCaskill.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on Banking, Housing,
+			 and Urban Affairs:</header><text>Mr. Dodd (Chairman), Mr. Johnson, Mr. Reed,
+			 Mr. Schumer, Mr. Bayh, Mr. Carper, Mr. Menendez, Mr. Akaka, Mr. Brown, Mr.
+			 Casey, and Mr. Tester.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on Commerce, Science,
+			 and Transportation:</header><text>Mr. Inouye (Chairman), Mr. Rockefeller, Mr.
+			 Kerry, Mr. Dorgan, Mrs. Boxer, Mr. Nelson (Florida), Ms. Cantwell, Mr.
+			 Lautenberg, Mr. Pryor, Mr. Carper, Mrs. McCaskill, and Ms. Klobuchar.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on Energy and Natural
+			 Resources:</header><text>Mr. Bingaman (Chairman), Mr. Akaka, Mr. Dorgan, Mr.
+			 Wyden, Mr. Johnson, Ms. Landrieu, Ms. Cantwell, Mr. Salazar, Mr. Menendez, Mrs.
+			 Lincoln, Mr. Sanders, and Mr. Tester.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on the Environment and
+			 Public Works:</header><text>Mrs. Boxer (Chairman), Mr. Baucus, Mr. Lieberman,
+			 Mr. Carper, Mrs. Clinton, Mr. Lautenberg, Mr. Cardin, Mr. Sanders, Ms.
+			 Klobuchar, and Mr. Whitehouse.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on
+			 Finance:</header><text>Mr. Baucus (Chairman), Mr. Rockefeller, Mr. Conrad, Mr.
+			 Bingaman, Mr. Kerry, Mrs. Lincoln, Mr. Wyden, Mr. Schumer, Ms. Stabenow, Ms.
+			 Cantwell, and Mr. Salazar.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on Foreign
+			 Relations:</header><text>Mr. Biden (Chairman), Mr. Dodd, Mr. Kerry, Mr.
+			 Feingold, Mrs. Boxer, Mr. Nelson (Florida), Mr. Obama, Mr. Menendez, Mr.
+			 Cardin, Mr. Casey, and Mr. Webb.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on Health, Education,
+			 Labor, and Pensions:</header><text>Mr. Kennedy (Chairman), Mr. Dodd, Mr.
+			 Harkin, Ms. Mikulski, Mr. Bingaman, Mrs. Murray, Mr. Reed, Mrs. Clinton, Mr.
+			 Obama, Mr. Sanders, and Mr. Brown.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on Homeland Security
+			 and Governmental Affairs:</header><text>Mr. Lieberman (Chairman), Mr. Levin,
+			 Mr. Akaka, Mr. Carper, Mr. Pryor, Ms. Landrieu, Mr. Obama, Mrs. McCaskill, and
+			 Mr. Tester.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on the
+			 Judiciary:</header><text>Mr. Leahy (Chairman), Mr. Kennedy, Mr. Biden, Mr.
+			 Kohl, Mrs. Feinstein, Mr. Feingold, Mr. Schumer, Mr. Durbin, Mr. Cardin, and
+			 Mr. Whitehouse.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Select Committee on
+			 Intelligence:</header><text>Mr. Rockefeller, Mrs. Feinstein, Mr. Wyden, Mr.
+			 Bayh, Ms. Mikulski, Mr. Feingold, Mr. Nelson (Florida), Mr. Whitehouse, and Mr.
+			 Levin (ex officio).</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on the
+			 Budget:</header><text>Mr. Conrad (Chairman), Mrs. Murray, Mr. Wyden, Mr.
+			 Feingold, Mr. Byrd, Mr. Nelson (Florida), Ms. Stabenow, Mr. Menendez, Mr.
+			 Cardin, Mr. Lautenberg, Mr. Sanders, and Mr. Whitehouse.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on Rules and
+			 Administration:</header><text>Mrs. Feinstein (Chairman), Mr. Dodd, Mr. Byrd,
+			 Mr. Inouye, Mr. Schumer, Mr. Durbin, Mr. Nelson (Nebraska), Mr. Reid, Mrs.
+			 Murray, and Mr. Pryor.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on Small Business and
+			 Entrepreneurship:</header><text>Mr. Kerry (Chairman), Mr. Levin, Mr. Harkin,
+			 Mr. Lieberman, Ms. Landrieu, Ms. Cantwell, Mr. Bayh, Mr. Pryor, Mr. Cardin, and
+			 Mr. Tester.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on Veterans'
+			 Affairs:</header><text>Mr. Akaka (Chairman), Mr. Rockefeller, Mrs. Murray, Mr.
+			 Obama, Mr. Sanders, Mr. Brown, Mr. Webb, and Mr. Tester.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Special Committee on
+			 Aging:</header><text>Mr. Kohl (Chairman), Mr. Wyden, Mrs. Lincoln, Mr. Bayh,
+			 Mr. Carper, Mr. Nelson (Florida), Mrs. Clinton, Mr. Salazar, Mr. Casey, Mrs.
+			 McCaskill, and Mr. Whitehouse.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Joint Economic
+			 Committee:</header><text>Mr. Schumer (Chairman), Mr. Kennedy, Mr. Bingaman, Ms.
+			 Klobuchar, Mr. Casey, and Mr. Webb.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Select Committee on
+			 Ethics:</header><text>Mr. Johnson (Chairman), Mrs. Boxer (Chairman in Johnson's
+			 absence), Mr. Pryor, and Mr. Salazar.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><text>Senator Johnson is Chair of the
+			 Select Committee on Ethics, and during his absence for all purposes under
+			 Senate Rules, Committee Rules, and relevant statutes, Senator Boxer shall act
+			 as Chair of the Select Committee on Ethics, except for purposes of the
+			 designation under 2 U.S.C. § 72a–1f.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on Indian
+			 Affairs:</header><text>Mr. Dorgan (Chairman), Mr. Inouye, Mr. Conrad, Mr.
+			 Akaka, Mr. Johnson, Ms. Cantwell, Mrs. McCaskill, and Mr. Tester.</text>
+			</committee-appointment-paragraph></section></resolution-body>
+</resolution>

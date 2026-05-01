@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="HA56B87A5541B403FB5A4474CCF49A71F" key="H" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>110 HRES 496 EH: Electing a minority member to a standing
+</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2007-06-19</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+	<form>
+		<distribution-code display="no">IV</distribution-code>
+		<congress display="no">110th CONGRESS</congress>
+		<session display="no">1st Session</session>
+		<legis-num>H. RES. 496</legis-num>
+		<current-chamber display="yes">In the House of Representatives, U.
+		  S.,</current-chamber>
+		<action>
+			<action-date date="20070619">June 19, 2007</action-date>
+		</action>
+		<legis-type display="yes">RESOLUTION</legis-type>
+		<official-title display="no">Electing a minority member to a standing
+		  committee of the House of Representatives.</official-title>
+	</form>
+	<resolution-body id="H67F595C4CB4147238FC353C0BAD8676B" style="traditional">
+		<section display-inline="yes-display-inline" id="H325147EF4D3F43F9A2FDDD3C17950338" section-type="undesignated-section"><enum></enum><text>That the following named Member be,
+			 and is hereby, elected to the following standing committee of the House of
+			 Representatives:</text>
+			<committee-appointment-paragraph><header><committee-name committee-id="HIF00"> Committee on Energy and
+			 Commerce:</committee-name></header><text>Mr. Gillmor, to rank after Mr.
+			 Stearns.</text>
+			</committee-appointment-paragraph></section></resolution-body>
+	<attestation>
+		<attestation-group>
+			<attestor display="no">Lorraine C. Miller,</attestor>
+			<role>Clerk.</role>
+		</attestation-group>
+	</attestation>
+</resolution>
+
+

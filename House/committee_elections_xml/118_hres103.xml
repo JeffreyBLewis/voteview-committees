@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="H0BAF0DA1468742D5AAF70F9C79447E16" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HRES 103 EH: Electing Members to a certain standing committee of the House of Representatives.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-02-08</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">118th CONGRESS</congress> 
+<session display="no">1st Session</session> 
+<legis-num>H. RES. 103</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber>
+<action>
+<action-date date="20230208">February 8, 2023</action-date>
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no">Electing Members to a certain standing committee of the House of Representatives.</official-title> 
+</form> 
+<resolution-body style="traditional" id="HE2C0060DE1224B3EAFDAFF26245BBE9A"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="H26B502D01BB54F3DB9DD5D8F6EC77D13"><text display-inline="yes-display-inline">That the following named Members be, and are hereby, elected to the following standing committee of the House of Representatives:</text> <committee-appointment-paragraph><header>Committee on the Budget:</header><text>Mr. Norman, Mr. McClintock, Mr. Grothman, Mr. Smucker, Mr. Burgess, Mr. Carter of Georgia, Mr. Cline, Mr. Good of Virginia, Mr. Bergman, Mr. Ferguson, Mr. Roy, Mr. Moore of Utah, Mr. Valadao, Mr. Estes, Mrs. Bice, Mrs. McClain, Mrs. Fischbach, Mr. Yakym, Mr. Brecheen, Mr. Edwards.</text></committee-appointment-paragraph>
+
+</section> 
+</resolution-body> 
+<attestation><attestation-group><attestor display="no">Cheryl L. Johnson,</attestor><role>Clerk.</role></attestation-group></attestation>
+</resolution> 
+
+

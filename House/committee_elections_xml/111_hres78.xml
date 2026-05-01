@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="H457FD6B6C7104E57B6E68100F7A800C0" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H"> 
+<form> 
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">111th CONGRESS</congress> 
+<session display="no">1st Session</session> 
+<legis-num>H. RES. 78</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber>
+<action>
+<action-date date="20090122">January 22, 2009</action-date>
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no">Electing certain minority members to certain standing committees.</official-title> 
+</form> 
+<resolution-body style="traditional" id="H360261C2CCA84E47A68089A6DA858E4F"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="HBAB95AA10AF1429BAF5F18F48DC4D713"><text>That the following members are, and are hereby, elected to the following standing committees:</text> 
+
+<committee-appointment-paragraph><header><committee-name committee-id="HAG00"> Committee on Agriculture</committee-name>—</header><text>Mr. Cassidy.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header><committee-name committee-id="HBU00"> Committee on the Budget</committee-name>—</header><text>Mr. Aderholt of Alabama, to rank after Mr. Nunes of California, and Mr. Harper.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header><committee-name committee-id="HIF00"> Committee on Energy and Commerce</committee-name>—</header><text>Mr. Scalise.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header><committee-name committee-id="HGO00"> Committee on Oversight and Government Reform</committee-name>—</header><text>Mr. Schock.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header><committee-name committee-id="HSY00"> Committee on Science and Technology</committee-name>—</header><text>Mr. Smith of Nebraska, to rank after Mr. Bilbray.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header><committee-name committee-id="HPW00"> Committee on Transportation and Infrastructure</committee-name>— </header><text>Mr. Guthrie, Mr. Cao, Mr. Schock, and Mr. Olson, all to rank after Mr. Latta.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header><committee-name committee-id="HVR00"> Committee on Veterans' Affairs</committee-name>— </header><text>Mr. Lamborn, to rank after Mr. Bilbray, and Mr. Roe of Tennessee .</text></committee-appointment-paragraph>
+
+</section> 
+</resolution-body> 
+<attestation><attestation-group><attestor display="no">Lorraine C. Miller,</attestor><role>Clerk.</role></attestation-group></attestation>
+</resolution> 

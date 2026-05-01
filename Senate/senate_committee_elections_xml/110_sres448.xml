@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution public-private="public" resolution-stage="Agreed-to-Senate" resolution-type="senate-resolution" star-print="no-star-print">
+	<form>
+		<distribution-code display="yes">III</distribution-code>
+		<congress display="yes">110th CONGRESS</congress>
+		<session display="yes">2d Session</session>
+		<legis-num>S. RES. 448</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action display="yes">
+			<action-date date="20080212">February 12, 2008</action-date>
+			<action-desc><sponsor name-id="S174">Mr. McConnell</sponsor> submitted
+			 the following resolution; which was considered and agreed to</action-desc>
+		</action>
+		<legis-type>RESOLUTION</legis-type>
+		<official-title display="yes">Making minority party appointments for the
+		  110th Congress.</official-title>
+	</form>
+	<resolution-body>
+		<section display-inline="yes-display-inline" id="S1" section-type="undesignated-section"><enum></enum><text>That the following be the minority
+			 membership on the following committee for the remainder of the 110th Congress,
+			 or until their successors are appointed:</text>
+			<committee-appointment-paragraph><header>Committee on Foreign
+			 Relations:</header><text>Mr. Lugar, Mr. Hagel, Mr. Coleman, Mr. Corker, Mr.
+			 Voinovich, Ms. Murkowski, Mr. DeMint, Mr. Isakson, Mr. Vitter, and Mr.
+			 Barrasso.</text>
+			</committee-appointment-paragraph></section></resolution-body>
+</resolution>

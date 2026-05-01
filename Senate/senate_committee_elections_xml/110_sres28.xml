@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution public-private="public" resolution-stage="Agreed-to-Senate" resolution-type="senate-resolution" star-print="no-star-print">
+	<form>
+		<distribution-code display="yes">IV</distribution-code>
+		<congress display="yes">110th CONGRESS</congress>
+		<session display="yes">1st Session</session>
+		<legis-num>S. RES. 28</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action display="yes">
+			<action-date date="20070112">January 12, 2007</action-date>
+			<action-desc><sponsor name-id="S174">Mr. McConnell</sponsor> submitted
+			 the following resolution; which was considered and agreed to</action-desc>
+		</action>
+		<legis-type>RESOLUTION</legis-type>
+		<official-title display="yes">To constitute the minority party's
+		  membership on certain committees for the One Hundred Tenth Congress, or until
+		  their successors are chosen.</official-title>
+	</form>
+	<resolution-body>
+		<section display-inline="yes-display-inline" id="S1" section-type="undesignated-section"><enum></enum><text>That the following shall constitute
+			 the minority party's membership on the following committees for the One Hundred
+			 Tenth Congress, or until their successors are chosen:</text>
+			<committee-appointment-paragraph><header>Committee on Agriculture,
+			 Nutrition, and Forestry:</header><text>Mr. Chambliss, Mr. Lugar, Mr. Cochran,
+			 Mr. McConnell, Mr. Roberts, Mr. Graham, Mr. Coleman, Mr. Crapo, Mr. Thune, and
+			 Mr. Grassley.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on
+			 Appropriations:</header><text>Mr. Cochran, Mr. Stevens, Mr. Specter, Mr.
+			 Domenici, Mr. Bond, Mr. McConnell, Mr. Shelby, Mr. Gregg, Mr. Bennett, Mr.
+			 Craig, Mrs. Hutchison, Mr. Brownback, Mr. Allard, and Mr. Alexander.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on Armed
+			 Services:</header><text>Mr. McCain, Mr. Warner, Mr. Inhofe, Mr. Sessions, Ms.
+			 Collins, Mr. Ensign, Mr. Chambliss, Mr. Graham, Mrs. Dole, Mr. Cornyn, Mr.
+			 Thune, and Mr. Martinez.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on Banking, Housing,
+			 and Urban Affairs:</header><text>Mr. Shelby, Mr. Bennett, Mr. Allard, Mr. Enzi,
+			 Mr. Hagel, Mr. Bunning, Mr. Crapo, Mr. Sununu, Mrs. Dole, and Mr.
+			 Martinez.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on Commerce, Science,
+			 and Transportation:</header><text>Mr. Stevens, Mr. McCain, Mr. Lott, Mrs.
+			 Hutchison, Ms. Snowe, Mr. Smith, Mr. Ensign, Mr. Sununu, Mr. DeMint, Mr.
+			 Vitter, and Mr. Thune.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on Energy and Natural
+			 Resources:</header><text>Mr. Domenici, Mr. Craig, Mr. Thomas, Ms. Murkowski,
+			 Mr. Burr, Mr. DeMint, Mr. Corker, Mr. Sessions, Mr. Smith, Mr. Bunning, and Mr.
+			 Martinez.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on the Environment and
+			 Public Works:</header><text>Mr. Inhofe, Mr. Warner, Mr. Voinovich, Mr. Isakson,
+			 Mr. Vitter, Mr. Craig, Mr. Alexander, Mr. Thomas, and Mr. Bond.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on
+			 Finance:</header><text>Mr. Grassley, Mr. Hatch, Mr. Lott, Ms. Snowe, Mr. Kyl,
+			 Mr. Thomas, Mr. Smith, Mr. Bunning, Mr. Crapo, and Mr. Roberts.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on Foreign
+			 Relations:</header><text>Mr. Lugar, Mr. Hagel, Mr. Coleman, Mr. Corker, Mr.
+			 Sununu, Mr. Voinovich, Ms. Murkowski, Mr. DeMint, Mr. Isakson, and Mr.
+			 Vitter.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on Health, Education,
+			 Labor, and Pensions:</header><text>Mr. Enzi, Mr. Gregg, Mr. Alexander, Mr.
+			 Burr, Mr. Isakson, Ms. Murkowski, Mr. Hatch, Mr. Roberts, Mr. Allard, and Mr.
+			 Coburn.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on Homeland Security
+			 and Governmental Affairs:</header><text>Ms. Collins, Mr. Stevens, Mr.
+			 Voinovich, Mr. Coleman, Mr. Coburn, Mr. Domenici, Mr. Warner, and Mr.
+			 Sununu.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on the
+			 Judiciary:</header><text>Mr. Specter, Mr. Hatch, Mr. Grassley, Mr. Kyl, Mr.
+			 Sessions, Mr. Graham, Mr. Cornyn, Mr. Brownback, and Mr. Coburn.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on the
+			 Budget:</header><text>Mr. Gregg, Mr. Domenici, Mr. Grassley, Mr. Allard, Mr.
+			 Enzi, Mr. Sessions, Mr. Bunning, Mr. Crapo, Mr. Ensign, Mr. Cornyn, and Mr.
+			 Graham.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on Rules and
+			 Administration:</header><text>Mr. Bennett, Mr. Stevens, Mr. McConnell, Mr.
+			 Cochran, Mr. Lott, Mr. Chambliss, Mrs. Hutchison, Mr. Hagel, and Mr.
+			 Alexander.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on Small Business and
+			 Entrepreneurship:</header><text>Ms. Snowe, Mr. Bond, Mr. Coleman, Mr. Vitter,
+			 Mrs. Dole, Mr. Thune, Mr. Corker, Mr. Enzi, and Mr. Isakson.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on Veterans'
+			 Affairs:</header><text>Mr. Craig, Mr. Specter, Mr. Burr, Mr. Isakson, Mr.
+			 Graham, Mrs. Hutchison, and Mr. Ensign.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Special Committee on
+			 Aging:</header><text>Mr. Smith, Mr. Shelby, Ms. Collins, Mr. Martinez, Mr.
+			 Craig, Mrs. Dole, Mr. Coleman, Mr. Vitter, Mr. Corker, and Mr. Specter.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Select Committee on
+			 Intelligence:</header><text>Mr. Bond, Mr. Warner, Mr. Hagel, Mr. Chambliss, Mr.
+			 Hatch, Ms. Snowe, and Mr. Burr.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Joint Economic
+			 Committee:</header><text>Mr. Brownback, Mr. Sununu, Mr. DeMint, and Mr.
+			 Bennett.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Select Committee on
+			 Ethics:</header><text>Mr. Cornyn, Mr. Roberts, and Mr. Thomas.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header>Committee on Indian
+			 Affairs:</header><text>Mr. Thomas, Mr. McCain, Ms. Murkowski, Mr. Coburn, Mr.
+			 Domenici, Mr. Smith, and Mr. Burr.</text>
+			</committee-appointment-paragraph></section></resolution-body>
+</resolution>

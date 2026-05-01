@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="H2BF94FDDAE594308B536C0B5192DF4FF" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>116 HRES 42 EH: Electing Members to certain standing committees of the House of Representatives.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2019-01-15</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">116th CONGRESS</congress> 
+<session display="no">1st Session</session> 
+<legis-num>H. RES. 42</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber>
+<action>
+<action-date date="20190115">January 15, 2019</action-date>
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no">Electing Members to certain standing committees of the House of Representatives.</official-title> 
+</form> 
+<resolution-body style="traditional" id="H1BE0CCB6B5DF4639B7463D1B84869462"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="H719152F5E0274CC494E68FEAE5F8AEDB"><text display-inline="yes-display-inline">That the following named Members be, and are hereby, elected to the following standing committees of the House of Representatives:</text> <committee-appointment-paragraph><header>Committee on Appropriations:</header><text>Ms. Kaptur, Mr. Visclosky, Mr. Serrano, Ms. DeLauro, Mr. Price of North Carolina, Ms. Roybal-Allard, Mr. Bishop of Georgia, Ms. Lee of California, Ms. McCollum, Mr. Ryan, Mr. Ruppersberger, Ms. Wasserman Schultz, Mr. Cuellar, Ms. Pingree, Mr. Quigley, Mr. Kilmer, Mr. Cartwright, Ms. Meng, Mr. Pocan, Ms. Clark of Massachusetts, Mr. Aguilar, Ms. Frankel, Mrs. Bustos, Mrs. Watson Coleman, Mrs. Lawrence, Mrs. Torres of California, Mr. Crist, Mrs. Kirkpatrick, and Mr. Case.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Armed Services:</header><text>Mrs. Davis of California, Mr. Langevin, Mr. Larsen of Washington, Mr. Cooper, Mr. Courtney, Mr. Garamendi, Ms. Speier, Ms. Gabbard, Mr. Norcross, Mr. Gallego, Mr. Moulton, Mr. Carbajal, Mr. Brown of Maryland, Mr. Khanna, Mr. Keating, Mr. Vela, Mr. Kim, Ms. Kendra S. Horn of Oklahoma, Mr. Cisneros, Ms. Houlahan, Mr. Crow, Ms. Torres Small of New Mexico, Ms. Slotkin, Ms. Sherrill, Ms. Hill of California, Ms. Escobar, Ms. Haaland, Mr. Golden, Mrs. Trahan, and Mrs. Luria.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header>Committee on Education and Labor:</header><text>Mrs. Davis of California, Mr. Grijalva, Mr. Courtney, Ms. Fudge, Mr. Sablan, Ms. Wilson of Florida, Ms. Bonamici, Mr. Takano, Ms. Adams, Mr. DeSaulnier, Mr. Norcross, Mr. Krishnamoorthi, Mr. Espaillat, Ms. Jayapal, Mr. Morelle, Ms. Wild, Mr. Harder of California, Mrs. McBath, Ms. Schrier, Ms. Underwood, Mrs. Hayes, Ms. Shalala, Mr. Levin of Michigan, Ms. Omar, Mr. Trone, Ms. Stevens, and Mrs. Lee of Nevada.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Energy and Commerce:</header><text>Mr. Rush, Ms. Eshoo, Mr. Engel, Ms. DeGette, Mr. Michael F. Doyle of Pennsylvania, Ms. Schakowsky, Mr. Butterfield, Ms. Matsui, Ms. Castor of Florida, Mr. Sarbanes, Mr. McNerney, Mr. Welch, Mr. Luján, Mr. Tonko, Ms. Clarke of New York, Mr. Loebsack, Mr. Schrader, Mr. Kennedy, Mr. Cárdenas, Mr. Ruiz, Mr. Peters, Mrs. Dingell, Mr. Veasey, Ms. Kuster of New Hampshire, Ms. Kelly of Illinois, Ms. Barragán, Mr. McEachin, Ms. Blunt Rochester, Mr. Soto, and Mr. O'Halleran.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header>Committee on Ways and Means:</header><text>Mr. Lewis, Mr. Doggett, Mr. Thompson of California, Mr. Larson of Connecticut, Mr. Blumenauer, Mr. Kind, Mr. Pascrell, Mr. Danny K. Davis of Illinois, Ms. Sánchez, Mr. Higgins of New York, Ms. Sewell of Alabama, Ms. DelBene, Ms. Judy Chu of California, Ms. Moore, Mr. Kildee, Mr. Brendan F. Boyle of Pennsylvania, Mr. Beyer, Mr. Evans, Mr. Schneider, Mr. Suozzi, Mr. Panetta, Mrs. Murphy, Mr. Gomez, and Mr. Horsford.</text></committee-appointment-paragraph>
+
+</section> 
+</resolution-body> 
+<attestation><attestation-group><attestor display="no">Karen L. Haas,</attestor><role>Clerk.</role></attestation-group></attestation>
+</resolution> 
+
+

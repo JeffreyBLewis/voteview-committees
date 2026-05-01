@@ -1,0 +1,215 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution public-private="public" resolution-stage="Agreed-to-Senate" resolution-type="senate-resolution" star-print="no-star-print">
+
+	<form display="yes">
+
+		<distribution-code display="yes">III </distribution-code>
+
+		<congress display="yes">109th CONGRESS</congress>
+
+		<session display="yes">1st Session</session>
+
+		<legis-num>S. RES. 5</legis-num>
+
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+
+		<action display="yes">
+
+			<action-date date="20050106">January 6, 2005</action-date>
+
+			<action-desc blank-lines-after="0" display="yes">
+
+				<sponsor by-request="no" name-id="S241">Mr. Frist</sponsor> submitted the
+
+			 following resolution; which was considered and agreed to</action-desc>
+
+		</action>
+
+		<legis-type>RESOLUTION</legis-type>
+
+		<official-title display="yes">Making majority party appointments to
+
+		  certain Senate committees for the 109th Congress.</official-title>
+
+	</form>
+
+	<resolution-body display-resolving-clause="yes-display-resolving-clause" style="OLC">
+
+		<section commented="no" display-inline="yes-display-inline" id="S1" section-type="undesignated-section">
+
+			<text display-inline="yes-display-inline">That notwithstanding the
+
+			 provisions of Rule XXV, the following shall constitute the majority party's
+
+			 membership on the following standing committees for the One Hundred Ninth
+
+			 Congress, or until their successors are chosen:</text>
+
+			<subsection id="id9577F7E457F747EC8AF26F8E77B80930"><enum></enum><text><header-in-text>Committee on
+
+			 Agriculture, Nutrition, and Forestry</header-in-text>: Mr. Chambliss
+
+			 (Chairman), Mr. Lugar, Mr. Cochran, Mr. McConnell, Mr. Roberts, Mr. Talent, Mr.
+
+			 Thomas, Mr. Santorum, Mr. Coleman, Mr. Crapo, and Mr. Grassley.</text>
+
+			</subsection><subsection id="idF460885D700D453CB345AE822B785439"><enum></enum><text><header-in-text>Committee on
+
+			 Appropriations</header-in-text>: Mr. Cochran (Chairman), Mr. Stevens, Mr.
+
+			 Specter, Mr. Domenici, Mr. Bond, Mr. McConnell, Mr. Burns, Mr. Shelby, Mr.
+
+			 Gregg, Mr. Bennett, Mr. Craig, Mrs. Hutchison, Mr. DeWine, Mr. Brownback, and
+
+			 Mr. Allard.</text>
+
+			</subsection><subsection id="idB49AE49F8FAD4C5BAB8F36AA1E72F880"><enum></enum><text><header-in-text>Committee on
+
+			 Armed Services</header-in-text>: Mr. Warner (Chairman), Mr. McCain, Mr. Inhofe,
+
+			 Mr. Roberts, Mr. Sessions, Ms. Collins, Mr. Ensign, Mr. Talent, Mr. Chambliss,
+
+			 Mr. Graham, Mrs. Dole, Mr. Cornyn, and Mr. Thune.</text>
+
+			</subsection><subsection id="id099D784DC068400E88DE34C53F647D1B"><enum></enum><text><header-in-text>Committee on
+
+			 Banking, Housing, and Urban Affairs</header-in-text>: Mr. Shelby (Chairman),
+
+			 Mr. Bennett, Mr. Allard, Mr. Enzi, Mr. Hagel, Mr. Santorum, Mr. Bunning, Mr.
+
+			 Crapo, Mr. Sununu, Mrs. Dole, and Mr. Martinez.</text>
+
+			</subsection><subsection id="idA65E1DD8F5C14CFBBC8C1077A16573A3"><enum></enum><text><header-in-text>Committee on
+
+			 Commerce, Science, and Transportation</header-in-text>: Mr. Stevens (Chairman),
+
+			 Mr. McCain, Mr. Burns, Mr. Lott, Mrs. Hutchison, Ms. Snowe, Mr. Smith, Mr.
+
+			 Ensign, Mr. Allen, Mr. Sununu, Mr. Demint, and Mr. Vitter.</text>
+
+			</subsection><subsection id="id6067B6C1B7DB476A90A441B7DC79DF35"><enum></enum><text><header-in-text>Committee on
+
+			 Energy and Natural Resources</header-in-text>: Mr. Domenici (Chairman), Mr.
+
+			 Craig, Mr. Thomas, Mr. Alexander, Ms. Murkowski, Mr. Burr, Mr. Martinez, Mr.
+
+			 Talent, Mr. Burns, Mr. Allen, Mr. Smith, and Mr. Bunning.</text>
+
+			</subsection><subsection id="id5F96F64E3CD044149F41181308427BF7"><enum></enum><text><header-in-text>Committee on
+
+			 Environment and Public Works</header-in-text>: Mr. Inhofe (Chairman), Mr.
+
+			 Warner, Mr. Bond, Mr. Voinovich, Mr. Chafee, Ms. Murkowski, Mr. Thune, Mr.
+
+			 Demint, Mr. Isakson, and Mr. Vitter.</text>
+
+			</subsection><subsection id="id3B21E6E65AC144F19666C9056CB2CB47"><enum></enum><text><header-in-text>Committee on
+
+			 Finance</header-in-text>: Mr. Grassley (Chairman), Mr. Hatch, Mr. Lott, Ms.
+
+			 Snowe, Mr. Kyl, Mr. Thomas, Mr. Santorum, Mr. Frist, Mr. Smith, Mr. Bunning,
+
+			 and Mr. Crapo.</text>
+
+			</subsection><subsection id="id3056D5701BFB4C9DABFF50D6AEA601CF"><enum></enum><text><header-in-text>Committee on
+
+			 Foreign Relations</header-in-text>: Mr. Lugar (Chairman), Mr. Hagel, Mr.
+
+			 Chafee, Mr. Allen, Mr. Coleman, Mr. Voinovich, Mr. Alexander, Mr. Sununu, Ms.
+
+			 Murkowski, and Mr. Martinez.</text>
+
+			</subsection><subsection id="idC7D37135AB1D4EA690FCD83B25148E4F"><enum></enum><text><header-in-text>Committee on
+
+			 Health, Education, Labor, and Pensions</header-in-text>: Mr. Enzi (Chairman),
+
+			 Mr. Gregg, Mr. Frist, Mr. Alexander, Mr. Burr, Mr. Isakson, Mr. DeWine, Mr.
+
+			 Ensign, Mr. Hatch, Mr. Sessions, and Mr. Roberts.</text>
+
+			</subsection><subsection id="idA2464AFA71734C088AF1878919FCB915"><enum></enum><text><header-in-text>Committee on
+
+			 Homeland Security and Govermental Affairs</header-in-text>: Ms. Collins
+
+			 (Chairman), Mr. Stevens, Mr. Voinovich, Mr. Coleman, Mr. Coburn, Mr. Chafee,
+
+			 Mr. Bennett, Mr. Domenici, and Mr. Warner.</text>
+
+			</subsection><subsection id="id2D306E755C9E4653A2464ABB984722B7"><enum></enum><text><header-in-text>Select Committee
+
+			 on Intelligence</header-in-text>: Mr. Roberts (Chairman), Mr. Hatch, Mr.
+
+			 DeWine, Mr. Bond, Mr. Lott, Ms. Snowe, Mr. Hagel, Mr. Chambliss, and Mr. Warner
+
+			 (ex officio).</text>
+
+			</subsection><subsection id="id0C3AEA2638644CC8931EC01BB11EC04C"><enum></enum><text><header-in-text>Committee on the
+
+			 Judiciary</header-in-text>: Mr. Specter (Chairman), Mr. Hatch, Mr. Grassley,
+
+			 Mr. Kyl, Mr. DeWine, Mr. Sessions, Mr. Graham, Mr. Cornyn, Mr. Brownback, and
+
+			 Mr. Coburn.</text>
+
+			</subsection><subsection id="id705013D945DC454DAC89FF0085346A75"><enum></enum><text><header-in-text>Special Committee
+
+			 on Aging</header-in-text>: Mr. Smith (Chairman), Mr. Shelby, Ms. Collins, Mr.
+
+			 Talent, Mrs. Dole, Mr. Martinez, Mr. Craig, Mr. Santorum, Mr. Burns, Mr.
+
+			 Alexander, and Mr. Demint.</text>
+
+			</subsection><subsection id="id33711FB97679414298D129972DBC41B2"><enum></enum><text><header-in-text>Committee on the
+
+			 Budget</header-in-text>: Mr. Gregg (Chairman), Mr. Domenici, Mr. Grassley, Mr.
+
+			 Allard, Mr. Enzi, Mr. Sessions, Mr. Bunning, Mr. Crapo, Mr. Ensign, Mr. Cornyn,
+
+			 Mr. Alexander, and Mr. Graham.</text>
+
+			</subsection><subsection id="id0E0514AD77E84020AC19664BAFB23AD2"><enum></enum><text><header-in-text>Select Committee
+
+			 on Ethics</header-in-text>: Mr. Voinovich (Chairman), Mr. Roberts, and Mr.
+
+			 Thomas.</text>
+
+			</subsection><subsection id="idADE8E3C66AED43FEA5E22057529DE13C"><enum></enum><text><header-in-text>Committee on
+
+			 Indian Affairs</header-in-text>: Mr. McCain (Chairman), Mr. Thomas, Ms.
+
+			 Murkowski, Mr. Coburn, Mr. Domenici, Mr. Smith, Mr. Crapo, and Mr. Burr.</text>
+
+			</subsection><subsection id="id6081A10533544DC79D6AC4508EF9456A"><enum></enum><text><header-in-text>Joint Economic
+
+			 Committee</header-in-text>: Mr. Bennett (Vice-Chairman), Mr. Brownback, Mr.
+
+			 Sununu, Mr. Demint, Mr. Sessions, and Mr. Cornyn.</text>
+
+			</subsection><subsection id="id912A5488B07142CFB79F432E0073DABB"><enum></enum><text><header-in-text>Committee on
+
+			 Rules and Administration</header-in-text>: Mr. Lott (Chairman), Mr. Stevens,
+
+			 Mr. McConnell, Mr. Cochran, Mr. Santorum, Mr. Frist, Mr. Chambliss, Mrs.
+
+			 Hutchison, Mr. Bennett, and Mr. Hagel.</text>
+
+			</subsection><subsection id="idE9315A3449844142B3F6323D101538E3"><enum></enum><text><header-in-text>Committee on
+
+			 Small Business and Entrepreneurship</header-in-text>: Ms. Snowe (Chairman), Mr.
+
+			 Bond, Mr. Burns, Mr. Allen, Mr. Coleman, Mr. Thune, Mr. Isakson, Mr. Vitter,
+
+			 Mr. Enzi, and Mr. Cornyn.</text>
+
+			</subsection><subsection id="idFB023989034D4D24BF3F14F88F57CA6D"><enum></enum><text><header-in-text>Committee on
+
+			 Veterans' Affairs</header-in-text>: Mr. Craig (Chairman), Mr. Specter, Mrs.
+
+			 Hutchison, Mr. Graham, Mr. Burr, Mr. Ensign, Mr. Thune, and Mr. Isakson.</text>
+
+			</subsection></section></resolution-body>
+
+</resolution>
+

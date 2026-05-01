@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="H99C2A5ACA8214512AD933D477EB0DBFC" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HRES 1133 EH: Electing Members to certain standing committees of the House of Representatives.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2024-04-11</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">118th CONGRESS</congress> 
+<session display="no">2d Session</session> 
+<legis-num>H. RES. 1133</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber>
+<action>
+<action-date date="20240411">April 11, 2024</action-date>
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no">Electing Members to certain standing committees of the House of Representatives.</official-title> 
+</form> 
+<resolution-body style="multiple-resolved-clause" id="H94E43A695E3C4D0A9EF7B4EBC5D5231B"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="H7EA256D854E248B088B8C74492A6258A"><text display-inline="yes-display-inline">That the following named Members be, and are hereby, elected to the following standing committees of the House of Representatives: </text> <committee-appointment-paragraph><header>Committee on Appropriations:</header><text>Mr. Cole, Chair.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Energy and Commerce:</header><text>Mr. James.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header>Committee on Rules:</header><text>Mr. Burgess, Chair. Mr. Austin Scott of Georgia (to rank after Mr. Langworthy).</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header>Committee on Transportation and Infrastructure:</header><text>Mr. Kiley.</text></committee-appointment-paragraph> </section> <section id="H10AE824CC8D4460CABC2CF8000A927F1" section-type="resolved" display-inline="no-display-inline"><enum></enum><text display-inline="yes-display-inline">That the following named Member be, and is hereby, ranked as follows on the following standing committee of the House of Representatives:</text> 
+
+<committee-appointment-paragraph><header>Committee on Appropriations:</header><text>Ms. Granger, after Mr. Rogers of Kentucky.</text></committee-appointment-paragraph> </section> </resolution-body> <attestation><attestation-group><attestor display="no">Cheryl L. Johnson,</attestor><role>Clerk.</role></attestation-group></attestation> </resolution> 
+

@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="H6BD59960DBCF4714B548365BB8ACA719" key="H" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" stage-count="1" star-print="no-star-print">
+	<form>
+		<distribution-code display="no">IV</distribution-code>
+		<congress display="no">111th CONGRESS</congress>
+		<session display="no">2d Session</session>
+		<legis-num>H. RES. 1223</legis-num>
+		<current-chamber display="yes">In the House of Representatives, U.
+		  S.,</current-chamber>
+		<action>
+			<action-date date="20100325">March 25, 2010</action-date>
+		</action>
+		<legis-type display="yes">RESOLUTION</legis-type>
+		<official-title display="no">Electing a Minority member to a standing
+		  committee.</official-title>
+	</form>
+	<resolution-body id="H4EED46F067DA4587BB3EC73034DCDF7E" style="traditional">
+		<section display-inline="yes-display-inline" id="H4FFDA455F4A24E8BB2B52B43247DFA74" section-type="undesignated-section"><enum></enum><text>That the following named Member be,
+			 and is hereby, elected to the following standing committee of the House of
+			 Representatives:</text>
+			<committee-appointment-paragraph><header><committee-name committee-id="HIF00"> Committee on Energy and Commerce</committee-name>:
+			 </header><text>Mr. Latta.</text>
+			</committee-appointment-paragraph></section></resolution-body>
+	<attestation>
+		<attestation-group>
+			<attestor display="no">Lorraine C. Miller,</attestor>
+			<role>Clerk.</role>
+		</attestation-group>
+	</attestation>
+</resolution>

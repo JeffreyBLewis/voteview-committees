@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="H5CF48410D82D4769B7B23C4888048976" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HRES 60 EH: Electing Members to a certain standing committee of the House of Representatives.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-01-26</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">118th CONGRESS</congress> 
+<session display="no">1st Session</session> 
+<legis-num>H. RES. 60</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber>
+<action>
+<action-date date="20230126">January 26, 2023</action-date>
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no">Electing Members to a certain standing committee of the House of Representatives.</official-title> 
+</form> 
+<resolution-body style="traditional" id="HB7F922E19D8D40839DED948CF8633635"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="HBA24F7F878C94060B43794573D6B25AB"><text>That the following named Members be, and are hereby, elected to the following standing committee of the House of Representatives:</text> <committee-appointment-paragraph><header><committee-name committee-id="HAP00"> Committee on Appropriations:</committee-name> </header><text>Mr. Hoyer, Ms. Kaptur, Mr. Bishop of Georgia, Ms. Lee of California, Ms. McCollum, Mr. Ruppersberger, Ms. Wasserman Schultz, Mr. Cuellar, Ms. Pingree, Mr. Quigley, Mr. Kilmer, Mr. Cartwright, Ms. Meng, Mr. Pocan, Mr. Aguilar, Ms. Lois Frankel of Florida, Mrs. Watson Coleman, Mrs. Torres of California, Mr. Case, Mr. Espaillat, Mr. Harder of California, Ms. Wexton, Mr. Trone, Ms. Underwood, Mrs. Lee of Nevada, Mr. Morelle. </text></committee-appointment-paragraph>
+
+</section> 
+</resolution-body> 
+<attestation><attestation-group><attestor display="no">Cheryl L. Johnson,</attestor><role>Clerk.</role></attestation-group></attestation>
+</resolution> 
+
+

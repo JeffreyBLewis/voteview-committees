@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution public-private="public" resolution-stage="Agreed-to-Senate" resolution-type="senate-resolution" star-print="no-star-print">
+	<form>
+		<distribution-code display="yes">III</distribution-code>
+		<congress display="yes">110th CONGRESS</congress>
+		<session display="yes">1st Session</session>
+		<legis-num>S. RES. 233</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action display="yes">
+			<action-date date="20070613">June 13, 2007</action-date>
+			<action-desc><sponsor name-id="S174">Mr. McConnell</sponsor> submitted
+			 the following resolution; which was considered and agreed to</action-desc>
+		</action>
+		<legis-type>RESOLUTION</legis-type>
+		<official-title display="yes">Making minority party appointments for the
+		  Select Committee on Ethics for the 110th Congress.</official-title>
+	</form>
+	<resolution-body>
+		<section display-inline="yes-display-inline" id="S1" section-type="undesignated-section"><enum></enum><text display-inline="yes-display-inline">That the following be the minority
+			 membership on the Select Committee on Ethics for the remainder of the 110th
+			 Congress, or until their successors are appointed:</text>
+			<subsection id="idE558FCDDF4C147BABDA6C7E4C8940812"><enum></enum><text>Mr. Cornyn, Mr.
+			 Roberts, and Mr. Isakson.</text>
+			</subsection></section></resolution-body>
+</resolution>

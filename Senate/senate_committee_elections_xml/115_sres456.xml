@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution public-private="public" resolution-stage="Agreed-to-Senate" resolution-type="senate-resolution" star-print="no-star-print">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>115 SRES 456 ATS: To constitute the majority party's membership on certain committees for the One Hundred Fifteenth Congress, or until their successors are chosen.</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2017-01-05</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">III</distribution-code>
+		<congress display="yes">115th CONGRESS</congress>
+		<session display="yes">2d Session</session>
+		<legis-num>S. RES. 456</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action display="yes">
+			<action-date date="20170105">April 10, 2018</action-date>
+			<action-desc><sponsor name-id="S174">Mr. McConnell</sponsor> submitted the following resolution; which was considered and agreed to</action-desc>
+		</action>
+		<legis-type>RESOLUTION</legis-type>
+		<official-title display="yes">To constitute the majority party's
+		  membership on certain committees for the One Hundred Fifteenth Congress, or
+		  until their successors are chosen.</official-title>
+	</form>
+	<resolution-body>
+ <section display-inline="yes-display-inline" id="S1" section-type="undesignated-section"><enum></enum><text>That the following shall constitute the majority party's membership on the following committees for the One Hundred Fifteenth Congress, or until their successors are chosen:</text>
+			<committee-appointment-paragraph><header><committee-name committee-id="SSAF00">Committee on Agriculture, Nutrition, and
+ Forestry:</committee-name></header><text>Mr. Roberts, Mr. McConnell, Mr. Boozman, Mr. Hoeven, Mrs. Ernst, Mr. Grassley, Mr. Thune, Mr. Daines, Mr. Perdue, Mrs. Fischer, Mrs. Hyde-Smith.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header><committee-name committee-id="SSAP00">Committee on
+ Appropriations:</committee-name></header><text>Mr. Shelby (Chairman), Mr. McConnell, Mr. Alexander, Ms. Collins, Ms. Murkowski, Mr. Graham, Mr. Blunt, Mr. Moran, Mr. Hoeven, Mr. Boozman, Mrs. Capito, Mr. Lankford, Mr. Daines, Mr. Kennedy, Mr. Rubio, Mrs. Hyde-Smith.</text>
+			</committee-appointment-paragraph><committee-appointment-paragraph><header><committee-name committee-id="SSRA00">Committee on Rules and
+ Administration:</committee-name></header><text>Mr. Blunt (Chairman), Mr. McConnell, Mr. Alexander, Mr. Roberts, Mr. Shelby, Mr. Cruz, Mrs. Capito, Mr. Wicker, Mrs. Fischer, Mrs. Hyde-Smith.</text>
+			</committee-appointment-paragraph></section></resolution-body>
+</resolution>
+
+

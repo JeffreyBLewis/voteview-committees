@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution public-print="no" public-private="public" resolution-stage="Agreed-to-Senate" resolution-type="senate-resolution" star-print="no-star-print">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>115 SRES 369 ATS: To constitute the majority party's membership on certain committees for the One Hundred Fifteenth Congress, or until their successors are chosen.</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2018-01-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form display="yes">
+		<distribution-code display="yes">III</distribution-code>
+		<congress display="yes">115th CONGRESS</congress>
+		<session display="yes">2d Session</session>
+		<legis-num display="yes">S. RES. 369</legis-num>
+		<current-chamber display="yes">IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20180109">January 9, 2018</action-date>
+			<action-desc><sponsor name-id="S174">Mr. McConnell</sponsor> submitted the following resolution; which was considered and agreed to</action-desc></action>
+		<legis-type display="yes">RESOLUTION</legis-type>
+		<official-title display="yes">To constitute the majority party's membership on certain committees for the One Hundred Fifteenth
+			 Congress, or until their successors are chosen.</official-title>
+	</form>
+	<resolution-body display-resolving-clause="yes-display-resolving-clause" style="traditional">
+ <section commented="no" display-inline="yes-display-inline" id="S1" section-type="undesignated-section"><enum></enum><text display-inline="yes-display-inline">That the following shall constitute the majority party's membership on the following committees for the One Hundred Fifteenth Congress, or until their successors are chosen:</text>
+ <committee-appointment-paragraph><header><committee-name>Committee on Agriculture, Nutrition, and Forestry</committee-name>:</header><text>Mr. Roberts, Mr. Cochran, Mr. McConnell, Mr. Boozman, Mr. Hoeven, Mrs. Ernst, Mr. Grassley, Mr. Thune, Mr. Daines, Mr. Perdue, Mrs. Fischer.</text>
+ </committee-appointment-paragraph><committee-appointment-paragraph><header><committee-name>Committee on Armed Services</committee-name>:</header><text>Mr. McCain, Mr. Inhofe, Mr. Wicker, Mrs. Fischer, Mr. Cotton, Mr. Rounds, Mrs. Ernst, Mr. Tillis, Mr. Sullivan, Mr. Perdue, Mr. Cruz, Mr. Graham, Mr. Sasse, Mr. Scott.</text>
+ </committee-appointment-paragraph><committee-appointment-paragraph><header><committee-name>Committee on Banking, Housing, and Urban Affairs</committee-name>:</header><text>Mr. Crapo, Mr. Shelby, Mr. Corker, Mr. Toomey, Mr. Heller, Mr. Scott, Mr. Sasse, Mr. Cotton, Mr. Rounds, Mr. Perdue, Mr. Tillis, Mr. Kennedy, Mr. Moran.</text>
+ </committee-appointment-paragraph><committee-appointment-paragraph><header><committee-name>Committee on Energy and Natural Resources</committee-name>:</header><text>Ms. Murkowski, Mr. Barrasso, Mr. Risch, Mr. Lee, Mr. Flake, Mr. Daines, Mr. Gardner, Mr. Alexander, Mr. Hoeven, Mr. Cassidy, Mr. Portman, Mrs. Capito.</text>
+ </committee-appointment-paragraph><committee-appointment-paragraph><header><committee-name>Committee on the Budget</committee-name>:</header><text>Mr. Enzi, Mr. Grassley, Mr. Crapo, Mr. Graham, Mr. Toomey, Mr. Johnson, Mr. Corker, Mr. Perdue, Mr. Gardner, Mr. Kennedy, Mr. Boozman, Mr. Cotton.</text>
+			</committee-appointment-paragraph></section></resolution-body>
+</resolution>
+
+

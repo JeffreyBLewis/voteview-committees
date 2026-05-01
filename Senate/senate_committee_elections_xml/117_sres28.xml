@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution public-private="public" resolution-stage="Agreed-to-Senate" resolution-type="senate-resolution" star-print="no-star-print" key="G">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 SRES 28 ATS: To constitute the majority party's membership on certain committees for the One Hundred Seventeenth Congress, or until their successors are chosen.</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2021-02-03</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">III</distribution-code>
+<congress display="yes">117th CONGRESS</congress>
+<session display="yes">1st Session</session>
+<legis-num>S. RES. 28</legis-num>
+<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+<action display="yes">
+<action-date date="20210203">February 3, 2021</action-date>
+<action-desc><sponsor name-id="S270">Mr. Schumer</sponsor> submitted the following resolution; which was considered and agreed to</action-desc>
+</action>
+<legis-type>RESOLUTION</legis-type>
+<official-title display="yes">To constitute the majority party's membership on certain committees for the One Hundred Seventeenth Congress, or until their successors are chosen.</official-title>
+</form>
+<resolution-body id="H3688125D83A544E29446E61EBE3E1278">
+<section display-inline="yes-display-inline" id="S1" section-type="undesignated-section"><text>That pursuant to the provisions of S. Res. 27, the following shall constitute the majority party's membership on the following committees for the One Hundred Seventeenth Congress, or until their successors are chosen:</text> <committee-appointment-paragraph><header><committee-name committee-id="SSAF00">Committee on Agriculture, Nutrition, and Forestry:</committee-name></header><text>Ms. Stabenow (Chair), Mr. Leahy, Mr. Brown, Ms. Klobuchar, Mr. Bennet, Mrs. Gillibrand, Ms. Smith, Mr. Durbin, Mr. Booker, Mr. Luján, Mr. Warnock.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header><committee-name committee-id="SSAP00">Committee on Appropriations:</committee-name></header><text>Mr. Leahy (Chair), Mrs. Murray, Mrs. Feinstein, Mr. Durbin, Mr. Reed, Mr. Tester, Mrs. Shaheen, Mr. Merkley, Mr. Coons, Mr. Schatz, Ms. Baldwin, Mr. Murphy, Mr. Manchin, Mr. Van Hollen, Mr. Heinrich.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header><committee-name committee-id="SSAS00">Committee on Armed Services:</committee-name></header><text>Mr. Reed (Chair), Mrs. Shaheen, Mrs. Gillibrand, Mr. Blumenthal, Ms. Hirono, Mr. Kaine, Mr. King, Ms. Warren, Mr. Peters, Mr. Manchin, Ms. Duckworth, Ms. Rosen, Mr. Kelly.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header><committee-name committee-id="SSHR00">Committee on Banking, Housing, and Urban Affairs:</committee-name></header><text>Mr. Brown (Chair), Mr. Reed, Mr. Menendez, Mr. Tester, Mr. Warner, Ms. Warren, Mr. Van Hollen, Ms. Cortez Masto, Ms. Smith, Ms. Sinema, Mr. Ossoff, Mr. Warnock.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header><committee-name committee-id="SSCM00">Committee on Commerce, Science, and Transportation:</committee-name></header><text>Ms. Cantwell (Chair), Ms. Klobuchar, Mr. Blumenthal, Mr. Schatz, Mr. Markey, Mr. Peters, Ms. Baldwin, Ms. Duckworth, Mr. Tester, Ms. Sinema, Ms. Rosen, Mr. Luján, Mr. Hickenlooper, Mr. Warnock.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header><committee-name committee-id="SSEG00">Committee on Energy and Natural Resources:</committee-name></header><text>Mr. Manchin (Chair), Mr. Wyden, Ms. Cantwell, Mr. Sanders, Mr. Heinrich, Ms. Hirono, Mr. King, Ms. Cortez Masto, Mr. Kelly, Mr. Hickenlooper.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header><committee-name committee-id="SSEV00">Committee on the Environment and Public Works:</committee-name></header><text>Mr. Carper (Chair), Mr. Cardin, Mr. Sanders, Mr. Whitehouse, Mr. Merkley, Mr. Markey, Ms. Duckworth, Ms. Stabenow, Mr. Kelly, Mr. Padilla.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header><committee-name committee-id="SSFI00">Committee on Finance:</committee-name></header><text>Mr. Wyden (Chair), Ms. Stabenow, Ms. Cantwell, Mr. Menendez, Mr. Carper, Mr. Cardin, Mr. Brown, Mr. Bennet, Mr. Casey, Mr. Warner, Mr. Whitehouse, Ms. Hassan, Ms. Cortez Masto, Ms. Warren.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header><committee-name committee-id="SSFR00">Committee on Foreign Relations:</committee-name></header><text>Mr. Menendez (Chair), Mr. Cardin, Mrs. Shaheen, Mr. Coons, Mr. Murphy, Mr. Kaine, Mr. Markey, Mr. Merkley, Mr. Booker, Mr. Schatz, Mr. Van Hollen.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header><committee-name committee-id="SSHR00">Committee on Health, Education, Labor, and Pensions:</committee-name></header><text>Mrs. Murray (Chair), Mr. Sanders, Mr. Casey, Ms. Baldwin, Mr. Murphy, Mr. Kaine, Ms. Hassan, Ms. Smith, Ms. Rosen, Mr. Luján, Mr. Hickenlooper.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header><committee-name committee-id="SSGA00">Committee on Homeland Security and Governmental Affairs:</committee-name></header><text>Mr. Peters (Chair), Mr. Carper, Ms. Hassan, Ms. Sinema, Ms. Rosen, Mr. Padilla, Mr. Ossoff.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header><committee-name committee-id="SLIN00">Select Committee on Intelligence:</committee-name></header><text>Mr. Warner (Chair), Mrs. Feinstein, Mr. Wyden, Mr. Heinrich, Mr. King, Mr. Bennet, Mr. Casey, Mrs. Gillibrand, Mr. Reed (ex officio), Mr. Schumer (ex officio).</text></committee-appointment-paragraph> <committee-appointment-paragraph><header><committee-name committee-id="SSJU00">Committee on the Judiciary:</committee-name></header><text>Mr. Durbin (Chair), Mr. Leahy, Mrs. Feinstein, Mr. Whitehouse, Ms. Klobuchar, Mr. Coons, Mr. Blumenthal, Ms. Hirono, Mr. Booker, Mr. Padilla, Mr. Ossoff.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header><committee-name committee-id="SSBU00">Committee on the Budget:</committee-name></header><text>Mr. Sanders (Chair), Mrs. Murray, Mr. Wyden, Ms. Stabenow, Mr. Whitehouse, Mr. Warner, Mr. Merkley, Mr. Kaine, Mr. Van Hollen, Mr. Luján, Mr. Padilla.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header><committee-name committee-id="SSRA00">Committee on Rules and Administration:</committee-name></header><text>Ms. Klobuchar (Chair), Mrs. Feinstein, Mr. Schumer, Mr. Warner, Mr. Leahy, Mr. King, Mr. Merkley, Mr. Padilla, Mr. Ossoff.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header><committee-name committee-id="SSSB00">Committee on Small Business and Entrepreneurship:</committee-name></header><text>Mr. Cardin (Chair), Ms. Cantwell, Mrs. Shaheen, Mr. Markey, Mr. Booker, Mr. Coons, Ms. Hirono, Ms. Duckworth, Ms. Rosen, Mr. Hickenlooper. </text></committee-appointment-paragraph> <committee-appointment-paragraph><header><committee-name committee-id="SSVA00">Committee on Veterans' Affairs:</committee-name></header><text>Mr. Tester (Chair), Mrs. Murray, Mr. Sanders, Mr. Brown, Mr. Blumenthal, Ms. Hirono, Mr. Manchin, Ms. Sinema, Ms. Hassan.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header><committee-name committee-id="SPAG00">Special Committee on Aging:</committee-name></header><text>Mr. Casey (Chair), Mrs. Gillibrand, Mr. Blumenthal, Ms. Warren, Ms. Rosen, Mr. Kelly, Mr. Warnock.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header><committee-name committee-id="JSEC00">Joint Economic Committee:</committee-name></header><text>Mr. Heinrich (Chair), Ms. Klobuchar, Ms. Hassan, Mr. Kelly, Mr. Warnock.</text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header><committee-name committee-id="SLET00">Select Committee on Ethics:</committee-name></header><text>Mr. Coons (Chair), Mr. Schatz, Mrs. Shaheen.</text></committee-appointment-paragraph> <committee-appointment-paragraph><header><committee-name committee-id="SLIA00">Committee on Indian Affairs:</committee-name></header><text>Mr. Schatz (Chair), Ms. Cantwell, Mr. Tester, Ms. Cortez Masto, Ms. Smith, Mr. Luján.</text></committee-appointment-paragraph>
+
+</section>
+</resolution-body>
+</resolution> 
+
+
