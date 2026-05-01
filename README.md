@@ -56,11 +56,6 @@ Last date on which a change in the committee roster was detected by the daily up
 poetry install
 ```
 
-Then populate the House snapshot archive (not included in the repo due to size — 80 MB):
-
-```sh
-make download
-```
 
 ## Usage
 
