@@ -368,7 +368,8 @@ def parse_committee_snapshots():
             print(f"    XML error {path.name}: {exc}")
             continue
 
-        committees_el = root.find("committees") or root
+        found = root.find("committees")
+        committees_el = found if found is not None else root
         comm_name = (committees_el.findtext("committee_name") or "").strip()
         comm_code = (committees_el.findtext("committee_code") or "").strip()
 
