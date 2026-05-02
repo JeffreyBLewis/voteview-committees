@@ -29,10 +29,11 @@ Builds **committee spell data** for the U.S. House and Senate — one row per me
 | `party` | Party abbreviation |
 | `committee_name` | Full committee name |
 | `committee_code` | Clerk/Secretary committee code |
+| `committee_rank` | Member's ordinal position within the committee as listed in the election resolution |
 | `resolution` | H.Res / S.Res that established this assignment |
 | `resolution_date` | Date the resolution was agreed to |
 
-Senate spells also include `senator_class` and `position`. House spells also include `district`, `committee_rank`, `role`, `cr_citation`, and `resignation_date`.
+Senate spells also include `senator_class` and `position`. House spells also include `district`, `role`, `cr_citation`, and `resignation_date`.
 
 ## Data currency
 
