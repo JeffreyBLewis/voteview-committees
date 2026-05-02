@@ -24,7 +24,18 @@ from pathlib import Path
 
 SOURCE_URL = "https://clerk.house.gov/xml/lists/MemberData.xml"
 OUTPUT_DIR = Path("MemberData_snapshots")
+README     = Path("../README.md")
 USER_AGENT = "Mozilla/5.0 (research bot; jeffreybyronlewis@gmail.com)"
+
+
+def update_readme_date(marker: str, date_str: str) -> None:
+    text = README.read_text(encoding="utf-8")
+    updated = re.sub(
+        rf"(<!-- {marker} -->)[^<]*(<!-- /{marker} -->)",
+        rf"\g<1>{date_str}\g<2>",
+        text,
+    )
+    README.write_text(updated, encoding="utf-8")
 
 
 def fetch_current() -> bytes:
@@ -54,6 +65,9 @@ def latest_snapshot(output_dir: Path):
 def main():
     OUTPUT_DIR.mkdir(exist_ok=True)
 
+    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    update_readme_date("house-last-attempted", today)
+
     print(f"Fetching {SOURCE_URL} …", flush=True)
     try:
         raw = fetch_current()
@@ -77,6 +91,7 @@ def main():
     with gzip.open(dest, "wb") as f:
         f.write(raw)
     print(f"Saved → {dest.name}  ({dest.stat().st_size / 1024:.1f} KB compressed)")
+    update_readme_date("house-roster-date", today)
     Path(".roster_changed").touch()
 
 

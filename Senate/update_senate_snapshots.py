@@ -29,6 +29,17 @@ from pathlib import Path
 
 COMM_DIR    = Path("SenateCommittees_snapshots")
 SENATOR_DIR = Path("SenatorData_snapshots")
+README      = Path("../README.md")
+
+
+def update_readme_date(marker: str, date_str: str) -> None:
+    text = README.read_text(encoding="utf-8")
+    updated = re.sub(
+        rf"(<!-- {marker} -->)[^<]*(<!-- /{marker} -->)",
+        rf"\g<1>{date_str}\g<2>",
+        text,
+    )
+    README.write_text(updated, encoding="utf-8")
 
 COMM_URL    = ("https://www.senate.gov/general/committee_membership/"
                "committee_memberships_{code}.xml")
@@ -91,6 +102,9 @@ def main():
     if not codes:
         sys.exit(f"No committee snapshot files found in {COMM_DIR}")
 
+    today = datetime.now().strftime("%Y-%m-%d")
+    update_readme_date("senate-last-attempted", today)
+
     print(f"Fetching {len(codes)} committee rosters + senator directory …\n")
 
     saved = unchanged = errors = 0
@@ -130,6 +144,7 @@ def main():
 
     print(f"\n  Saved: {saved}   Unchanged: {unchanged}   Errors: {errors}")
     if saved:
+        update_readme_date("senate-roster-date", today)
         Path(".roster_changed").touch()
 
 

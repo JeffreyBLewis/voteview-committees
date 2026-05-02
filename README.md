@@ -36,12 +36,10 @@ Senate spells also include `senator_class` and `position`. House spells also inc
 
 ## Data currency
 
-Last date on which a change in the committee roster was detected by the daily update:
-
-| Chamber | Last roster change |
-|---|---|
-| House | <!-- house-roster-date -->2026-05-01<!-- /house-roster-date --> |
-| Senate | <!-- senate-roster-date -->2026-05-01<!-- /senate-roster-date --> |
+| Chamber | Last update attempted | Last roster change |
+|---|---|---|
+| House | <!-- house-last-attempted -->2026-05-01<!-- /house-last-attempted --> | <!-- house-roster-date -->2026-05-01<!-- /house-roster-date --> |
+| Senate | <!-- senate-last-attempted -->2026-05-01<!-- /senate-last-attempted --> | <!-- senate-roster-date -->2026-05-01<!-- /senate-roster-date --> |
 
 ## Data sources
 
