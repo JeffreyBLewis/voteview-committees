@@ -67,7 +67,7 @@ CONGRESS_DATES = {
 OUTPUT_FIELDS = [
     "congress", "start_date", "start_date_imputed", "end_date", "departure_reason",
     "bioguide_id", "member_name", "state", "senator_class", "party",
-    "committee_name", "committee_code", "position",
+    "committee_name", "committee_code", "committee_rank", "position",
     "resolution", "resolution_date",
 ]
 
@@ -417,9 +417,10 @@ def load_elections():
                 continue
             comm = norm_comm(row["committee"])
             rec  = {
-                "resolution":      row["resolution"],
-                "resolution_date": row["date"],
+                "resolution":        row["resolution"],
+                "resolution_date":   row["date"],
                 "party_designation": row.get("party_designation", ""),
+                "rank":              row.get("rank", ""),
             }
             for ln in lastname_variants(row["member"]):
                 for key_ln in {ln, ascii_fold(ln)}:
@@ -535,6 +536,7 @@ def build_spells(obs, comm_meta, senator_lookup, elec, snaps_by_cong, senator_la
 
         resolution      = elec_rec["resolution"]      if elec_rec else ""
         resolution_date = elec_rec["resolution_date"] if elec_rec else ""
+        committee_rank  = elec_rec["rank"]            if elec_rec else ""
 
         if resolution_date:
             start_date = resolution_date
@@ -572,6 +574,7 @@ def build_spells(obs, comm_meta, senator_lookup, elec, snaps_by_cong, senator_la
             "party":               last_party or s_info.get("party", ""),
             "committee_name":      comm_name,
             "committee_code":      comm_code,
+            "committee_rank":      committee_rank,
             "position":            last_pos,
             "resolution":          resolution,
             "resolution_date":     resolution_date,
