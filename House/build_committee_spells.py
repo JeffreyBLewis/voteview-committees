@@ -187,7 +187,7 @@ def parse_snapshots():
                 "member_name":   (mi.findtext("official-name") or "").strip(),
                 "lastname":      (mi.findtext("lastname") or "").strip().lower(),
                 "state":         state,
-                "district":      (mi.findtext("district") or "").strip(),
+                "district":      re.sub(r"(?<=\d)(st|nd|rd|th)$", "", (mi.findtext("district") or "").strip(), flags=re.IGNORECASE),
                 "party":         (mi.findtext("party") or "").strip(),
             }
             # Keep the most recent record for each bioguide
