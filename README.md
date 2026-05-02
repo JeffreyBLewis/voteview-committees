@@ -29,7 +29,7 @@ Builds **committee spell data** for the U.S. House and Senate — one row per me
 | `party` | Party abbreviation |
 | `committee_name` | Full committee name |
 | `committee_code` | Clerk/Secretary committee code |
-| `committee_rank` | Member's ordinal position within the committee as listed in the election resolution |
+| `committee_rank` | Member's ordinal position within the committee; from the election resolution when available, otherwise from the roster snapshot |
 | `resolution` | H.Res / S.Res that established this assignment |
 | `resolution_date` | Date the resolution was agreed to |
 

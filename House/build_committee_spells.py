@@ -235,6 +235,7 @@ def load_elections():
                 "resolution":      row["resolution"],
                 "resolution_date": row["date"],
                 "role":            row.get("role", ""),
+                "rank":            row.get("rank", ""),
             }
             for ln in lastname_variants(row["member"]):
                 key = (cong, ln, comm)
@@ -442,7 +443,7 @@ def build_spells(member_info, obs, elec, resign, comm_codes, pred_info):
             "party":           m_info.get("party", ""),
             "committee_name":  comm_full,
             "committee_code":  comcode,
-            "committee_rank":  last_rank,
+            "committee_rank":  elec_rec["rank"] if elec_rec and elec_rec["rank"] else last_rank,
             "role":            role,
             "resolution":      resolution,
             "resolution_date": resolution_date,
