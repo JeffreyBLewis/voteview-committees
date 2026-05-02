@@ -13,7 +13,7 @@ and extracts:
   - granule_id    : GovInfo granule identifier
   - package_id    : GovInfo package identifier
 
-Output: resignations.csv
+Output: house_resignations.csv
 
 Usage:
     python parse_cr_resignations.py
@@ -25,7 +25,7 @@ from datetime import datetime
 from pathlib import Path
 
 INPUT_DIR = Path("cr_resignations")
-OUTPUT_CSV = Path("resignations.csv")
+OUTPUT_CSV = Path("house_resignations.csv")
 
 MONTHS = {m: i for i, m in enumerate(
     ["January","February","March","April","May","June",
@@ -315,7 +315,7 @@ def main():
         except Exception as exc:
             errors.append((path.name, str(exc)))
 
-    rows.sort(key=lambda r: r["date"])
+    rows.sort(key=lambda r: (r["date"], r["congress"], r["member_name"], r["cr_citation"]))
 
     fields = ["date", "congress", "member_name", "committees",
               "cr_citation", "uri", "granule_id", "package_id"]

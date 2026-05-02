@@ -609,7 +609,7 @@ def main():
     print("Building spells …")
     spells = build_spells(obs, comm_meta, senator_lookup, elec, snaps_by_cong, senator_last_seen, res_index)
     spells.sort(key=lambda r: (r["congress"], r["start_date"],
-                               r["member_name"], r["committee_name"]))
+                               r["bioguide_id"], r["committee_code"]))
     print(f"  {len(spells):,} spells")
 
     with open(OUTPUT_CSV, "w", newline="", encoding="utf-8") as f:

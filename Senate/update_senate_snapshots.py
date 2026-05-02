@@ -129,6 +129,8 @@ def main():
         errors += 1
 
     print(f"\n  Saved: {saved}   Unchanged: {unchanged}   Errors: {errors}")
+    if saved:
+        Path(".roster_changed").touch()
 
 
 if __name__ == "__main__":

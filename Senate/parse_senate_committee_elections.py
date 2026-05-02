@@ -336,7 +336,7 @@ def main():
         except Exception as exc:
             errors.append((path.name, str(exc)))
 
-    all_rows.sort(key=lambda r: (str(r["date"]), str(r["congress"]), r["resolution"]))
+    all_rows.sort(key=lambda r: (str(r["date"]), str(r["congress"]), r["resolution"], r["committee"], r["member"]))
 
     fields = ["congress", "date", "resolution", "party_designation",
               "committee", "member", "rank", "role"]

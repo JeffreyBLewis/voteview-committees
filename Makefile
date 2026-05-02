@@ -2,37 +2,49 @@
 #
 # Targets
 # -------
-#   all                  (default) Fetch latest data, then rebuild any CSV that is
-#                        out-of-date with respect to its inputs.
-#   download             Fetch new snapshots from live sources only; do not rebuild.
-#   download-elections   Download (and parse) H.Res and S.Res committee assignments
-#                        from congress.gov; run only when roster changes.
-#   download-resignations Download (and parse) CR resignation references from GovInfo;
-#                        run only when roster changes.
+#   all                  (default) Full update: check for roster changes, download
+#                        any new elections/resignations, rebuild stale CSVs.
+#                        Requires CONGRESS_GOV_API_KEY when roster changes.
+#   download             Check for snapshot changes; if any, download new election
+#                        resolutions and resignations automatically.
+#   download-elections   Force-download H.Res and S.Res election XMLs from
+#                        congress.gov regardless of roster change detection.
+#   download-resignations Force-download CR resignation HTMLs from GovInfo
+#                        regardless of roster change detection.
 #   spells               Rebuild stale CSVs from current inputs; do not fetch.
-#   house-spells         Rebuild House/committee_spells.csv if inputs changed.
+#   house-spells         Rebuild House/house_committee_spells.csv if inputs changed.
 #   senate-spells        Rebuild Senate/senate_committee_spells.csv if inputs changed.
 #   senate-elections     Reparse Senate/senate_elections.csv from election XMLs.
-#   clean                Remove all generated CSV outputs.
 #
 # How "only if necessary" works
 # ------------------------------
-# The download scripts save a new snapshot only when its content has changed.
-# 'all' runs download, then re-invokes make for spells so that any newly-saved
-# snapshot files are included in wildcard expansion before timestamps are checked.
-# If no new snapshots were saved, no CSVs are rebuilt.
+# Snapshot download scripts save a new file only when content has changed, and
+# touch .roster_changed when they do. 'download' checks that sentinel: if present,
+# it downloads new election resolutions and resignations, then removes it.
+# 'spells' rebuilds only CSVs whose inputs are newer than the output.
+# 'all' runs download then spells as separate make invocations so that any newly
+# saved files are visible to wildcard expansion before timestamps are checked.
 
 PYTHON = poetry run python3
 HOUSE  = House
 SENATE = Senate
 
+# ── Sentinel files written by download scripts when new snapshots are saved ───
+HOUSE_CHANGED  = $(HOUSE)/.roster_changed
+SENATE_CHANGED = $(SENATE)/.roster_changed
+
 # ── Generated outputs ─────────────────────────────────────────────────────────
-HOUSE_SPELLS  = $(HOUSE)/committee_spells.csv
+HOUSE_ELEC    = $(HOUSE)/house_elections.csv
+HOUSE_RESIGN  = $(HOUSE)/house_resignations.csv
+HOUSE_SPELLS  = $(HOUSE)/house_committee_spells.csv
 SENATE_ELEC   = $(SENATE)/senate_elections.csv
 SENATE_SPELLS = $(SENATE)/senate_committee_spells.csv
 
 # ── Inputs for timestamp-based dependency tracking ────────────────────────────
 HOUSE_SNAPS       = $(wildcard $(HOUSE)/MemberData_snapshots/*.xml.gz)
+HOUSE_ELEC_SRC    = $(wildcard $(HOUSE)/committee_elections_xml/*.xml) \
+                    $(wildcard $(HOUSE)/committee_elections_xml/*.html)
+HOUSE_RESIGN_SRC  = $(wildcard $(HOUSE)/cr_resignations/*.html)
 SENATE_COMM_SNAPS = $(wildcard $(SENATE)/SenateCommittees_snapshots/*.xml)
 SENATE_SEN_SNAPS  = $(wildcard $(SENATE)/SenatorData_snapshots/*.xml)
 SENATE_ELEC_SRC   = $(wildcard $(SENATE)/senate_committee_elections_xml/*.xml) \
@@ -40,33 +52,45 @@ SENATE_ELEC_SRC   = $(wildcard $(SENATE)/senate_committee_elections_xml/*.xml) \
 
 # ─────────────────────────────────────────────────────────────────────────────
 .DEFAULT_GOAL := all
-.PHONY: all install download download-elections download-resignations spells house-spells senate-spells senate-elections clean
+.PHONY: all install download download-elections download-resignations spells house-spells senate-spells senate-elections
 
 # Install Python dependencies via Poetry (run once, or after pyproject.toml changes).
 install:
 	poetry install
 
-# Two-pass: download may add new snapshot files; spells is a fresh invocation
-# so wildcard expansion sees those files when evaluating dependencies.
+# Two-pass: download may add new snapshot and source files; spells is a fresh
+# invocation so wildcard expansion sees those files when evaluating dependencies.
 all:
 	$(MAKE) download
 	$(MAKE) spells
 
-# ── Fetch live data ───────────────────────────────────────────────────────────
+# ── Fetch snapshots; if roster changed, fetch elections and resignations ───────
 download:
 	@echo "=== House: checking for MemberData updates ==="
 	cd $(HOUSE) && $(PYTHON) download_memberdata_current.py
 	@echo ""
 	@echo "=== Senate: checking for snapshot updates ==="
 	cd $(SENATE) && $(PYTHON) update_senate_snapshots.py
+	@if [ -f $(HOUSE_CHANGED) ]; then \
+		echo "" ; \
+		echo "=== House: roster changed — downloading election resolutions ===" ; \
+		(cd $(HOUSE) && $(PYTHON) download_committee_elections.py) ; \
+		echo "=== House: downloading CR resignation references ===" ; \
+		$(PYTHON) $(HOUSE)/download_cr_resignations.py ; \
+		rm -f $(HOUSE_CHANGED) ; \
+	fi
+	@if [ -f $(SENATE_CHANGED) ]; then \
+		echo "" ; \
+		echo "=== Senate: roster changed — downloading election resolutions ===" ; \
+		(cd $(SENATE) && $(PYTHON) download_senate_committee_elections.py) ; \
+		rm -f $(SENATE_CHANGED) ; \
+	fi
 
-# ── Fetch election resolutions and resignations (run when roster changes) ─────
+# ── Force-download elections/resignations regardless of roster change ──────────
 # Requires CONGRESS_GOV_API_KEY to be set in the environment.
 download-elections:
 	@echo "=== House: downloading committee election resolutions ==="
 	cd $(HOUSE) && $(PYTHON) download_committee_elections.py
-	@echo "=== House: parsing elections.csv ==="
-	cd $(HOUSE) && $(PYTHON) parse_committee_elections.py
 	@echo ""
 	@echo "=== Senate: downloading committee election resolutions ==="
 	cd $(SENATE) && $(PYTHON) download_senate_committee_elections.py
@@ -74,21 +98,32 @@ download-elections:
 download-resignations:
 	@echo "=== House: downloading CR resignation references ==="
 	$(PYTHON) $(HOUSE)/download_cr_resignations.py
-	@echo "=== House: parsing resignations.csv ==="
-	cd $(HOUSE) && $(PYTHON) parse_cr_resignations.py
 
 # ── Rebuild stale outputs ─────────────────────────────────────────────────────
 spells: $(HOUSE_SPELLS) $(SENATE_SPELLS)
 
-# House: rebuild if any MemberData snapshot, elections, or resignations changed.
+# House elections: reparse only when election XML/HTML source files change.
+house-elections: $(HOUSE_ELEC)
+
+$(HOUSE_ELEC): $(HOUSE_ELEC_SRC)
+	@echo "=== House: parsing house_elections.csv ==="
+	cd $(HOUSE) && $(PYTHON) parse_committee_elections.py
+
+# House resignations: reparse only when CR HTML source files change.
+house-resignations: $(HOUSE_RESIGN)
+
+$(HOUSE_RESIGN): $(HOUSE_RESIGN_SRC)
+	@echo "=== House: parsing house_resignations.csv ==="
+	cd $(HOUSE) && $(PYTHON) parse_cr_resignations.py
+
+# House spells: rebuild if any MemberData snapshot, elections, or resignations changed.
 house-spells: $(HOUSE_SPELLS)
 
-$(HOUSE_SPELLS): $(HOUSE_SNAPS) $(HOUSE)/elections.csv $(HOUSE)/resignations.csv
-	@echo "=== House: building committee_spells.csv ==="
+$(HOUSE_SPELLS): $(HOUSE_SNAPS) $(HOUSE_ELEC) $(HOUSE_RESIGN)
+	@echo "=== House: building house_committee_spells.csv ==="
 	cd $(HOUSE) && $(PYTHON) build_committee_spells.py
 
 # Senate elections: reparse only when election XML/HTML source files change.
-# (These are updated separately via the congress.gov download scripts.)
 senate-elections: $(SENATE_ELEC)
 
 $(SENATE_ELEC): $(SENATE_ELEC_SRC)
@@ -101,8 +136,3 @@ senate-spells: $(SENATE_SPELLS)
 $(SENATE_SPELLS): $(SENATE_COMM_SNAPS) $(SENATE_SEN_SNAPS) $(SENATE_ELEC)
 	@echo "=== Senate: building senate_committee_spells.csv ==="
 	cd $(SENATE) && $(PYTHON) build_senate_committee_spells.py
-
-# ── Clean ─────────────────────────────────────────────────────────────────────
-clean:
-	rm -f $(HOUSE_SPELLS) $(SENATE_ELEC) $(SENATE_SPELLS)
-	@echo "Removed generated CSV outputs."

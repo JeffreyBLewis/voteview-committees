@@ -8,7 +8,10 @@ Builds **committee spell data** for the U.S. House and Senate — one row per me
 
 | File | Description |
 |---|---|
-| `House/committee_spells.csv` | House committee spells |
+| `House/house_elections.csv` | House committee election resolutions (H.Res) |
+| `House/house_resignations.csv` | House committee resignation citations |
+| `House/house_committee_spells.csv` | House committee spells |
+| `Senate/senate_elections.csv` | Senate committee election resolutions (S.Res) |
 | `Senate/senate_committee_spells.csv` | Senate committee spells |
 
 ### Spell fields
@@ -60,16 +63,23 @@ poetry install
 ## Usage
 
 ```sh
-make          # fetch latest data, rebuild CSVs only if inputs changed
-make download # fetch only
-make spells   # rebuild stale CSVs without fetching
-make clean    # remove generated CSVs
+make          # full update: check for roster changes, download elections/resignations
+              # if the roster changed, then rebuild any stale CSVs
+make download # check for roster changes and conditionally download elections/resignations
+make spells   # rebuild stale CSVs from current inputs without fetching
 ```
 
-The `congress.gov` download scripts require an API key:
+When the roster changes, `make` and `make download` automatically download new election
+resolutions and resignations. This requires a congress.gov API key:
 
 ```sh
 export CONGRESS_GOV_API_KEY=<your_key>
-cd Senate && poetry run python3 download_senate_committee_elections.py
-cd House  && poetry run python3 download_committee_elections.py
+make
+```
+
+To force-download elections or resignations regardless of roster change detection:
+
+```sh
+make download-elections    # re-fetch H.Res and S.Res election XMLs
+make download-resignations # re-fetch House CR resignation HTMLs
 ```

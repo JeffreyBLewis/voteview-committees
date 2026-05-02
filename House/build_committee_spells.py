@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 """
-Build committee_spells.csv — one row per member × committee × congress.
+Build house_committee_spells.csv — one row per member × committee × congress.
 
 Sources
 -------
   MemberData_snapshots/MemberData_*.xml   member info and committee assignments
-  elections.csv                            resolution numbers and dates
-  resignations.csv                         CR citations and resignation dates
+  house_elections.csv                      resolution numbers and dates
+  house_resignations.csv                   CR citations and resignation dates
   house_committee_codes.json               committee code → full name
 
 Logic
@@ -14,17 +14,17 @@ Logic
   Spells are derived from roster snapshots: a spell exists for every
   (bioguide, comcode, congress) tuple observed in at least one snapshot.
 
-  start_date: resolution date from elections.csv if a match is found;
+  start_date: resolution date from house_elections.csv if a match is found;
               otherwise the date of the first snapshot in that congress.
 
-  end_date:   resignation date from resignations.csv if a match is found;
+  end_date:   resignation date from house_resignations.csv if a match is found;
               otherwise the last day of the congress (for completed congresses);
               blank for the current congress.
 
   Committee rank and leadership role are taken from the last snapshot within
   the congress so they reflect the member's final position.
 
-Output: committee_spells.csv
+Output: house_committee_spells.csv
 """
 
 import csv
@@ -38,9 +38,9 @@ from pathlib import Path
 
 SNAPSHOT_DIR  = Path("MemberData_snapshots")
 COMM_CODES_FILE = Path("house_committee_codes.json")
-ELECTIONS_CSV   = Path("elections.csv")
-RESIGNATIONS_CSV = Path("resignations.csv")
-OUTPUT_CSV      = Path("committee_spells.csv")
+ELECTIONS_CSV   = Path("house_elections.csv")
+RESIGNATIONS_CSV = Path("house_resignations.csv")
+OUTPUT_CSV      = Path("house_committee_spells.csv")
 
 # Inclusive start, exclusive end (day after last session) for each congress.
 # End date is None for the current (ongoing) congress.
@@ -480,7 +480,7 @@ def main():
 
     print("Building spells …")
     spells = build_spells(member_info, obs, elec, resign, comm_codes, pred_info)
-    spells.sort(key=lambda r: (r["congress"], r["start_date"], r["member_name"], r["committee_name"]))
+    spells.sort(key=lambda r: (r["congress"], r["start_date"], r["bioguide_id"], r["committee_code"]))
     print(f"  {len(spells):,} spells")
 
     with open(OUTPUT_CSV, "w", newline="", encoding="utf-8") as f:

@@ -15,7 +15,7 @@ One row per member–committee assignment. Fields:
 Usage:
     python parse_committee_elections.py
 
-Output: elections.csv
+Output: house_elections.csv
 """
 
 import csv
@@ -25,7 +25,7 @@ from datetime import datetime
 from pathlib import Path
 
 INPUT_DIR = Path("committee_elections_xml")
-OUTPUT_CSV = Path("elections.csv")
+OUTPUT_CSV = Path("house_elections.csv")
 
 
 # ---------------------------------------------------------------------------
@@ -376,7 +376,7 @@ def main():
         except Exception as exc:
             errors.append((path.name, str(exc)))
 
-    all_rows.sort(key=lambda r: (str(r["date"]), str(r["congress"]), r["resolution"]))
+    all_rows.sort(key=lambda r: (str(r["date"]), str(r["congress"]), r["resolution"], r["committee"], r["member"]))
 
     fields = ["congress", "date", "resolution", "committee", "member", "rank", "role", "rank_after"]
     with open(OUTPUT_CSV, "w", newline="", encoding="utf-8") as f:

@@ -77,6 +77,7 @@ def main():
     with gzip.open(dest, "wb") as f:
         f.write(raw)
     print(f"Saved → {dest.name}  ({dest.stat().st_size / 1024:.1f} KB compressed)")
+    Path(".roster_changed").touch()
 
 
 if __name__ == "__main__":
