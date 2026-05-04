@@ -27,9 +27,11 @@ Builds **committee spell data** for the U.S. House and Senate — one row per me
 | `member_name` | Member name |
 | `state` | State abbreviation |
 | `party` | Party abbreviation |
+| `party_designation` | `majority` or `minority` based on member party vs. chamber majority (Senate: from election resolution; House: derived from party) |
 | `committee_name` | Full committee name |
 | `committee_code` | Clerk/Secretary committee code |
-| `committee_rank` | Member's ordinal position within the committee; from the election resolution when available, otherwise from the roster snapshot |
+| `resolution_rank` | Member's ordinal position within the committee as listed in the election resolution (blank if no matching resolution found) |
+| `roster_snapshot_rank` | Member's ordinal position as recorded in the most recent roster snapshot within the congress (House only; blank for Senate) |
 | `resolution` | H.Res / S.Res that established this assignment |
 | `resolution_date` | Date the resolution was agreed to |
 

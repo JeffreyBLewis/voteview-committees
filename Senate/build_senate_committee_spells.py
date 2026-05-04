@@ -66,8 +66,8 @@ CONGRESS_DATES = {
 
 OUTPUT_FIELDS = [
     "congress", "start_date", "start_date_imputed", "end_date", "departure_reason",
-    "bioguide_id", "member_name", "state", "senator_class", "party",
-    "committee_name", "committee_code", "committee_rank", "position",
+    "bioguide_id", "member_name", "state", "senator_class", "party", "party_designation",
+    "committee_name", "committee_code", "resolution_rank", "roster_snapshot_rank", "position",
     "resolution", "resolution_date",
 ]
 
@@ -534,9 +534,16 @@ def build_spells(obs, comm_meta, senator_lookup, elec, snaps_by_cong, senator_la
                 elec_rec = elec[key]
                 break
 
-        resolution      = elec_rec["resolution"]      if elec_rec else ""
-        resolution_date = elec_rec["resolution_date"] if elec_rec else ""
-        committee_rank  = elec_rec["rank"]            if elec_rec else ""
+        resolution        = elec_rec["resolution"]        if elec_rec else ""
+        resolution_date   = elec_rec["resolution_date"]   if elec_rec else ""
+        committee_rank    = elec_rec["rank"]               if elec_rec else ""
+        party_designation = elec_rec["party_designation"] if elec_rec else ""
+        if not party_designation:
+            senator_party = last_party or s_info.get("party", "")
+            maj = MAJORITY_PARTY.get(congress, "")
+            # Independents (Sanders, King) caucus with Democrats
+            is_maj = (senator_party == maj) or (senator_party == "I" and maj == "D")
+            party_designation = "majority" if is_maj else "minority"
 
         if resolution_date:
             start_date = resolution_date
@@ -572,9 +579,11 @@ def build_spells(obs, comm_meta, senator_lookup, elec, snaps_by_cong, senator_la
             "state":               state.upper(),
             "senator_class":       s_info.get("senator_class", ""),
             "party":               last_party or s_info.get("party", ""),
+            "party_designation":   party_designation,
             "committee_name":      comm_name,
             "committee_code":      comm_code,
-            "committee_rank":      committee_rank,
+            "resolution_rank":     committee_rank,
+            "roster_snapshot_rank": "",
             "position":            last_pos,
             "resolution":          resolution,
             "resolution_date":     resolution_date,

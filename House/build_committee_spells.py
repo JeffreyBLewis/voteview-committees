@@ -31,6 +31,7 @@ import csv
 import gzip
 import json
 import re
+import unicodedata
 import xml.etree.ElementTree as ET
 from collections import defaultdict
 from datetime import date, datetime
@@ -53,10 +54,36 @@ CONGRESS_DATES = {
     119: (date(2025, 1,  3), None),
 }
 
+# Which party held the House majority in each congress.
+MAJORITY_PARTY = {
+    114: "R", 115: "R",
+    116: "D", 117: "D",
+    118: "R", 119: "R",
+}
+
+# State postal abbreviation → lowercase full name (for "of State" key building).
+_STATE_NAMES = {
+    "AL": "alabama", "AK": "alaska", "AZ": "arizona", "AR": "arkansas",
+    "CA": "california", "CO": "colorado", "CT": "connecticut", "DE": "delaware",
+    "FL": "florida", "GA": "georgia", "HI": "hawaii", "ID": "idaho",
+    "IL": "illinois", "IN": "indiana", "IA": "iowa", "KS": "kansas",
+    "KY": "kentucky", "LA": "louisiana", "ME": "maine", "MD": "maryland",
+    "MA": "massachusetts", "MI": "michigan", "MN": "minnesota", "MS": "mississippi",
+    "MO": "missouri", "MT": "montana", "NE": "nebraska", "NV": "nevada",
+    "NH": "new hampshire", "NJ": "new jersey", "NM": "new mexico", "NY": "new york",
+    "NC": "north carolina", "ND": "north dakota", "OH": "ohio", "OK": "oklahoma",
+    "OR": "oregon", "PA": "pennsylvania", "RI": "rhode island", "SC": "south carolina",
+    "SD": "south dakota", "TN": "tennessee", "TX": "texas", "UT": "utah",
+    "VT": "vermont", "VA": "virginia", "WA": "washington", "WV": "west virginia",
+    "WI": "wisconsin", "WY": "wyoming", "DC": "district of columbia",
+    "PR": "puerto rico", "GU": "guam", "VI": "virgin islands",
+    "AS": "american samoa", "MP": "northern mariana islands",
+}
+
 OUTPUT_FIELDS = [
     "congress", "start_date", "start_date_imputed", "end_date", "departure_reason",
-    "bioguide_id", "member_name", "state", "district", "party",
-    "committee_name", "committee_code", "committee_rank", "role",
+    "bioguide_id", "member_name", "state", "district", "party", "party_designation",
+    "committee_name", "committee_code", "resolution_rank", "roster_snapshot_rank", "role",
     "resolution", "resolution_date",
     "cr_citation", "resignation_date",
 ]
@@ -105,23 +132,38 @@ def norm_comm(s: str) -> str:
     return _COMM_ALIASES.get(s, s)
 
 
-_TITLE_PREFIX = re.compile(r"^(Mr\.|Ms\.|Mrs\.|Miss\.|Dr\.)\s+", re.IGNORECASE)
+_TITLE_PREFIX = re.compile(r"^(Mr\.|Ms\.|Mrs\.|Miss\.?|Dr\.)\s+", re.IGNORECASE)
 _PARENTHETICAL = re.compile(r"\(.*?\)")
 _OF_STATE = re.compile(r"\s+of\s+\S.*$", re.IGNORECASE)
+_NAME_SUFFIX = re.compile(r",?\s+(Jr\.?|Sr\.?|I{2,}|IV|V|VI{0,3})\s*$", re.IGNORECASE)
+
+
+def fold_diacritics(s: str) -> str:
+    """Normalize accented characters to their ASCII equivalents (e.g., á → a)."""
+    return unicodedata.normalize("NFD", s).encode("ascii", "ignore").decode("ascii")
 
 
 def lastname_variants(name: str) -> set[str]:
-    """Return a set of lower-case name tokens useful for fuzzy matching."""
+    """Return a set of lower-case ASCII name tokens useful for fuzzy matching.
+
+    When an "of STATENAME" qualifier is present it is preserved as an additional
+    variant (e.g. "davis of california") so that state-qualified names take
+    precedence in lookups over plain last names.
+    """
+    name = fold_diacritics(name)
     name = _TITLE_PREFIX.sub("", name.strip())
     name = _PARENTHETICAL.sub("", name)
-    name = _OF_STATE.sub("", name)
-    name = name.strip().rstrip(".,")
-    parts = name.split()
+    name = _NAME_SUFFIX.sub("", name)
+    name_with_state = name.strip().rstrip(".,")
+    name_plain = _OF_STATE.sub("", name_with_state).strip().rstrip(".,")
+    parts = name_plain.split()
     if not parts:
         return set()
-    variants = {parts[-1].lower(), name.lower()}
+    variants = {parts[-1].lower(), name_plain.lower()}
     if len(parts) >= 2:
         variants.add(" ".join(parts[-2:]).lower())
+    if name_with_state.lower() != name_plain.lower():
+        variants.add(name_with_state.lower())
     return variants
 
 
@@ -147,7 +189,7 @@ def parse_snapshots():
     member_info : dict[bioguide_id, dict]
         Latest known info for each member.
     obs : list[tuple]
-        (snapshot_date, congress, bioguide, comcode, rank_int, leadership_str)
+        (snapshot_date, congress, bioguide, comcode, rank_int, leadership_str, party_str)
     """
     member_info: dict[str, dict] = {}
     obs: list[tuple] = []
@@ -206,42 +248,231 @@ def parse_snapshots():
                 except ValueError:
                     rank = 0
                 leadership = (c.get("leadership") or "").strip()
-                obs.append((snap_date, congress, bio, comcode, rank, leadership))
+                obs.append((snap_date, congress, bio, comcode, rank, leadership, info["party"]))
 
-    return member_info, obs
+    # Build per-congress party lookup: (congress, name_variant) → party
+    # Keyed by all lastname_variants of the member's name so that multi-word names
+    # like "austin scott" disambiguate from plain "scott" collisions.
+    # Keep only the last snapshot per (bio, congress) to capture mid-congress switches.
+    last_snap: dict[tuple, tuple] = {}  # (bio, congress) → (snap_date, party)
+    for snap_date, congress, bio, comcode, rank, leadership, party in obs:
+        bc = (bio, congress)
+        if bc not in last_snap or snap_date > last_snap[bc][0]:
+            last_snap[bc] = (snap_date, party)
+
+    party_by_cong: dict[tuple, str] = {}
+    for (bio, congress), (_, party) in last_snap.items():
+        bio_info = member_info.get(bio, {})
+        member_name = bio_info.get("member_name", "")
+        state = bio_info.get("state", "")
+        if member_name and party:
+            for variant in lastname_variants(member_name):
+                party_by_cong[(congress, variant)] = party
+            # Also store "lastname of statename" for disambiguation when elections
+            # use "Mr. Davis of California" rather than a first name.
+            state_name = _STATE_NAMES.get(state, "")
+            lastname = fold_diacritics(bio_info.get("lastname", "")).lower()
+            if state_name and lastname:
+                party_by_cong[(congress, f"{lastname} of {state_name}")] = party
+
+    return member_info, obs, party_by_cong
 
 
 # ---------------------------------------------------------------------------
 # Load elections
 # ---------------------------------------------------------------------------
 
-def load_elections():
+def _build_within_party_roster(rows_with_idx: list[tuple[int, dict]]) -> dict[int, int]:
+    """
+    Build a within-party seniority roster from election rows for a single party side.
+
+    Base elections (no rank_after) append members in chronological resolution order.
+    Mid-congress additions (rank_after present) are inserted immediately after their
+    named anchor; ties sharing the same anchor are broken by their ordinal rank.
+
+    Returns {global_row_index: within_party_rank}.
+    """
+    sorted_rows = sorted(rows_with_idx,
+                         key=lambda x: (x[1]["date"] or "0", int(x[1]["rank"] or 0)))
+
+    res_groups: dict[tuple, list[tuple[int, dict]]] = {}
+    for idx, row in sorted_rows:
+        key = (row["date"], row["resolution"])
+        res_groups.setdefault(key, []).append((idx, row))
+
+    roster: list[tuple[frozenset, int]] = []
+
+    for key in sorted(res_groups):
+        group = res_groups[key]
+        has_rank_after = any(row["rank_after"] for _, row in group)
+
+        if not has_rank_after:
+            for idx, row in group:
+                roster.append((frozenset(lastname_variants(row["member"])), idx))
+        else:
+            anchor_map: dict[tuple, list[tuple[int, dict]]] = {}
+            for idx, row in group:
+                if row["rank_after"]:
+                    member_vars = frozenset(lastname_variants(row["member"]))
+                    roster[:] = [(nvs, i) for nvs, i in roster if not (nvs & member_vars)]
+                    ak = tuple(sorted(lastname_variants(row["rank_after"])))
+                    anchor_map.setdefault(ak, []).append((idx, row))
+                else:
+                    member_vars = frozenset(lastname_variants(row["member"]))
+                    if not any(nvs & member_vars for nvs, _ in roster):
+                        roster.append((frozenset(lastname_variants(row["member"])), idx))
+
+            anchored: list[tuple[int, list]] = []
+            for ak, additions in anchor_map.items():
+                anchor_vars = set(ak)
+                pos = next(
+                    (i for i, (nvs, _) in enumerate(roster) if nvs & anchor_vars),
+                    len(roster) - 1,
+                )
+                anchored.append((pos, additions))
+
+            for pos, additions in sorted(anchored, key=lambda x: -x[0]):
+                for j, (idx, row) in enumerate(additions):
+                    roster.insert(pos + 1 + j,
+                                  (frozenset(lastname_variants(row["member"])), idx))
+
+    return {idx: rank for rank, (_, idx) in enumerate(roster, 1)}
+
+
+def _classify_resolution(members: list[str], party_fn):
+    """
+    Classify a resolution as 'majority' or 'minority' by majority vote.
+    Returns None if the resolution is genuinely mixed or has only one member.
+    Uses an 80% threshold so a single misclassified member doesn't flip a result.
+    """
+    if len(members) <= 1:
+        return None
+    results = [party_fn(m) for m in members]
+    maj = results.count("majority")
+    total = len(results)
+    if maj / total >= 0.8:
+        return "majority"
+    if (total - maj) / total >= 0.8:
+        return "minority"
+    return None
+
+
+def _resolve_committee_ranks(rows_with_idx: list[tuple[int, dict]],
+                              party_fn) -> dict[int, int]:
+    """
+    Split rows into majority/minority and build a within-party roster for each side.
+
+    Per-member classification uses party_fn, but each resolution's classification
+    is validated by majority vote: if ≥80% of a resolution's members classify as
+    one side, all members of that resolution are assigned to that side.  This
+    prevents a single ambiguous last name (e.g., "Mrs. Murphy" when both a
+    Democrat and a Republican share the surname) from being placed in the wrong
+    party's roster.
+
+    Returns {global_row_index: within_party_rank}.
+    """
+    # Group rows by resolution to enable resolution-level classification
+    by_res: dict[tuple, list[tuple[int, dict]]] = defaultdict(list)
+    for idx, row in rows_with_idx:
+        key = (row["date"], row["resolution"])
+        by_res[key].append((idx, row))
+
+    maj_rows: list[tuple[int, dict]] = []
+    min_rows: list[tuple[int, dict]] = []
+    for res_rows in by_res.values():
+        members = [row["member"] for _, row in res_rows]
+        res_party = _classify_resolution(members, party_fn)
+        for idx, row in res_rows:
+            member_party = party_fn(row["member"])
+            effective_party = res_party if res_party else member_party
+            if effective_party == "majority":
+                maj_rows.append((idx, row))
+            else:
+                min_rows.append((idx, row))
+
+    overrides: dict[int, int] = {}
+    if maj_rows:
+        overrides.update(_build_within_party_roster(maj_rows))
+    if min_rows:
+        overrides.update(_build_within_party_roster(min_rows))
+    return overrides
+
+
+def load_elections(party_by_cong: dict):
     """
     Returns a lookup:
-        elec[(congress, lastname_variant, comm_norm)] = {resolution, resolution_date, role}
+        elec[(congress, lastname_variant, comm_norm)] = {resolution, resolution_date, role, rank}
 
-    Multiple variants per row (single last token, last two tokens, full stripped name).
-    When multiple resolutions match, the one with the earlier date is preferred.
+    Within-party seniority ranks are computed for every committee by combining all
+    election resolutions for the same party side in chronological order.  Mid-congress
+    additions that specify rank_after are inserted after their named anchor within the
+    same party's roster.
+
+    When multiple resolutions match the same member, the rank_after-based record is
+    preferred; otherwise the earlier-dated record wins.
     """
-    elec: dict[tuple, dict] = {}
+    all_rows: list[tuple[int, dict]] = []
     with open(ELECTIONS_CSV, newline="", encoding="utf-8") as f:
         for row in csv.DictReader(f):
             try:
-                cong = int(row["congress"])
+                int(row["congress"])
             except ValueError:
                 continue
-            comm = norm_comm(row["committee"])
-            rec = {
-                "resolution":      row["resolution"],
-                "resolution_date": row["date"],
-                "role":            row.get("role", ""),
-                "rank":            row.get("rank", ""),
-            }
-            for ln in lastname_variants(row["member"]):
-                key = (cong, ln, comm)
-                existing = elec.get(key)
-                if existing is None or row["date"] < existing["resolution_date"]:
-                    elec[key] = rec
+            all_rows.append((len(all_rows), row))
+
+    by_comm: dict[tuple, list[tuple[int, dict]]] = defaultdict(list)
+    for idx, row in all_rows:
+        cong = int(row["congress"])
+        comm = norm_comm(row["committee"])
+        by_comm[(cong, comm)].append((idx, row))
+
+    rank_overrides: dict[int, int] = {}
+    for (cong, comm), rows_with_idx in by_comm.items():
+        maj_party = MAJORITY_PARTY.get(cong, "")
+
+        def party_fn(member_name, cong=cong, maj_party=maj_party):
+            # Build variants: standard lastname_variants PLUS title-stripped name
+            # with "of State" preserved ("davis of california") for disambiguation.
+            variants = set(lastname_variants(member_name))
+            title_stripped = _TITLE_PREFIX.sub("", fold_diacritics(member_name).strip()).strip().rstrip(".,").lower()
+            variants.add(title_stripped)
+            # Try longest variant first so "davis of california" beats plain "davis"
+            for ln in sorted(variants, key=len, reverse=True):
+                party = party_by_cong.get((cong, ln), "")
+                if party:
+                    return "majority" if party == maj_party else "minority"
+            return "minority"
+
+        rank_overrides.update(_resolve_committee_ranks(rows_with_idx, party_fn))
+
+    elec: dict[tuple, dict] = {}
+    for idx, row in all_rows:
+        cong    = int(row["congress"])
+        comm    = norm_comm(row["committee"])
+        from_ra = bool(row["rank_after"])
+        rec = {
+            "resolution":      row["resolution"],
+            "resolution_date": row["date"],
+            "role":            row.get("role", ""),
+            "rank":            str(rank_overrides.get(idx, row["rank"])),
+            "from_rank_after": from_ra,
+        }
+        # Build lookup keys: standard lastname variants PLUS the title-stripped
+        # name with "of State" preserved (e.g., "johnson of georgia") so that
+        # same-last-name members on the same committee are disambiguated.
+        title_stripped = _TITLE_PREFIX.sub("", row["member"].strip()).strip().rstrip(".,").lower()
+        keys_to_store = set(lastname_variants(row["member"]))
+        keys_to_store.add(title_stripped)
+        for ln in sorted(keys_to_store, key=len, reverse=True):
+            key = (cong, ln, comm)
+            existing = elec.get(key)
+            prefer_new = (
+                existing is None
+                or (from_ra and not existing["from_rank_after"])
+                or (from_ra == existing["from_rank_after"] and row["date"] < existing["resolution_date"])
+            )
+            if prefer_new:
+                elec[key] = rec
     return elec
 
 
@@ -349,10 +580,10 @@ def build_spells(member_info, obs, elec, resign, comm_codes, pred_info):
     Aggregate snapshot observations into one spell per (bioguide, comcode, congress),
     then enrich with election and resignation data.
     """
-    # Group observations: (bioguide, comcode, congress) → list of (snap_date, rank, leadership)
+    # Group observations: (bioguide, comcode, congress) → list of (snap_date, rank, leadership, party)
     groups: dict[tuple, list] = defaultdict(list)
-    for snap_date, congress, bio, comcode, rank, leadership in obs:
-        groups[(bio, comcode, congress)].append((snap_date, rank, leadership))
+    for snap_date, congress, bio, comcode, rank, leadership, party in obs:
+        groups[(bio, comcode, congress)].append((snap_date, rank, leadership, party))
 
     spells = []
 
@@ -361,17 +592,29 @@ def build_spells(member_info, obs, elec, resign, comm_codes, pred_info):
 
         first_snap = entries[0][0]
         last_snap  = entries[-1][0]
-        # Use last snapshot's rank and leadership
-        _, last_rank, last_leadership = entries[-1]
+        # Use last snapshot's rank, leadership, and party
+        _, last_rank, last_leadership, last_party = entries[-1]
 
         m_info = member_info.get(bio, {})
-        lastname = m_info.get("lastname", "")
+        lastname    = m_info.get("lastname", "")
+        member_name = m_info.get("member_name", "")
         comm_full = comm_codes.get(comcode, comcode)
         comm_short = norm_comm(comm_full)
 
         # ── Election lookup ──────────────────────────────────────────────
+        # Use all name variants, longest first, so "david scott" beats plain "scott"
+        # and "johnson of georgia" beats plain "johnson" when members share a last name.
         elec_rec = None
-        for ln in lastname_variants(lastname):
+        state = m_info.get("state", "")
+        state_name = _STATE_NAMES.get(state, "")
+        elec_variants = sorted(
+            lastname_variants(member_name) | lastname_variants(lastname),
+            key=len, reverse=True,
+        )
+        # Prepend "lastname of statename" so it's tried before plain lastname
+        if state_name and lastname:
+            elec_variants = [f"{fold_diacritics(lastname)} of {state_name}"] + elec_variants
+        for ln in elec_variants:
             key = (congress, ln, comm_short)
             if key in elec:
                 elec_rec = elec[key]
@@ -430,25 +673,31 @@ def build_spells(member_info, obs, elec, resign, comm_codes, pred_info):
             if not end_date or vacate_str < end_date:
                 end_date = vacate_str
 
+        party = last_party or m_info.get("party", "")
+        maj   = MAJORITY_PARTY.get(congress, "")
+        party_designation = "majority" if (party and party == maj) else "minority"
+
         spells.append({
-            "congress":        congress,
-            "start_date":      start_date,
+            "congress":          congress,
+            "start_date":        start_date,
             "start_date_imputed": start_date_imputed,
-            "end_date":        end_date,
-            "departure_reason": departure_reason,
-            "bioguide_id":     bio,
-            "member_name":     m_info.get("member_name", ""),
-            "state":           m_info.get("state", ""),
-            "district":        m_info.get("district", ""),
-            "party":           m_info.get("party", ""),
-            "committee_name":  comm_full,
-            "committee_code":  comcode,
-            "committee_rank":  elec_rec["rank"] if elec_rec and elec_rec["rank"] else last_rank,
-            "role":            role,
-            "resolution":      resolution,
-            "resolution_date": resolution_date,
-            "cr_citation":     cr_citation,
-            "resignation_date": resignation_date,
+            "end_date":          end_date,
+            "departure_reason":  departure_reason,
+            "bioguide_id":       bio,
+            "member_name":       m_info.get("member_name", ""),
+            "state":             m_info.get("state", ""),
+            "district":          m_info.get("district", ""),
+            "party":             party,
+            "party_designation": party_designation,
+            "committee_name":    comm_full,
+            "committee_code":       comcode,
+            "resolution_rank":      elec_rec["rank"] if elec_rec and elec_rec["rank"] else "",
+            "roster_snapshot_rank": str(last_rank) if last_rank else "",
+            "role":                 role,
+            "resolution":        resolution,
+            "resolution_date":   resolution_date,
+            "cr_citation":       cr_citation,
+            "resignation_date":  resignation_date,
         })
 
     return spells
@@ -462,8 +711,13 @@ def main():
     print("Loading committee codes …")
     comm_codes = load_comm_codes()
 
+    print("Parsing snapshots …")
+    member_info, obs, party_by_cong = parse_snapshots()
+    print(f"  {len(member_info):,} unique members")
+    print(f"  {len(obs):,} (member, committee, snapshot) observations")
+
     print("Loading elections …")
-    elec = load_elections()
+    elec = load_elections(party_by_cong)
     print(f"  {len(elec):,} election index entries")
 
     print("Loading resignations …")
@@ -473,11 +727,6 @@ def main():
     print("Loading predecessor info …")
     pred_info = load_predecessor_info()
     print(f"  {len(pred_info):,} chamber departure records")
-
-    print("Parsing snapshots …")
-    member_info, obs = parse_snapshots()
-    print(f"  {len(member_info):,} unique members")
-    print(f"  {len(obs):,} (member, committee, snapshot) observations")
 
     print("Building spells …")
     spells = build_spells(member_info, obs, elec, resign, comm_codes, pred_info)
@@ -495,11 +744,20 @@ def main():
     with_resign  = sum(1 for s in spells if s["resignation_date"])
     missing_name = sum(1 for s in spells if not s["member_name"])
     reasons      = Counter(s["departure_reason"] for s in spells if s["departure_reason"])
+    both_ranks   = [(s["resolution_rank"], s["roster_snapshot_rank"])
+                    for s in spells
+                    if s["resolution_rank"] and s["roster_snapshot_rank"]]
+    rank_match   = sum(1 for r, s in both_ranks if str(r) == str(s))
+    rank_differ  = len(both_ranks) - rank_match
     print(f"\n  With election record   : {with_elec:,}")
     print(f"  With resignation       : {with_resign:,}")
     for reason, n in sorted(reasons.items()):
         print(f"  Departed ({reason:<10})  : {n:,}")
     print(f"  Missing member name    : {missing_name}")
+    print(f"\n  Rank comparison (spells with both sources):")
+    print(f"    Total                : {len(both_ranks):,}")
+    print(f"    Match                : {rank_match:,}")
+    print(f"    Differ               : {rank_differ:,}")
     print(f"\nOutput → {OUTPUT_CSV}")
 
 
