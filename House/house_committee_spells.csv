@@ -2499,7 +2499,7 @@ congress,start_date,start_date_imputed,end_date,departure_reason,bioguide_id,mem
 116,2019-01-24,False,2019-09-26,,T000480,William R. Timmons IV,SC,4,R,minority,Budget,BU00,12,12,,H.Res.74,2019-01-24,"Cong. Rec. Vol. 165, No. 156, p. H7999",2019-09-26
 116,2019-01-24,False,2021-01-03,,T000482,Lori Trahan,MA,3,D,majority,Education and the Workforce,ED00,29,27,,H.Res.73,2019-01-24,,
 116,2019-01-24,False,2021-01-03,,V000081,Nydia M. Velázquez,NY,7,D,majority,Natural Resources,II00,14,13,,H.Res.73,2019-01-24,,
-116,2019-01-24,False,2021-01-03,,V000131,Marc A. Veasey,TX,33,D,majority,Small Business,SM00,9,8,,H.Res.73,2019-01-24,,
+116,2019-01-24,False,2020-05-08,,V000131,Marc A. Veasey,TX,33,D,majority,Small Business,SM00,9,8,,H.Res.73,2019-01-24,"Cong. Rec. Vol. 166, No. 87, p. H1982",2020-05-08
 116,2019-01-24,False,2021-01-03,,V000133,Jefferson Van Drew,NJ,2,D,majority,Natural Resources,II00,12,12,,H.Res.73,2019-01-24,,
 116,2019-01-24,False,2021-01-03,,W000804,Robert J. Wittman,VA,1,R,minority,Natural Resources,II00,5,5,,H.Res.74,2019-01-24,,
 116,2019-01-24,False,2021-01-03,,W000806,Daniel Webster,FL,11,R,minority,Natural Resources,II00,13,12,,H.Res.74,2019-01-24,,
@@ -2620,7 +2620,7 @@ congress,start_date,start_date_imputed,end_date,departure_reason,bioguide_id,mem
 116,2019-11-19,False,2021-01-03,,B001308,Anthony Brindisi,NY,22,D,majority,Armed Services,AS00,32,31,,H.Res.712,2019-11-19,,
 116,2019-11-19,False,2021-01-03,,L000588,Conor Lamb,PA,17,D,majority,Transportation and Infrastructure,PW00,38,37,,H.Res.712,2019-11-19,,
 116,2019-12-07,True,2021-01-03,,J000289,Jim Jordan,OH,4,R,minority,Permanent Select Committee on Intelligence,IG00,,9,,,,,
-116,2019-12-19,False,2021-01-03,,H001080,Debra A. Haaland,NM,1,D,majority,Oversight and Government Reform,GO00,28,24,,H.Res.773,2019-12-19,,
+116,2019-12-19,False,2020-05-08,,H001080,Debra A. Haaland,NM,1,D,majority,Oversight and Government Reform,GO00,28,24,,H.Res.773,2019-12-19,"Cong. Rec. Vol. 166, No. 87, p. H1981-H1982",2020-05-08
 116,2019-12-19,False,2021-01-03,,P000618,Katie Porter,CA,47,D,majority,Oversight and Government Reform,GO00,27,24,,H.Res.773,2019-12-19,,
 116,2020-01-14,False,2021-01-03,,G000586,"Jesús G. ""Chuy"" García",IL,4,D,majority,Natural Resources,II00,26,25,,H.Res.793,2020-01-14,,
 116,2020-01-16,False,2021-01-03,,T000479,Van Taylor,TX,3,R,minority,Financial Services,BA00,28,26,,H.Res.801,2020-01-16,,
