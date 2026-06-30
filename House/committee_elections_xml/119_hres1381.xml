@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE resolution PUBLIC "-//US Congress//DTDs/res.dtd//EN" "res.dtd">
+<resolution dms-id="H129A0378C2F94628AAE5B393943E0D3D" public-private="public" resolution-stage="Engrossed-in-House" resolution-type="house-resolution" star-print="no-star-print" key="H" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HRES 1381 EH: Electing a Member to certain standing committees of the House of Representatives.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2026-06-24</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">IV</distribution-code> 
+<congress display="no">119th CONGRESS</congress> 
+<session display="no">2d Session</session> 
+<legis-num>H. RES. 1381</legis-num> 
+<current-chamber display="yes">In the House of Representatives, U. S.,</current-chamber> 
+<action> 
+<action-date date="20260624">June 24, 2026</action-date> 
+</action> 
+<legis-type display="yes">RESOLUTION</legis-type> 
+<official-title display="no">Electing a Member to certain standing committees of the House of Representatives.</official-title> 
+</form> 
+<resolution-body style="order-of-business" id="HE753DB4971874B84AC2FEC5CA700C094"> 
+<section display-inline="yes-display-inline" section-type="undesignated-section" id="H052688DBE069452FB11CD953A793294B"><text>That</text></section> <section id="H8E7D65355B2E4F4A97450DA228FDB978" display-inline="yes-display-inline" section-type="undesignated-section"><text display-inline="yes-display-inline"> the following named Member be, and is hereby, elected to the following standing committees of the House of Representatives:</text> 
+
+<committee-appointment-paragraph><header><committee-name committee-id="HFA00"> Committee on Foreign Affairs</committee-name>:</header><text> Mr. Gallagher. </text></committee-appointment-paragraph> <committee-appointment-paragraph><header><committee-name committee-id="HJU00"> Committee on Science, Space, and Technology</committee-name>:</header><text> Mr. Gallagher. </text></committee-appointment-paragraph>
+
+<committee-appointment-paragraph><header><committee-name committee-id="HGO00"> Committee on Transportation and Infrastructure</committee-name>: </header><text>Mr. Gallagher. </text></committee-appointment-paragraph> </section> </resolution-body> <attestation><attestation-group><attestor display="no">Kevin F. McCumber,</attestor><role>Clerk.</role></attestation-group></attestation> </resolution> 
+
