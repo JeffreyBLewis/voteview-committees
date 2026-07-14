@@ -368,12 +368,11 @@ congress,number,title,format,url,filename,status
 119,42,Electing Members to certain standing committees of the House of Representatives.,xml,https://www.congress.gov/119/bills/hres42/BILLS-119hres42eh.xml,119_hres42.xml,exists
 119,54,Electing Members to certain standing committees of the House of Representatives.,xml,https://www.congress.gov/119/bills/hres54/BILLS-119hres54eh.xml,119_hres54.xml,exists
 119,55,Electing Members to certain standing committees of the House of Representatives.,xml,https://www.congress.gov/119/bills/hres55/BILLS-119hres55eh.xml,119_hres55.xml,exists
-119,108,Electing a Member to a certain standing committee of the House of Representatives.,xml,https://www.congress.gov/119/bills/hres108/BILLS-119hres108eh.xml,119_hres108.xml,exists
 119,107,Electing a Member to a certain standing committee of the House of Representatives.,xml,https://www.congress.gov/119/bills/hres107/BILLS-119hres107eh.xml,119_hres107.xml,exists
 119,117,Electing a Member to a certain standing committee of the House of Representatives.,xml,https://www.congress.gov/119/bills/hres117/BILLS-119hres117eh.xml,119_hres117.xml,exists
-119,125,Electing a Member to a certain standing committee of the House of Representatives.,xml,https://www.congress.gov/119/bills/hres125/BILLS-119hres125eh.xml,119_hres125.xml,exists
+119,125,Electing Members to certain standing committees of the House of Representatives.,xml,https://www.congress.gov/119/bills/hres125/BILLS-119hres125eh.xml,119_hres125.xml,exists
 119,162,Electing Members to certain standing committees of the House of Representatives.,xml,https://www.congress.gov/119/bills/hres162/BILLS-119hres162eh.xml,119_hres162.xml,exists
-119,213,Electing Members to a certain standing committee of the House of Representatives.,xml,https://www.congress.gov/119/bills/hres213/BILLS-119hres213eh.xml,119_hres213.xml,exists
+119,213,Electing Members to certain standing committees of the House of Representatives.,xml,https://www.congress.gov/119/bills/hres213/BILLS-119hres213eh.xml,119_hres213.xml,exists
 119,214,Electing Members to certain standing committees of the House of Representatives.,xml,https://www.congress.gov/119/bills/hres214/BILLS-119hres214eh.xml,119_hres214.xml,exists
 119,283,Electing a Member to a certain standing committee of the House of Representatives.,xml,https://www.congress.gov/119/bills/hres283/BILLS-119hres283eh.xml,119_hres283.xml,exists
 119,300,Electing Members to certain standing committees of the House of Representatives.,xml,https://www.congress.gov/119/bills/hres300/BILLS-119hres300eh.xml,119_hres300.xml,exists
@@ -386,7 +385,7 @@ congress,number,title,format,url,filename,status
 119,954,Electing a Member to a certain standing committee of the House of Representatives.,xml,https://www.congress.gov/119/bills/hres954/BILLS-119hres954eh.xml,119_hres954.xml,exists
 119,979,Electing a Member to a certain standing committee of the House of Representatives.,xml,https://www.congress.gov/119/bills/hres979/BILLS-119hres979eh.xml,119_hres979.xml,exists
 119,1048,Electing a Member to a certain standing committee of the House of Representatives.,xml,https://www.congress.gov/119/bills/hres1048/BILLS-119hres1048eh.xml,119_hres1048.xml,exists
-119,1135,Electing Members to certain standing committees of the House of Representatives.,xml,https://www.congress.gov/119/bills/hres1135/BILLS-119hres1135eh.xml,119_hres1135.xml,exists
+119,1135,Electing Members to certain standing committees of the House of Representatives,xml,https://www.congress.gov/119/bills/hres1135/BILLS-119hres1135eh.xml,119_hres1135.xml,exists
 119,1176,Electing Members to certain standing committees of the House of Representatives.,xml,https://www.congress.gov/119/bills/hres1176/BILLS-119hres1176eh.xml,119_hres1176.xml,exists
 119,1202,Electing a Member to a certain standing committee of the House of Representatives.,xml,https://www.congress.gov/119/bills/hres1202/BILLS-119hres1202eh.xml,119_hres1202.xml,exists
 119,1201,Electing Members to certain standing committees of the House of Representatives.,xml,https://www.congress.gov/119/bills/hres1201/BILLS-119hres1201eh.xml,119_hres1201.xml,exists
