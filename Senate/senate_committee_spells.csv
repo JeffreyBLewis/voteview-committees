@@ -138,11 +138,6 @@ congress,start_date,start_date_imputed,end_date,departure_reason,bioguide_id,mem
 112,2011-02-03,False,2013-01-02,,F000457,Al Franken,MN,II,D,majority,Committee on Energy and Natural Resources,SSEG00,10,,Member,S.Res.42,2011-02-03
 112,2011-02-03,False,2013-01-02,,F000457,Al Franken,MN,II,D,majority,"Committee on Health, Education, Labor, and Pensions",SSHR00,9,,Member,S.Res.42,2011-02-03
 112,2011-02-03,False,2013-01-02,,F000457,Al Franken,MN,II,D,majority,Committee on the Judiciary,SSJU00,8,,Member,S.Res.42,2011-02-03
-112,2011-02-03,False,2013-01-02,,G000359,Lindsey Graham,SC,II,R,minority,Special Committee on Aging,SPAG00,9,,Member,S.Res.43,2011-02-03
-112,2011-02-03,False,2013-01-02,,G000359,Lindsey Graham,SC,II,R,minority,Committee on Appropriations,SSAP00,8,,Member,S.Res.43,2011-02-03
-112,2011-02-03,False,2013-01-02,,G000359,Lindsey Graham,SC,II,R,minority,Committee on Armed Services,SSAS00,10,,Member,S.Res.43,2011-02-03
-112,2011-02-03,False,2013-01-02,,G000359,Lindsey Graham,SC,II,R,minority,Committee on the Budget,SSBU00,7,,Member,S.Res.43,2011-02-03
-112,2011-02-03,False,2013-01-02,,G000359,Lindsey Graham,SC,II,R,minority,Committee on the Judiciary,SSJU00,5,,Member,S.Res.43,2011-02-03
 112,2011-02-03,False,2013-01-02,,G000386,Chuck Grassley,IA,III,R,minority,"Committee on Agriculture, Nutrition, and Forestry",SSAF00,8,,Member,S.Res.43,2011-02-03
 112,2011-02-03,False,2013-01-02,,G000386,Chuck Grassley,IA,III,R,minority,Committee on the Budget,SSBU00,2,,Member,S.Res.43,2011-02-03
 112,2011-02-03,False,2013-01-02,,G000386,Chuck Grassley,IA,III,R,minority,Committee on Finance,SSFI00,2,,Member,S.Res.43,2011-02-03
@@ -151,6 +146,11 @@ congress,start_date,start_date_imputed,end_date,departure_reason,bioguide_id,mem
 112,2011-02-03,False,2013-01-02,,G000555,Kirsten E. Gillibrand,NY,I,D,majority,"Committee on Agriculture, Nutrition, and Forestry",SSAF00,11,,Member,S.Res.42,2011-02-03
 112,2011-02-03,False,2013-01-02,,G000555,Kirsten E. Gillibrand,NY,I,D,majority,Committee on Armed Services,SSAS00,13,,Member,S.Res.42,2011-02-03
 112,2011-02-03,False,2013-01-02,,G000555,Kirsten E. Gillibrand,NY,I,D,majority,Committee on Environment and Public Works,SSEV00,10,,Member,S.Res.42,2011-02-03
+112,2011-02-03,False,2013-01-02,,G000608,Darline Graham,SC,II,R,minority,Special Committee on Aging,SPAG00,9,,Member,S.Res.43,2011-02-03
+112,2011-02-03,False,2013-01-02,,G000608,Darline Graham,SC,II,R,minority,Committee on Appropriations,SSAP00,8,,Member,S.Res.43,2011-02-03
+112,2011-02-03,False,2013-01-02,,G000608,Darline Graham,SC,II,R,minority,Committee on Armed Services,SSAS00,10,,Member,S.Res.43,2011-02-03
+112,2011-02-03,False,2013-01-02,,G000608,Darline Graham,SC,II,R,minority,Committee on the Budget,SSBU00,7,,Member,S.Res.43,2011-02-03
+112,2011-02-03,False,2013-01-02,,G000608,Darline Graham,SC,II,R,minority,Committee on the Judiciary,SSJU00,5,,Member,S.Res.43,2011-02-03
 112,2011-02-03,False,2013-01-02,,H000206,Tom Harkin,IA,II,D,majority,"Committee on Agriculture, Nutrition, and Forestry",SSAF00,3,,Member,S.Res.42,2011-02-03
 112,2011-02-03,False,2013-01-02,,H000206,Tom Harkin,IA,II,D,majority,Committee on Appropriations,SSAP00,3,,Member,S.Res.42,2011-02-03
 112,2011-02-03,False,2013-01-02,,H000206,Tom Harkin,IA,II,D,majority,"Committee on Health, Education, Labor, and Pensions",SSHR00,1,,Chairman,S.Res.42,2011-02-03
@@ -578,10 +578,6 @@ congress,start_date,start_date_imputed,end_date,departure_reason,bioguide_id,mem
 113,2013-01-24,False,2015-01-05,,F000463,Deb Fischer,NE,I,R,minority,"Committee on Commerce, Science, and Transportation",SSCM00,10,,Member,S.Res.18,2013-01-24
 113,2013-01-24,False,2015-01-05,,F000463,Deb Fischer,NE,I,R,minority,Committee on Environment and Public Works,SSEV00,8,,Member,S.Res.18,2013-01-24
 113,2013-01-24,False,2015-01-05,,F000463,Deb Fischer,NE,I,R,minority,Committee on Small Business and Entrepreneurship,SSSB00,6,,Member,S.Res.18,2013-01-24
-113,2013-01-24,False,2015-01-05,,G000359,Lindsey Graham,SC,II,R,minority,Committee on Appropriations,SSAP00,7,,Member,S.Res.18,2013-01-24
-113,2013-01-24,False,2015-01-05,,G000359,Lindsey Graham,SC,II,R,minority,Committee on Armed Services,SSAS00,8,,Member,S.Res.18,2013-01-24
-113,2013-01-24,False,2015-01-05,,G000359,Lindsey Graham,SC,II,R,minority,Committee on the Budget,SSBU00,5,,Member,S.Res.18,2013-01-24
-113,2013-01-24,False,2015-01-05,,G000359,Lindsey Graham,SC,II,R,minority,Committee on the Judiciary,SSJU00,4,,Member,S.Res.18,2013-01-24
 113,2013-01-24,False,2015-01-05,,G000386,Chuck Grassley,IA,III,R,minority,"Committee on Agriculture, Nutrition, and Forestry",SSAF00,8,,Member,S.Res.18,2013-01-24
 113,2013-01-24,False,2015-01-05,,G000386,Chuck Grassley,IA,III,R,minority,Committee on the Budget,SSBU00,2,,Member,S.Res.18,2013-01-24
 113,2013-01-24,False,2015-01-05,,G000386,Chuck Grassley,IA,III,R,minority,Committee on Finance,SSFI00,2,,Member,S.Res.18,2013-01-24
@@ -590,6 +586,10 @@ congress,start_date,start_date_imputed,end_date,departure_reason,bioguide_id,mem
 113,2013-01-24,False,2015-01-05,,G000555,Kirsten E. Gillibrand,NY,I,D,majority,"Committee on Agriculture, Nutrition, and Forestry",SSAF00,9,,Member,S.Res.17,2013-01-24
 113,2013-01-24,False,2015-01-05,,G000555,Kirsten E. Gillibrand,NY,I,D,majority,Committee on Armed Services,SSAS00,9,,Member,S.Res.17,2013-01-24
 113,2013-01-24,False,2015-01-05,,G000555,Kirsten E. Gillibrand,NY,I,D,majority,Committee on Environment and Public Works,SSEV00,10,,Member,S.Res.17,2013-01-24
+113,2013-01-24,False,2015-01-05,,G000608,Darline Graham,SC,II,R,minority,Committee on Appropriations,SSAP00,7,,Member,S.Res.18,2013-01-24
+113,2013-01-24,False,2015-01-05,,G000608,Darline Graham,SC,II,R,minority,Committee on Armed Services,SSAS00,8,,Member,S.Res.18,2013-01-24
+113,2013-01-24,False,2015-01-05,,G000608,Darline Graham,SC,II,R,minority,Committee on the Budget,SSBU00,5,,Member,S.Res.18,2013-01-24
+113,2013-01-24,False,2015-01-05,,G000608,Darline Graham,SC,II,R,minority,Committee on the Judiciary,SSJU00,4,,Member,S.Res.18,2013-01-24
 113,2013-01-24,False,2015-01-05,,H000206,Tom Harkin,IA,II,D,majority,"Committee on Agriculture, Nutrition, and Forestry",SSAF00,3,,Member,S.Res.17,2013-01-24
 113,2013-01-24,False,2015-01-05,,H000206,Tom Harkin,IA,II,D,majority,Committee on Appropriations,SSAP00,3,,Member,S.Res.17,2013-01-24
 113,2013-01-24,False,2015-01-05,,H000206,Tom Harkin,IA,II,D,majority,"Committee on Health, Education, Labor, and Pensions",SSHR00,1,,Chairman,S.Res.17,2013-01-24
@@ -974,10 +974,6 @@ congress,start_date,start_date_imputed,end_date,departure_reason,bioguide_id,mem
 114,2015-01-06,False,2017-01-02,,F000463,Deb Fischer,NE,I,R,majority,"Committee on Commerce, Science, and Transportation",SSCM00,7,,Member,S.Res.18,2015-01-06
 114,2015-01-06,False,2017-01-02,,F000463,Deb Fischer,NE,I,R,majority,Committee on Environment and Public Works,SSEV00,9,,Member,S.Res.18,2015-01-06
 114,2015-01-06,False,2017-01-02,,F000463,Deb Fischer,NE,I,R,majority,Committee on Small Business and Entrepreneurship,SSSB00,6,,Member,S.Res.18,2015-01-06
-114,2015-01-06,False,2017-01-02,,G000359,Lindsey Graham,SC,II,R,majority,Committee on Appropriations,SSAP00,7,,Member,S.Res.18,2015-01-06
-114,2015-01-06,False,2017-01-02,,G000359,Lindsey Graham,SC,II,R,majority,Committee on Armed Services,SSAS00,13,,Member,S.Res.18,2015-01-06
-114,2015-01-06,False,2017-01-02,,G000359,Lindsey Graham,SC,II,R,majority,Committee on the Budget,SSBU00,5,,Member,S.Res.18,2015-01-06
-114,2015-01-06,False,2017-01-02,,G000359,Lindsey Graham,SC,II,R,majority,Committee on the Judiciary,SSJU00,4,,Member,S.Res.18,2015-01-06
 114,2015-01-06,False,2017-01-02,,G000386,Chuck Grassley,IA,III,R,majority,"Committee on Agriculture, Nutrition, and Forestry",SSAF00,10,,Member,S.Res.18,2015-01-06
 114,2015-01-06,False,2017-01-02,,G000386,Chuck Grassley,IA,III,R,majority,Committee on the Budget,SSBU00,1,,Member,S.Res.18,2015-01-06
 114,2015-01-06,False,2017-01-02,,G000386,Chuck Grassley,IA,III,R,majority,Committee on Finance,SSFI00,2,,Member,S.Res.18,2015-01-06
@@ -986,6 +982,10 @@ congress,start_date,start_date_imputed,end_date,departure_reason,bioguide_id,mem
 114,2015-01-06,False,2017-01-02,,G000562,Cory Gardner,CO,II,R,majority,Committee on Energy and Natural Resources,SSEG00,8,,Member,S.Res.18,2015-01-06
 114,2015-01-06,False,2017-01-02,,G000562,Cory Gardner,CO,II,R,majority,Committee on Foreign Relations,SSFR00,6,,Member,S.Res.18,2015-01-06
 114,2015-01-06,False,2017-01-02,,G000562,Cory Gardner,CO,II,R,majority,Committee on Small Business and Entrepreneurship,SSSB00,7,,Member,S.Res.18,2015-01-06
+114,2015-01-06,False,2017-01-02,,G000608,Darline Graham,SC,II,R,majority,Committee on Appropriations,SSAP00,7,,Member,S.Res.18,2015-01-06
+114,2015-01-06,False,2017-01-02,,G000608,Darline Graham,SC,II,R,majority,Committee on Armed Services,SSAS00,13,,Member,S.Res.18,2015-01-06
+114,2015-01-06,False,2017-01-02,,G000608,Darline Graham,SC,II,R,majority,Committee on the Budget,SSBU00,5,,Member,S.Res.18,2015-01-06
+114,2015-01-06,False,2017-01-02,,G000608,Darline Graham,SC,II,R,majority,Committee on the Judiciary,SSJU00,4,,Member,S.Res.18,2015-01-06
 114,2015-01-06,False,2017-01-02,,H000338,Orrin G. Hatch,UT,I,R,majority,Special Committee on Aging,SPAG00,2,,Member,S.Res.18,2015-01-06
 114,2015-01-06,False,2017-01-02,,H000338,Orrin G. Hatch,UT,I,R,majority,Committee on Finance,SSFI00,1,,Chairman,S.Res.18,2015-01-06
 114,2015-01-06,False,2017-01-02,,H000338,Orrin G. Hatch,UT,I,R,majority,"Committee on Health, Education, Labor, and Pensions",SSHR00,10,,Member,S.Res.18,2015-01-06
@@ -1410,10 +1410,6 @@ congress,start_date,start_date_imputed,end_date,departure_reason,bioguide_id,mem
 115,2017-01-03,False,2019-01-02,,F000463,Deb Fischer,NE,I,R,majority,"Committee on Commerce, Science, and Transportation",SSCM00,5,,Member,S.Res.4,2017-01-03
 115,2017-01-03,False,2019-01-02,,F000463,Deb Fischer,NE,I,R,majority,Committee on Environment and Public Works,SSEV00,6,,Member,S.Res.4,2017-01-03
 115,2017-01-03,False,2019-01-02,,F000463,Deb Fischer,NE,I,R,majority,Committee on Rules and Administration,SSRA00,10,,Member,S.Res.4,2017-01-03
-115,2017-01-03,False,2019-01-02,,G000359,Lindsey Graham,SC,II,R,majority,Committee on Appropriations,SSAP00,7,,Member,S.Res.4,2017-01-03
-115,2017-01-03,False,2019-01-02,,G000359,Lindsey Graham,SC,II,R,majority,Committee on Armed Services,SSAS00,13,,Member,S.Res.4,2017-01-03
-115,2017-01-03,False,2019-01-02,,G000359,Lindsey Graham,SC,II,R,majority,Committee on the Budget,SSBU00,5,,Member,S.Res.4,2017-01-03
-115,2017-01-03,False,2019-01-02,,G000359,Lindsey Graham,SC,II,R,majority,Committee on the Judiciary,SSJU00,3,,Member,S.Res.4,2017-01-03
 115,2017-01-03,False,2019-01-02,,G000386,Chuck Grassley,IA,III,R,majority,"Committee on Agriculture, Nutrition, and Forestry",SSAF00,7,,Member,S.Res.4,2017-01-03
 115,2017-01-03,False,2019-01-02,,G000386,Chuck Grassley,IA,III,R,majority,Committee on the Budget,SSBU00,2,,Member,S.Res.4,2017-01-03
 115,2017-01-03,False,2019-01-02,,G000386,Chuck Grassley,IA,III,R,majority,Committee on Finance,SSFI00,2,,Member,S.Res.4,2017-01-03
@@ -1422,6 +1418,10 @@ congress,start_date,start_date_imputed,end_date,departure_reason,bioguide_id,mem
 115,2017-01-03,False,2019-01-02,,G000562,Cory Gardner,CO,II,R,majority,"Committee on Commerce, Science, and Transportation",SSCM00,13,,Member,S.Res.4,2017-01-03
 115,2017-01-03,False,2019-01-02,,G000562,Cory Gardner,CO,II,R,majority,Committee on Energy and Natural Resources,SSEG00,7,,Member,S.Res.4,2017-01-03
 115,2017-01-03,False,2019-01-02,,G000562,Cory Gardner,CO,II,R,majority,Committee on Foreign Relations,SSFR00,6,,Member,S.Res.4,2017-01-03
+115,2017-01-03,False,2019-01-02,,G000608,Darline Graham,SC,II,R,majority,Committee on Appropriations,SSAP00,7,,Member,S.Res.4,2017-01-03
+115,2017-01-03,False,2019-01-02,,G000608,Darline Graham,SC,II,R,majority,Committee on Armed Services,SSAS00,13,,Member,S.Res.4,2017-01-03
+115,2017-01-03,False,2019-01-02,,G000608,Darline Graham,SC,II,R,majority,Committee on the Budget,SSBU00,5,,Member,S.Res.4,2017-01-03
+115,2017-01-03,False,2019-01-02,,G000608,Darline Graham,SC,II,R,majority,Committee on the Judiciary,SSJU00,3,,Member,S.Res.4,2017-01-03
 115,2017-01-03,False,2019-01-02,,H000338,Orrin G. Hatch,UT,I,R,majority,Special Committee on Aging,SPAG00,2,,Member,S.Res.4,2017-01-03
 115,2017-01-03,False,2019-01-02,,H000338,Orrin G. Hatch,UT,I,R,majority,Committee on Finance,SSFI00,1,,Chairman,S.Res.4,2017-01-03
 115,2017-01-03,False,2019-01-02,,H000338,Orrin G. Hatch,UT,I,R,majority,"Committee on Health, Education, Labor, and Pensions",SSHR00,9,,Member,S.Res.4,2017-01-03
@@ -1955,10 +1955,6 @@ congress,start_date,start_date_imputed,end_date,departure_reason,bioguide_id,mem
 116,2019-01-09,False,2021-01-02,,F000463,Deb Fischer,NE,I,R,majority,"Committee on Agriculture, Nutrition, and Forestry",SSAF00,11,,Member,S.Res.12,2019-01-09
 116,2019-01-09,False,2021-01-02,,F000463,Deb Fischer,NE,I,R,majority,Committee on Armed Services,SSAS00,3,,Member,S.Res.12,2019-01-09
 116,2019-01-09,False,2021-01-02,,F000463,Deb Fischer,NE,I,R,majority,"Committee on Commerce, Science, and Transportation",SSCM00,5,,Member,S.Res.12,2019-01-09
-116,2019-01-09,False,2021-01-02,,G000359,Lindsey Graham,SC,II,R,majority,Committee on Appropriations,SSAP00,6,,Member,S.Res.12,2019-01-09
-116,2019-01-09,False,2021-01-02,,G000359,Lindsey Graham,SC,II,R,majority,Committee on the Budget,SSBU00,4,,Member,S.Res.12,2019-01-09
-116,2019-01-09,False,2021-01-02,,G000359,Lindsey Graham,SC,II,R,majority,Committee on Foreign Relations,SSFR00,6,,Member,S.Res.12,2019-01-09
-116,2019-01-09,False,2021-01-02,,G000359,Lindsey Graham,SC,II,R,majority,Committee on the Judiciary,SSJU00,1,,Chairman,S.Res.12,2019-01-09
 116,2019-01-09,False,2021-01-02,,G000386,Chuck Grassley,IA,III,R,majority,"Committee on Agriculture, Nutrition, and Forestry",SSAF00,9,,Member,S.Res.12,2019-01-09
 116,2019-01-09,False,2021-01-02,,G000386,Chuck Grassley,IA,III,R,majority,Committee on the Budget,SSBU00,2,,Member,S.Res.12,2019-01-09
 116,2019-01-09,False,2021-01-02,,G000386,Chuck Grassley,IA,III,R,majority,Committee on Finance,SSFI00,1,,Chairman,S.Res.12,2019-01-09
@@ -1970,6 +1966,10 @@ congress,start_date,start_date_imputed,end_date,departure_reason,bioguide_id,mem
 116,2019-01-09,False,2021-01-02,,G000562,Cory Gardner,CO,II,R,majority,"Committee on Commerce, Science, and Transportation",SSCM00,8,,Member,S.Res.12,2019-01-09
 116,2019-01-09,False,2021-01-02,,G000562,Cory Gardner,CO,II,R,majority,Committee on Energy and Natural Resources,SSEG00,7,,Member,S.Res.12,2019-01-09
 116,2019-01-09,False,2021-01-02,,G000562,Cory Gardner,CO,II,R,majority,Committee on Foreign Relations,SSFR00,4,,Member,S.Res.12,2019-01-09
+116,2019-01-09,False,2021-01-02,,G000608,Darline Graham,SC,II,R,majority,Committee on Appropriations,SSAP00,6,,Member,S.Res.12,2019-01-09
+116,2019-01-09,False,2021-01-02,,G000608,Darline Graham,SC,II,R,majority,Committee on the Budget,SSBU00,4,,Member,S.Res.12,2019-01-09
+116,2019-01-09,False,2021-01-02,,G000608,Darline Graham,SC,II,R,majority,Committee on Foreign Relations,SSFR00,6,,Member,S.Res.12,2019-01-09
+116,2019-01-09,False,2021-01-02,,G000608,Darline Graham,SC,II,R,majority,Committee on the Judiciary,SSJU00,1,,Chairman,S.Res.12,2019-01-09
 116,2019-01-09,False,2021-01-02,,H001042,Mazie K. Hirono,HI,I,D,minority,Committee on Armed Services,SSAS00,5,,Member,S.Res.13,2019-01-09
 116,2019-01-09,False,2021-01-02,,H001042,Mazie K. Hirono,HI,I,D,minority,Committee on Energy and Natural Resources,SSEG00,7,,Member,S.Res.13,2019-01-09
 116,2019-01-09,False,2021-01-02,,H001042,Mazie K. Hirono,HI,I,D,minority,Committee on the Judiciary,SSJU00,8,,Member,S.Res.13,2019-01-09
@@ -2384,10 +2384,6 @@ congress,start_date,start_date_imputed,end_date,departure_reason,bioguide_id,mem
 117,2021-02-03,False,2023-01-02,,F000463,Deb Fischer,NE,I,R,minority,Committee on Armed Services,SSAS00,3,,Member,S.Res.32,2021-02-03
 117,2021-02-03,False,2023-01-02,,F000463,Deb Fischer,NE,I,R,minority,"Committee on Commerce, Science, and Transportation",SSCM00,5,,Member,S.Res.32,2021-02-03
 117,2021-02-03,False,2023-01-02,,F000463,Deb Fischer,NE,I,R,minority,Committee on Rules and Administration,SSRA00,7,,Member,S.Res.32,2021-02-03
-117,2021-02-03,False,2023-01-02,,G000359,Lindsey Graham,SC,II,R,minority,Committee on Appropriations,SSAP00,5,,Member,S.Res.32,2021-02-03
-117,2021-02-03,False,2023-01-02,,G000359,Lindsey Graham,SC,II,R,minority,Committee on the Budget,SSBU00,1,,Ranking,S.Res.32,2021-02-03
-117,2021-02-03,False,2023-01-02,,G000359,Lindsey Graham,SC,II,R,minority,Committee on Environment and Public Works,SSEV00,10,,Member,S.Res.32,2021-02-03
-117,2021-02-03,False,2023-01-02,,G000359,Lindsey Graham,SC,II,R,minority,Committee on the Judiciary,SSJU00,2,,Member,S.Res.32,2021-02-03
 117,2021-02-03,False,2023-01-02,,G000386,Chuck Grassley,IA,III,R,minority,"Committee on Agriculture, Nutrition, and Forestry",SSAF00,8,,Member,S.Res.32,2021-02-03
 117,2021-02-03,False,2023-01-02,,G000386,Chuck Grassley,IA,III,R,minority,Committee on the Budget,SSBU00,2,,Member,S.Res.32,2021-02-03
 117,2021-02-03,False,2023-01-02,,G000386,Chuck Grassley,IA,III,R,minority,Committee on Finance,SSFI00,2,,Member,S.Res.32,2021-02-03
@@ -2396,6 +2392,10 @@ congress,start_date,start_date_imputed,end_date,departure_reason,bioguide_id,mem
 117,2021-02-03,False,2023-01-02,,G000555,Kirsten E. Gillibrand,NY,I,D,majority,Special Committee on Aging,SPAG00,2,,Member,S.Res.28,2021-02-03
 117,2021-02-03,False,2023-01-02,,G000555,Kirsten E. Gillibrand,NY,I,D,majority,"Committee on Agriculture, Nutrition, and Forestry",SSAF00,6,,Member,S.Res.28,2021-02-03
 117,2021-02-03,False,2023-01-02,,G000555,Kirsten E. Gillibrand,NY,I,D,majority,Committee on Armed Services,SSAS00,3,,Member,S.Res.28,2021-02-03
+117,2021-02-03,False,2023-01-02,,G000608,Darline Graham,SC,II,R,minority,Committee on Appropriations,SSAP00,5,,Member,S.Res.32,2021-02-03
+117,2021-02-03,False,2023-01-02,,G000608,Darline Graham,SC,II,R,minority,Committee on the Budget,SSBU00,1,,Ranking,S.Res.32,2021-02-03
+117,2021-02-03,False,2023-01-02,,G000608,Darline Graham,SC,II,R,minority,Committee on Environment and Public Works,SSEV00,10,,Member,S.Res.32,2021-02-03
+117,2021-02-03,False,2023-01-02,,G000608,Darline Graham,SC,II,R,minority,Committee on the Judiciary,SSJU00,2,,Member,S.Res.32,2021-02-03
 117,2021-02-03,False,2023-01-02,,H000273,John W. Hickenlooper,CO,II,D,majority,"Committee on Commerce, Science, and Transportation",SSCM00,13,,Member,S.Res.28,2021-02-03
 117,2021-02-03,False,2023-01-02,,H000273,John W. Hickenlooper,CO,II,D,majority,Committee on Energy and Natural Resources,SSEG00,10,,Member,S.Res.28,2021-02-03
 117,2021-02-03,False,2023-01-02,,H000273,John W. Hickenlooper,CO,II,D,majority,"Committee on Health, Education, Labor, and Pensions",SSHR00,11,,Member,S.Res.28,2021-02-03
@@ -2837,10 +2837,6 @@ congress,start_date,start_date_imputed,end_date,departure_reason,bioguide_id,mem
 118,2023-02-02,False,2025-01-02,,F000479,John Fetterman,PA,III,D,majority,"Committee on Agriculture, Nutrition, and Forestry",SSAF00,12,,Member,S.Res.30,2023-02-02
 118,2023-02-02,False,2025-01-02,,F000479,John Fetterman,PA,III,D,majority,"Committee on Banking, Housing, and Urban Affairs",SSBK00,12,,Member,S.Res.30,2023-02-02
 118,2023-02-02,False,2025-01-02,,F000479,John Fetterman,PA,III,D,majority,Committee on Environment and Public Works,SSEV00,10,,Member,S.Res.30,2023-02-02
-118,2023-02-02,False,2025-01-02,,G000359,Lindsey Graham,SC,II,R,majority,Committee on Appropriations,SSAP00,4,,Member,S.Res.31,2023-02-02
-118,2023-02-02,False,2025-01-02,,G000359,Lindsey Graham,SC,II,R,majority,Committee on the Budget,SSBU00,3,,Member,S.Res.31,2023-02-02
-118,2023-02-02,False,2025-01-02,,G000359,Lindsey Graham,SC,II,R,majority,Committee on Environment and Public Works,SSEV00,9,,Member,S.Res.31,2023-02-02
-118,2023-02-02,False,2025-01-02,,G000359,Lindsey Graham,SC,II,R,majority,Committee on the Judiciary,SSJU00,1,,Ranking,S.Res.31,2023-02-02
 118,2023-02-02,False,2025-01-02,,G000386,Chuck Grassley,IA,III,R,majority,"Committee on Agriculture, Nutrition, and Forestry",SSAF00,9,,Member,S.Res.31,2023-02-02
 118,2023-02-02,False,2025-01-02,,G000386,Chuck Grassley,IA,III,R,majority,Committee on the Budget,SSBU00,1,,Ranking,S.Res.31,2023-02-02
 118,2023-02-02,False,2025-01-02,,G000386,Chuck Grassley,IA,III,R,majority,Committee on Finance,SSFI00,2,,Member,S.Res.31,2023-02-02
@@ -2849,6 +2845,10 @@ congress,start_date,start_date_imputed,end_date,departure_reason,bioguide_id,mem
 118,2023-02-02,False,2025-01-02,,G000555,Kirsten E. Gillibrand,NY,I,D,majority,Special Committee on Aging,SPAG00,2,,Member,S.Res.30,2023-02-02
 118,2023-02-02,False,2025-01-02,,G000555,Kirsten E. Gillibrand,NY,I,D,majority,"Committee on Agriculture, Nutrition, and Forestry",SSAF00,5,,Member,S.Res.30,2023-02-02
 118,2023-02-02,False,2025-01-02,,G000555,Kirsten E. Gillibrand,NY,I,D,majority,Committee on Armed Services,SSAS00,3,,Member,S.Res.30,2023-02-02
+118,2023-02-02,False,2025-01-02,,G000608,Darline Graham,SC,II,R,majority,Committee on Appropriations,SSAP00,4,,Member,S.Res.31,2023-02-02
+118,2023-02-02,False,2025-01-02,,G000608,Darline Graham,SC,II,R,majority,Committee on the Budget,SSBU00,3,,Member,S.Res.31,2023-02-02
+118,2023-02-02,False,2025-01-02,,G000608,Darline Graham,SC,II,R,majority,Committee on Environment and Public Works,SSEV00,9,,Member,S.Res.31,2023-02-02
+118,2023-02-02,False,2025-01-02,,G000608,Darline Graham,SC,II,R,majority,Committee on the Judiciary,SSJU00,1,,Ranking,S.Res.31,2023-02-02
 118,2023-02-02,False,2025-01-02,,H000273,John W. Hickenlooper,CO,II,D,majority,"Committee on Commerce, Science, and Transportation",SSCM00,12,,Member,S.Res.30,2023-02-02
 118,2023-02-02,False,2025-01-02,,H000273,John W. Hickenlooper,CO,II,D,majority,Committee on Energy and Natural Resources,SSEG00,10,,Member,S.Res.30,2023-02-02
 118,2023-02-02,False,2025-01-02,,H000273,John W. Hickenlooper,CO,II,D,majority,"Committee on Health, Education, Labor, and Pensions",SSHR00,10,,Member,S.Res.30,2023-02-02
@@ -3285,10 +3285,6 @@ congress,start_date,start_date_imputed,end_date,departure_reason,bioguide_id,mem
 119,2025-01-07,False,,,F000479,John Fetterman,PA,III,D,minority,"Committee on Agriculture, Nutrition, and Forestry",SSAF00,9,,Member,S.Res.17,2025-01-07
 119,2025-01-07,False,,,F000479,John Fetterman,PA,III,D,minority,"Committee on Commerce, Science, and Transportation",SSCM00,11,,Member,S.Res.17,2025-01-07
 119,2025-01-07,False,,,F000479,John Fetterman,PA,III,D,minority,Committee on Homeland Security and Governmental Affairs,SSGA00,4,,Member,S.Res.17,2025-01-07
-119,2025-01-07,False,,,G000359,Lindsey Graham,SC,II,R,majority,Committee on Appropriations,SSAP00,4,,Member,S.Res.16,2025-01-07
-119,2025-01-07,False,,,G000359,Lindsey Graham,SC,II,R,majority,Committee on the Budget,SSBU00,1,,Chairman,S.Res.16,2025-01-07
-119,2025-01-07,False,,,G000359,Lindsey Graham,SC,II,R,majority,Committee on Environment and Public Works,SSEV00,5,,Member,S.Res.16,2025-01-07
-119,2025-01-07,False,,,G000359,Lindsey Graham,SC,II,R,majority,Committee on the Judiciary,SSJU00,2,,Member,S.Res.16,2025-01-07
 119,2025-01-07,False,,,G000386,Chuck Grassley,IA,III,R,majority,"Committee on Agriculture, Nutrition, and Forestry",SSAF00,8,,Member,S.Res.16,2025-01-07
 119,2025-01-07,False,,,G000386,Chuck Grassley,IA,III,R,majority,Committee on the Budget,SSBU00,2,,Member,S.Res.16,2025-01-07
 119,2025-01-07,False,,,G000386,Chuck Grassley,IA,III,R,majority,Committee on Finance,SSFI00,2,,Member,S.Res.16,2025-01-07
@@ -3301,6 +3297,10 @@ congress,start_date,start_date_imputed,end_date,departure_reason,bioguide_id,mem
 119,2025-01-07,False,,,G000574,Ruben Gallego,AZ,I,D,minority,Committee on Energy and Natural Resources,SSEG00,9,,Member,S.Res.17,2025-01-07
 119,2025-01-07,False,,,G000574,Ruben Gallego,AZ,I,D,minority,Committee on Homeland Security and Governmental Affairs,SSGA00,6,,Member,S.Res.17,2025-01-07
 119,2025-01-07,False,,,G000574,Ruben Gallego,AZ,I,D,minority,Committee on Veterans' Affairs,SSVA00,8,,Member,S.Res.17,2025-01-07
+119,2025-01-07,False,,,G000608,Darline Graham,SC,II,R,majority,Committee on Appropriations,SSAP00,4,,Member,S.Res.16,2025-01-07
+119,2025-01-07,False,,,G000608,Darline Graham,SC,II,R,majority,Committee on the Budget,SSBU00,1,,Chairman,S.Res.16,2025-01-07
+119,2025-01-07,False,,,G000608,Darline Graham,SC,II,R,majority,Committee on Environment and Public Works,SSEV00,5,,Member,S.Res.16,2025-01-07
+119,2025-01-07,False,,,G000608,Darline Graham,SC,II,R,majority,Committee on the Judiciary,SSJU00,2,,Member,S.Res.16,2025-01-07
 119,2025-01-07,False,,,H000273,John W. Hickenlooper,CO,II,D,minority,"Committee on Commerce, Science, and Transportation",SSCM00,10,,Member,S.Res.17,2025-01-07
 119,2025-01-07,False,,,H000273,John W. Hickenlooper,CO,II,D,minority,Committee on Energy and Natural Resources,SSEG00,7,,Member,S.Res.17,2025-01-07
 119,2025-01-07,False,,,H000273,John W. Hickenlooper,CO,II,D,minority,"Committee on Health, Education, Labor, and Pensions",SSHR00,7,,Member,S.Res.17,2025-01-07
