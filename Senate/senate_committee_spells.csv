@@ -2141,7 +2141,7 @@ congress,start_date,start_date_imputed,end_date,departure_reason,bioguide_id,mem
 116,2019-01-09,False,2021-01-02,,S001181,Jeanne Shaheen,NH,II,D,minority,Committee on Armed Services,SSAS00,2,,Member,S.Res.13,2019-01-09
 116,2019-01-09,False,2021-01-02,,S001181,Jeanne Shaheen,NH,II,D,minority,Committee on Foreign Relations,SSFR00,3,,Member,S.Res.13,2019-01-09
 116,2019-01-09,False,2021-01-02,,S001181,Jeanne Shaheen,NH,II,D,minority,Committee on Small Business and Entrepreneurship,SSSB00,3,,Member,S.Res.13,2019-01-09
-116,2019-01-09,False,2021-01-02,,S001184,Tim Scott,SC,III,R,majority,Special Committee on Aging,SPAG00,2,,Member,S.Res.12,2019-01-09
+116,2019-01-09,False,2021-01-02,,S001184,Tim Scott,SC,III,R,majority,Special Committee on Aging,SPAG00,8,,Member,S.Res.12,2019-01-09
 116,2019-01-09,False,2021-01-02,,S001184,Tim Scott,SC,III,R,majority,"Committee on Banking, Housing, and Urban Affairs",SSBK00,4,,Member,S.Res.12,2019-01-09
 116,2019-01-09,False,2021-01-02,,S001184,Tim Scott,SC,III,R,majority,Committee on Finance,SSFI00,11,,Member,S.Res.12,2019-01-09
 116,2019-01-09,False,2021-01-02,,S001184,Tim Scott,SC,III,R,majority,"Committee on Health, Education, Labor, and Pensions",SSHR00,10,,Member,S.Res.12,2019-01-09
@@ -2167,7 +2167,7 @@ congress,start_date,start_date_imputed,end_date,departure_reason,bioguide_id,mem
 116,2019-01-09,False,2021-01-02,,S001203,Tina Smith,MN,II,D,minority,"Committee on Agriculture, Nutrition, and Forestry",SSAF00,8,,Member,S.Res.13,2019-01-09
 116,2019-01-09,False,2021-01-02,,S001203,Tina Smith,MN,II,D,minority,"Committee on Banking, Housing, and Urban Affairs",SSBK00,11,,Member,S.Res.13,2019-01-09
 116,2019-01-09,False,2021-01-02,,S001203,Tina Smith,MN,II,D,minority,"Committee on Health, Education, Labor, and Pensions",SSHR00,9,,Member,S.Res.13,2019-01-09
-116,2019-01-09,False,2021-01-02,,S001217,Rick Scott,FL,I,R,majority,Special Committee on Aging,SPAG00,2,,Member,S.Res.12,2019-01-09
+116,2019-01-09,False,2021-01-02,,S001217,Rick Scott,FL,I,R,majority,Special Committee on Aging,SPAG00,8,,Member,S.Res.12,2019-01-09
 116,2019-01-09,False,2021-01-02,,S001217,Rick Scott,FL,I,R,majority,Committee on Armed Services,SSAS00,12,,Member,S.Res.12,2019-01-09
 116,2019-01-09,False,2021-01-02,,S001217,Rick Scott,FL,I,R,majority,Committee on the Budget,SSBU00,9,,Member,S.Res.12,2019-01-09
 116,2019-01-09,False,2021-01-02,,S001217,Rick Scott,FL,I,R,majority,"Committee on Commerce, Science, and Transportation",SSCM00,14,,Member,S.Res.12,2019-01-09
@@ -2591,7 +2591,7 @@ congress,start_date,start_date_imputed,end_date,departure_reason,bioguide_id,mem
 117,2021-02-03,False,2023-01-02,,S001181,Jeanne Shaheen,NH,II,D,majority,Committee on Armed Services,SSAS00,2,,Member,S.Res.28,2021-02-03
 117,2021-02-03,False,2023-01-02,,S001181,Jeanne Shaheen,NH,II,D,majority,Committee on Foreign Relations,SSFR00,3,,Member,S.Res.28,2021-02-03
 117,2021-02-03,False,2023-01-02,,S001181,Jeanne Shaheen,NH,II,D,majority,Committee on Small Business and Entrepreneurship,SSSB00,3,,Member,S.Res.28,2021-02-03
-117,2021-02-03,False,2023-01-02,,S001184,Tim Scott,SC,III,R,minority,Special Committee on Aging,SPAG00,1,,Ranking,S.Res.32,2021-02-03
+117,2021-02-03,False,2023-01-02,,S001184,Tim Scott,SC,III,R,minority,Special Committee on Aging,SPAG00,6,,Ranking,S.Res.32,2021-02-03
 117,2021-02-03,False,2023-01-02,,S001184,Tim Scott,SC,III,R,minority,"Committee on Banking, Housing, and Urban Affairs",SSBK00,4,,Member,S.Res.32,2021-02-03
 117,2021-02-03,False,2023-01-02,,S001184,Tim Scott,SC,III,R,minority,Committee on Finance,SSFI00,8,,Member,S.Res.32,2021-02-03
 117,2021-02-03,False,2023-01-02,,S001184,Tim Scott,SC,III,R,minority,"Committee on Health, Education, Labor, and Pensions",SSHR00,8,,Member,S.Res.32,2021-02-03
@@ -2617,7 +2617,7 @@ congress,start_date,start_date_imputed,end_date,departure_reason,bioguide_id,mem
 117,2021-02-03,False,2023-01-02,,S001203,Tina Smith,MN,II,D,majority,"Committee on Agriculture, Nutrition, and Forestry",SSAF00,7,,Member,S.Res.28,2021-02-03
 117,2021-02-03,False,2023-01-02,,S001203,Tina Smith,MN,II,D,majority,"Committee on Banking, Housing, and Urban Affairs",SSBK00,9,,Member,S.Res.28,2021-02-03
 117,2021-02-03,False,2023-01-02,,S001203,Tina Smith,MN,II,D,majority,"Committee on Health, Education, Labor, and Pensions",SSHR00,8,,Member,S.Res.28,2021-02-03
-117,2021-02-03,False,2023-01-02,,S001217,Rick Scott,FL,I,R,minority,Special Committee on Aging,SPAG00,1,,Member,S.Res.32,2021-02-03
+117,2021-02-03,False,2023-01-02,,S001217,Rick Scott,FL,I,R,minority,Special Committee on Aging,SPAG00,6,,Member,S.Res.32,2021-02-03
 117,2021-02-03,False,2023-01-02,,S001217,Rick Scott,FL,I,R,minority,Committee on Armed Services,SSAS00,10,,Member,S.Res.32,2021-02-03
 117,2021-02-03,False,2023-01-02,,S001217,Rick Scott,FL,I,R,minority,Committee on the Budget,SSBU00,7,,Member,S.Res.32,2021-02-03
 117,2021-02-03,False,2023-01-02,,S001217,Rick Scott,FL,I,R,minority,"Committee on Commerce, Science, and Transportation",SSCM00,13,,Member,S.Res.32,2021-02-03
@@ -3030,7 +3030,7 @@ congress,start_date,start_date_imputed,end_date,departure_reason,bioguide_id,mem
 118,2023-02-02,False,2025-01-02,,S001181,Jeanne Shaheen,NH,II,D,majority,Committee on Armed Services,SSAS00,2,,Member,S.Res.30,2023-02-02
 118,2023-02-02,False,2025-01-02,,S001181,Jeanne Shaheen,NH,II,D,majority,Committee on Foreign Relations,SSFR00,3,,Member,S.Res.30,2023-02-02
 118,2023-02-02,False,2025-01-02,,S001181,Jeanne Shaheen,NH,II,D,majority,Committee on Small Business and Entrepreneurship,SSSB00,3,,Chairman,S.Res.30,2023-02-02
-118,2023-02-02,False,2025-01-02,,S001184,Tim Scott,SC,III,R,majority,Special Committee on Aging,SPAG00,2,,Member,S.Res.31,2023-02-02
+118,2023-02-02,False,2025-01-02,,S001184,Tim Scott,SC,III,R,majority,Special Committee on Aging,SPAG00,4,,Member,S.Res.31,2023-02-02
 118,2023-02-02,False,2025-01-02,,S001184,Tim Scott,SC,III,R,majority,"Committee on Banking, Housing, and Urban Affairs",SSBK00,1,,Ranking,S.Res.31,2023-02-02
 118,2023-02-02,False,2025-01-02,,S001184,Tim Scott,SC,III,R,majority,Committee on Finance,SSFI00,5,,Member,S.Res.31,2023-02-02
 118,2023-02-02,False,2025-01-02,,S001184,Tim Scott,SC,III,R,majority,Committee on Foreign Relations,SSFR00,10,,Member,S.Res.31,2023-02-02
@@ -3052,7 +3052,7 @@ congress,start_date,start_date_imputed,end_date,departure_reason,bioguide_id,mem
 118,2023-02-02,False,2025-01-02,,S001203,Tina Smith,MN,II,D,majority,"Committee on Agriculture, Nutrition, and Forestry",SSAF00,6,,Member,S.Res.30,2023-02-02
 118,2023-02-02,False,2025-01-02,,S001203,Tina Smith,MN,II,D,majority,"Committee on Banking, Housing, and Urban Affairs",SSBK00,9,,Member,S.Res.30,2023-02-02
 118,2023-02-02,False,2025-01-02,,S001203,Tina Smith,MN,II,D,majority,"Committee on Health, Education, Labor, and Pensions",SSHR00,8,,Member,S.Res.30,2023-02-02
-118,2023-02-02,False,2025-01-02,,S001217,Rick Scott,FL,I,R,majority,Special Committee on Aging,SPAG00,2,,Member,S.Res.31,2023-02-02
+118,2023-02-02,False,2025-01-02,,S001217,Rick Scott,FL,I,R,majority,Special Committee on Aging,SPAG00,4,,Member,S.Res.31,2023-02-02
 118,2023-02-02,False,2025-01-02,,S001217,Rick Scott,FL,I,R,majority,Committee on Armed Services,SSAS00,8,,Member,S.Res.31,2023-02-02
 118,2023-02-02,False,2025-01-02,,S001217,Rick Scott,FL,I,R,majority,Committee on the Budget,SSBU00,9,,Member,S.Res.31,2023-02-02
 118,2023-02-02,False,2025-01-02,,S001217,Rick Scott,FL,I,R,majority,Committee on Homeland Security and Governmental Affairs,SSGA00,5,,Member,S.Res.31,2023-02-02
@@ -3298,7 +3298,7 @@ congress,start_date,start_date_imputed,end_date,departure_reason,bioguide_id,mem
 119,2025-01-07,False,,,G000574,Ruben Gallego,AZ,I,D,minority,Committee on Homeland Security and Governmental Affairs,SSGA00,6,,Member,S.Res.17,2025-01-07
 119,2025-01-07,False,,,G000574,Ruben Gallego,AZ,I,D,minority,Committee on Veterans' Affairs,SSVA00,8,,Member,S.Res.17,2025-01-07
 119,2025-01-07,False,,,G000608,Darline Graham,SC,II,R,majority,Committee on Appropriations,SSAP00,4,,Member,S.Res.16,2025-01-07
-119,2025-01-07,False,,,G000608,Darline Graham,SC,II,R,majority,Committee on the Budget,SSBU00,1,,Chairman,S.Res.16,2025-01-07
+119,2025-01-07,False,,,G000608,Darline Graham,SC,II,R,majority,Committee on the Budget,SSBU00,1,,Member,S.Res.16,2025-01-07
 119,2025-01-07,False,,,G000608,Darline Graham,SC,II,R,majority,Committee on Environment and Public Works,SSEV00,5,,Member,S.Res.16,2025-01-07
 119,2025-01-07,False,,,G000608,Darline Graham,SC,II,R,majority,Committee on the Judiciary,SSJU00,2,,Member,S.Res.16,2025-01-07
 119,2025-01-07,False,,,H000273,John W. Hickenlooper,CO,II,D,minority,"Committee on Commerce, Science, and Transportation",SSCM00,10,,Member,S.Res.17,2025-01-07
@@ -3336,7 +3336,7 @@ congress,start_date,start_date_imputed,end_date,departure_reason,bioguide_id,mem
 119,2025-01-07,False,,,H001089,Josh Hawley,MO,I,R,majority,Committee on the Judiciary,SSJU00,6,,Member,S.Res.16,2025-01-07
 119,2025-01-07,False,,,H001089,Josh Hawley,MO,I,R,majority,Committee on Small Business and Entrepreneurship,SSSB00,6,,Member,S.Res.16,2025-01-07
 119,2025-01-07,False,,,J000293,Ron Johnson,WI,III,R,majority,Special Committee on Aging,SPAG00,4,,Member,S.Res.16,2025-01-07
-119,2025-01-07,False,,,J000293,Ron Johnson,WI,III,R,majority,Committee on the Budget,SSBU00,4,,Member,S.Res.16,2025-01-07
+119,2025-01-07,False,,,J000293,Ron Johnson,WI,III,R,majority,Committee on the Budget,SSBU00,4,,Chairman,S.Res.16,2025-01-07
 119,2025-01-07,False,,,J000293,Ron Johnson,WI,III,R,majority,Committee on Finance,SSFI00,11,,Member,S.Res.16,2025-01-07
 119,2025-01-07,False,,,J000293,Ron Johnson,WI,III,R,majority,Committee on Homeland Security and Governmental Affairs,SSGA00,2,,Member,S.Res.16,2025-01-07
 119,2025-01-07,False,,,K000367,Amy Klobuchar,MN,I,D,minority,Joint Economic Committee,JSEC00,2,,Member,S.Res.17,2025-01-07
