@@ -41,8 +41,8 @@ Senate spells also include `senator_class` and `position`. House spells also inc
 
 | Chamber | Last update attempted | Last roster change |
 |---|---|---|
-| House | <!-- house-last-attempted -->2026-09-25<!-- /house-last-attempted --> | <!-- house-roster-date -->2026-09-04<!-- /house-roster-date --> |
-| Senate | <!-- senate-last-attempted -->2026-09-25<!-- /senate-last-attempted --> | <!-- senate-roster-date -->2026-09-19<!-- /senate-roster-date --> |
+| House | <!-- house-last-attempted -->2026-09-26<!-- /house-last-attempted --> | <!-- house-roster-date -->2026-09-04<!-- /house-roster-date --> |
+| Senate | <!-- senate-last-attempted -->2026-09-26<!-- /senate-last-attempted --> | <!-- senate-roster-date -->2026-09-19<!-- /senate-roster-date --> |
 
 ## Data sources
 
